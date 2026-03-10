@@ -1,0 +1,42 @@
+[
+  {
+    "id": "conhecimentos-especificos",
+    "nome": "Conhecimentos Específicos",
+    "materiaId": "conhecimentos-especificos"
+  },
+  {
+    "id": "historia",
+    "nome": "História",
+    "materiaId": "historia"
+  },
+  {
+    "id": "legislacao",
+    "nome": "Legislação",
+    "materiaId": "legislacao"
+  },
+  {
+    "id": "interpretacao-de-texto",
+    "nome": "Interpretação De Texto",
+    "materiaId": "lingua-portuguesa"
+  },
+  {
+    "id": "lingua-portuguesa",
+    "nome": "Língua Portuguesa",
+    "materiaId": "lingua-portuguesa"
+  },
+  {
+    "id": "matematica",
+    "nome": "Matemática",
+    "materiaId": "matematica"
+  },
+  {
+    "id": "porcentagem",
+    "nome": "Porcentagem",
+    "materiaId": "matematica"
+  },
+  {
+    "id": "crase",
+    "nome": "Crase",
+    "materiaId": "portugues"
+  }
+]

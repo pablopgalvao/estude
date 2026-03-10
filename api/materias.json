@@ -1,0 +1,26 @@
+[
+  {
+    "id": "conhecimentos-especificos",
+    "nome": "Conhecimentos Específicos"
+  },
+  {
+    "id": "historia",
+    "nome": "História"
+  },
+  {
+    "id": "legislacao",
+    "nome": "Legislação"
+  },
+  {
+    "id": "lingua-portuguesa",
+    "nome": "Língua Portuguesa"
+  },
+  {
+    "id": "matematica",
+    "nome": "Matemática"
+  },
+  {
+    "id": "portugues",
+    "nome": "Portugues"
+  }
+]

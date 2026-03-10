@@ -1,0 +1,44 @@
+{
+  "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-001",
+  "title": "O autor do texto discute a",
+  "images": [],
+  "date": "2026-03-10",
+  "dificuldade": "media",
+  "materia": "Língua Portuguesa",
+  "submateria": "Interpretação De Texto",
+  "categorias": [
+    "Língua Portuguesa",
+    "Interpretação De Texto"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "disputa acirrada pela hegemonia no desenvolvimen- to científico, que já compromete o crescimento sus- tentável dos Estados Unidos."
+    },
+    {
+      "id": "B",
+      "texto": "decadência econômica e científica dos Estados Uni- dos, cada vez menos relevantes comparados a países como Rússia e China."
+    },
+    {
+      "id": "C",
+      "texto": "evolução da China no campo da produção científica, que ultrapassou as publicações norte-americanas em números absolutos."
+    },
+    {
+      "id": "D",
+      "texto": "produção científica chinesa, que parece caminhar para o mesmo destino da antiga URSS, em vista de decisões políticas equivocadas."
+    },
+    {
+      "id": "E",
+      "texto": "maneira como mudanças profundas no regime políti- co tiveram papel preponderante para o atual avanço científico na China."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "VUNESP",
+  "prova": "concurso público 2022",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>O autor do texto discute a</p>\n",
+  "url": "http://localhost:4000/2026/03/10/questoes/concurso-publico-2022-lingua-portuguesa-q001/"
+}

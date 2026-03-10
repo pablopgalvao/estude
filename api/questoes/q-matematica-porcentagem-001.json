@@ -1,0 +1,40 @@
+{
+  "id": "q-matematica-porcentagem-001",
+  "title": "Cálculo básico de porcentagem",
+  "images": [],
+  "date": "2026-03-10",
+  "dificuldade": "facil",
+  "materia": "Matematica",
+  "submateria": "Porcentagem",
+  "categorias": [
+    "Matematica",
+    "Porcentagem"
+  ],
+  "tags": [],
+  "questao": "Um produto de R$ 200 recebeu desconto de 10%. Qual o valor final?",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "R$ 180"
+    },
+    {
+      "id": "B",
+      "texto": "R$ 185"
+    },
+    {
+      "id": "C",
+      "texto": "R$ 190"
+    },
+    {
+      "id": "D",
+      "texto": "R$ 195"
+    }
+  ],
+  "gabarito": "A",
+  "bancaExaminadora": "VUNESP",
+  "prova": "Guarda Municipal 2021",
+  "explicacao": "Dez por cento de 200 é 20. Então 200 menos 20 é igual a 180.",
+  "comentarios": [],
+  "conteudo": "<p>Questão simples de porcentagem.</p>\n",
+  "url": "http://localhost:4000/2026/03/10/questoes/q-matematica-porcentagem-001/"
+}

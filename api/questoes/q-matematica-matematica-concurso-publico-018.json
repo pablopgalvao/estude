@@ -1,0 +1,44 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-018",
+  "title": "Uma determinada máquina produz 8 m de fio em 3 minu- tos. O tempo necessário para essa",
+  "images": [],
+  "date": "2026-03-10",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "4 horas e 5 minutos."
+    },
+    {
+      "id": "B",
+      "texto": "3 horas e 40 minutos."
+    },
+    {
+      "id": "C",
+      "texto": "3 horas e 25 minutos."
+    },
+    {
+      "id": "D",
+      "texto": "3 horas e 15 minutos."
+    },
+    {
+      "id": "E",
+      "texto": "2 horas e 50 minutos."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "VUNESP",
+  "prova": "concurso público 2022",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Uma determinada máquina produz 8 m de fio em 3 minu- tos. O tempo necessário para essa máquina produzir 520 m d­esse fio será de</p>\n",
+  "url": "http://localhost:4000/2026/03/10/questoes/concurso-publico-2022-matematica-q018/"
+}

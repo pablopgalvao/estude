@@ -1,0 +1,44 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-022",
+  "title": "Uma pessoa comprou garrafas de suco e de refrigerante, no total de 15 unidades. Se o",
+  "images": [],
+  "date": "2026-03-10",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "1 unidade."
+    },
+    {
+      "id": "B",
+      "texto": "2 unidades."
+    },
+    {
+      "id": "C",
+      "texto": "3 unidades."
+    },
+    {
+      "id": "D",
+      "texto": "4 unidades."
+    },
+    {
+      "id": "E",
+      "texto": "5 unidades. 8 PMOS2108/001-GuardaCivilMunicipal-3aClasse Confidencial até o momento da aplicação."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "VUNESP",
+  "prova": "concurso público 2022",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Uma pessoa comprou garrafas de suco e de refrigerante, no total de 15 unidades. Se o número de garrafas de suco foi igual a do número de garrafas de refrigerante, então o número de garrafas de refrigerante superou o número de garrafas de suco em</p>\n",
+  "url": "http://localhost:4000/2026/03/10/questoes/concurso-publico-2022-matematica-q022/"
+}

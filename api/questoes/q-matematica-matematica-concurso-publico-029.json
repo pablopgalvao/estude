@@ -1,0 +1,44 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-029",
+  "title": "Considere o seguinte caso hipotético: Matífanis induz Kii- temis, criança de 11 anos, a",
+  "images": [],
+  "date": "2026-03-10",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "responderá pelo crime de lesão corporal dolosa com resultado morte."
+    },
+    {
+      "id": "B",
+      "texto": "responderá pelo crime de homicídio."
+    },
+    {
+      "id": "C",
+      "texto": "responderá pelo crime de suicídio."
+    },
+    {
+      "id": "D",
+      "texto": "responderá pelo crime de lesão corporal culposa com resultado morte."
+    },
+    {
+      "id": "E",
+      "texto": "não responderá por qualquer crime."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "VUNESP",
+  "prova": "concurso público 2022",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Considere o seguinte caso hipotético: Matífanis induz Kii- temis, criança de 11 anos, a se automutilar. Kiitemis se automutila tão gravemente que vem a falecer em razão das inúmeras lesões perpetradas. Diante desta situação e nos termos do Código Penal, é correto afirmar que Matífanis ao induzir Kiitemis, resul- tando em sua morte,</p>\n",
+  "url": "http://localhost:4000/2026/03/10/questoes/concurso-publico-2022-matematica-q029/"
+}
