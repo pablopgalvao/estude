@@ -2,17 +2,6 @@
   "total": 4,
   "items": [
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-027",
-      "title": "Nos termos da Constituição Federal, incumbe a apuração das infrações penais contra a",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-026",
       "title": "Nos termos da Constituição Federal, assinale a alterna- tiva correta.",
       "materia": "Conhecimentos Específicos",
@@ -24,8 +13,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-034",
-      "title": "Nos termos da Lei no 8.069, de 13 de julho de 1990 (Esta- tuto da Criança e do",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-027",
+      "title": "Nos termos da Constituição Federal, incumbe a apuração das infrações penais contra a",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -37,6 +26,17 @@
     {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-033",
       "title": "Nos termos da Lei no 8.069, de 13 de julho de 1990 (Es- tatuto Da Criança e Do",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-034",
+      "title": "Nos termos da Lei no 8.069, de 13 de julho de 1990 (Esta- tuto da Criança e do",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
