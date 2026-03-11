@@ -1,31 +1,9 @@
 {
-  "total": 14,
+  "total": 21,
   "items": [
     {
-      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-027",
-      "title": "Nos últimos meses, o Presidente Lula tem criticado severamente o patamar da taxa básica",
-      "materia": "Atualidades",
-      "submateria": "Atualidades",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-033",
-      "title": "Sobre a administração pública brasileira e a participação dos diversos segmentos da",
-      "materia": "Atualidades",
-      "submateria": "Atualidades",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-030",
-      "title": "No Brasil, assim como o Ministério da Saúde, o Ministério da Educação é bastante",
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-028",
+      "title": "“Petrobrás terá preços mais baixos”, disse Jean Paul Prates, presidente da empresa",
       "materia": "Atualidades",
       "submateria": "Atualidades",
       "dificuldade": "media",
@@ -57,8 +35,107 @@
       "questao": ""
     },
     {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-032",
+      "title": "Tramita no Congresso Nacional, já em fase de aprovação um projeto que institui a Lei",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-030",
+      "title": "No Brasil, assim como o Ministério da Saúde, o Ministério da Educação é bastante",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-033",
+      "title": "Sobre a administração pública brasileira e a participação dos diversos segmentos da",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-027",
+      "title": "Nos últimos meses, o Presidente Lula tem criticado severamente o patamar da taxa básica",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-027",
+      "title": "Nos últimos meses, o Presidente Lula tem criticado severamente o patamar da taxa básica",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
       "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-028",
       "title": "“Petrobrás terá preços mais baixos”, disse Jean Paul Prates, presidente da empresa",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-030",
+      "title": "No Brasil, assim como o Ministério da Saúde, o Ministério da Educação é bastante",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-029",
+      "title": "“É uma sublinhagem da variante XBB, que, por sua vez, é uma ‘descendente’ da ômicron. Mas",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-031",
+      "title": "Aposta aqui, aposta ali. Patrocínio aqui, dinheiro ali. E o futebol virou uma grande",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-031",
+      "title": "Aposta aqui, aposta ali. Patrocínio aqui, dinheiro ali. E o futebol virou uma grande",
       "materia": "Atualidades",
       "submateria": "Atualidades",
       "dificuldade": "media",
@@ -90,30 +167,8 @@
       "questao": ""
     },
     {
-      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-031",
-      "title": "Aposta aqui, aposta ali. Patrocínio aqui, dinheiro ali. E o futebol virou uma grande",
-      "materia": "Atualidades",
-      "submateria": "Atualidades",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-038",
-      "title": "Do ponto de vista histórico, o nome da cidade de Fortaleza faz referência:",
-      "materia": "Atualidades",
-      "submateria": "Atualidades",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-034",
-      "title": "A cidade de Fortaleza conta com diversas regiões administrativas devidamente espalhadas",
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-033",
+      "title": "Sobre a administração pública brasileira e a participação dos diversos segmentos da",
       "materia": "Atualidades",
       "submateria": "Atualidades",
       "dificuldade": "media",
@@ -134,8 +189,8 @@
       "questao": ""
     },
     {
-      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-039",
-      "title": "De acordo com dados divulgados recentemente pelo INMET, Fortaleza registrou 49 dias com",
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-037",
+      "title": "São pontos turísticos da cidade de Fortaleza:",
       "materia": "Atualidades",
       "submateria": "Atualidades",
       "dificuldade": "media",
@@ -145,8 +200,30 @@
       "questao": ""
     },
     {
-      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-037",
-      "title": "São pontos turísticos da cidade de Fortaleza:",
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-034",
+      "title": "A cidade de Fortaleza conta com diversas regiões administrativas devidamente espalhadas",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-038",
+      "title": "Do ponto de vista histórico, o nome da cidade de Fortaleza faz referência:",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-039",
+      "title": "De acordo com dados divulgados recentemente pelo INMET, Fortaleza registrou 49 dias com",
       "materia": "Atualidades",
       "submateria": "Atualidades",
       "dificuldade": "media",

@@ -1,6 +1,28 @@
 {
-  "total": 10,
+  "total": 20,
   "items": [
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-061",
+      "title": "Acerca da causalidade, à luz do Código Penal, é correto afirmar que:",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-063",
+      "title": "Sobre a tentativa, a desistência voluntária e o arrependimento eficaz, é correto afirmar",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
     {
       "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-062",
       "title": "Consideradas as disposições do Código Penal, é correto afirmar que:",
@@ -24,17 +46,6 @@
       "questao": ""
     },
     {
-      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-061",
-      "title": "Acerca da causalidade, à luz do Código Penal, é correto afirmar que:",
-      "materia": "Direito Penal",
-      "submateria": "Direito Penal",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
       "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-065",
       "title": "Com base no Código Penal, é correto afirmar que:",
       "materia": "Direito Penal",
@@ -46,8 +57,8 @@
       "questao": ""
     },
     {
-      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-063",
-      "title": "Sobre a tentativa, a desistência voluntária e o arrependimento eficaz, é correto afirmar",
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-066",
+      "title": "Ana, ex-mulher de Marcos, passou a residir na companhia de Pedro, seu novo companheiro.",
       "materia": "Direito Penal",
       "submateria": "Direito Penal",
       "dificuldade": "media",
@@ -68,17 +79,6 @@
       "questao": ""
     },
     {
-      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-067",
-      "title": "Carlos, tomado por um ciúme doentio, motivador de constantes brigas com Débora, sua",
-      "materia": "Direito Penal",
-      "submateria": "Direito Penal",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
       "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-069",
       "title": "Cláudio e Augusto são gêmeos idênticos e, sendo o primeiro devidamente habilitado à",
       "materia": "Direito Penal",
@@ -90,8 +90,118 @@
       "questao": ""
     },
     {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-070",
+      "title": "Lucas, 25 anos, inicia relacionamento amoroso com Caroline, sua vizinha, sabendo que a",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-067",
+      "title": "Carlos, tomado por um ciúme doentio, motivador de constantes brigas com Débora, sua",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-061",
+      "title": "Acerca da causalidade, à luz do Código Penal, é correto afirmar que:",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-062",
+      "title": "Consideradas as disposições do Código Penal, é correto afirmar que:",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-063",
+      "title": "Sobre a tentativa, a desistência voluntária e o arrependimento eficaz, é correto afirmar",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-064",
+      "title": "À luz das disposições trazidas pelo Código Penal a respeito do poder punitivo, é correto",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-065",
+      "title": "Com base no Código Penal, é correto afirmar que:",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
       "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-066",
       "title": "Ana, ex-mulher de Marcos, passou a residir na companhia de Pedro, seu novo companheiro.",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-067",
+      "title": "Carlos, tomado por um ciúme doentio, motivador de constantes brigas com Débora, sua",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-068",
+      "title": "Ao perceber que a vizinha Maria esquecera a porta de sua casa aberta, Joana adentrou o",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-069",
+      "title": "Cláudio e Augusto são gêmeos idênticos e, sendo o primeiro devidamente habilitado à",
       "materia": "Direito Penal",
       "submateria": "Direito Penal",
       "dificuldade": "media",

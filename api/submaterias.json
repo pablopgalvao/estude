@@ -25,19 +25,24 @@
     "materiaId": "direito-penal"
   },
   {
+    "id": "etica",
+    "nome": "Ética",
+    "materiaId": "etica"
+  },
+  {
     "id": "historia",
     "nome": "História",
     "materiaId": "historia"
   },
   {
-    "id": "legislacao",
-    "nome": "Legislação",
-    "materiaId": "legislacao"
-  },
-  {
     "id": "informatica",
     "nome": "Informática",
     "materiaId": "informatica"
+  },
+  {
+    "id": "legislacao",
+    "nome": "Legislação",
+    "materiaId": "legislacao"
   },
   {
     "id": "lingua-portuguesa",
@@ -48,6 +53,11 @@
     "id": "raciocinio-logico",
     "nome": "Raciocínio Lógico",
     "materiaId": "raciocinio-logico"
+  },
+  {
+    "id": "fisica",
+    "nome": "Física",
+    "materiaId": "fisica"
   },
   {
     "id": "interpretacao-de-texto",
