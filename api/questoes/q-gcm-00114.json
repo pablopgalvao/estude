@@ -1,0 +1,40 @@
+{
+  "id": "q-gcm-00114",
+  "title": "email",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Informatica",
+  "submateria": "email",
+  "categorias": [
+    "Informatica"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Alternativa incorreta."
+    },
+    {
+      "id": "B",
+      "texto": "Alternativa parcialmente correta."
+    },
+    {
+      "id": "C",
+      "texto": "Alternativa correta."
+    },
+    {
+      "id": "D",
+      "texto": "Alternativa incorreta."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "Simulado IA",
+  "prova": "Pacote Treino GCM",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Questão sobre email relacionada à matéria Informatica. Analise a situação e assinale a alternativa correta.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/pacote_questoes_gcm_grande/Informatica/q-gcm-00114/",
+  "fontePdf": ""
+}

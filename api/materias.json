@@ -1,62 +1,38 @@
 [
   {
-    "id": "atualidades",
-    "nome": "Atualidades"
-  },
-  {
-    "id": "conhecimentos-especificos",
-    "nome": "Conhecimentos Específicos"
-  },
-  {
-    "id": "direito-administrativo",
-    "nome": "Direito Administrativo"
+    "id": "ctb",
+    "nome": "CTB"
   },
   {
     "id": "direito-constitucional",
-    "nome": "Direito Constitucional"
+    "nome": "Direito_Constitucional"
   },
   {
     "id": "direito-penal",
-    "nome": "Direito Penal"
+    "nome": "Direito_Penal"
   },
   {
-    "id": "etica",
-    "nome": "Ética"
-  },
-  {
-    "id": "historia",
-    "nome": "História"
-  },
-  {
-    "id": "legislacao",
-    "nome": "Legislação"
+    "id": "eca",
+    "nome": "ECA"
   },
   {
     "id": "informatica",
-    "nome": "Informática"
-  },
-  {
-    "id": "portugues",
-    "nome": "Português"
-  },
-  {
-    "id": "raciocinio-logico",
-    "nome": "Raciocínio Lógico"
-  },
-  {
-    "id": "fisica",
-    "nome": "Física"
+    "nome": "Informatica"
   },
   {
     "id": "lingua-portuguesa",
-    "nome": "Língua Portuguesa"
+    "nome": "Lingua_Portuguesa"
   },
   {
     "id": "matematica",
-    "nome": "Matemática"
+    "nome": "Matematica"
   },
   {
-    "id": "geografia",
-    "nome": "Geografia"
+    "id": "processo-penal",
+    "nome": "Processo_Penal"
+  },
+  {
+    "id": "raciocinio-logico",
+    "nome": "Raciocinio_Logico"
   }
 ]
