@@ -1,0 +1,45 @@
+{
+  "id": "q-legislacao-legislacao-guarda-civil-municipal-de-050",
+  "title": "Tendo em vista que as penalidades serão impostas ao condutor, ao proprietário do veículo, ao embarcador e ao",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Legislação",
+  "submateria": "Legislação",
+  "categorias": [
+    "Legislação",
+    "Legislação"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Ao proprietário caberá a responsabilidade pelas infrações decorrentes de atos praticados na direção do veículo."
+    },
+    {
+      "id": "B",
+      "texto": "O condutor é o responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou quando a carga proveniente de mais de um embarcador ultrapassar o peso bruto total."
+    },
+    {
+      "id": "C",
+      "texto": "O transportador é responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou no peso bruto total, quando simultaneamente for o único remetente da carga e o peso declarado na nota fiscal, fatura ou manifesto for inferior àquele aferido."
+    },
+    {
+      "id": "D",
+      "texto": "O embarcador é responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou no peso bruto total, quando simultaneamente for o único remetente da carga e o peso declarado na nota fiscal, fatura ou manifesto for inferior àquele aferido."
+    },
+    {
+      "id": "E",
+      "texto": "Ao condutor caberá sempre a responsabilidade pela infração referente à prévia regularização e preenchimento das formalidades e condições exigidas para o trânsito do veículo na via terrestre, conservação e inalterabilidade de suas características, componentes, agregados, habilitação legal e compatível de seus condutores, quando esta for exigida, e outras disposições que deva observar."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "CONSULPLAN",
+  "prova": "GUARDA CIVIL MUNICIPAL DE 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Tendo em vista que as penalidades serão impostas ao condutor, ao proprietário do veículo, ao embarcador e ao transportador, salvo os casos de descumprimento de obrigações e deveres impostos a pessoas físicas ou jurídicas expressamente mencionadas no CTB, assinale a afirmativa correta.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v3/guarda-civil-municipal-de-2023-legislacao-q050/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/101575/instituto-consulplan-2023-prefeitura-de-campos-dos-goytacazes-rj-guarda-civil-municipal-de-3-categoria-prova.pdf"
+}

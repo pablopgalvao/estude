@@ -1,0 +1,45 @@
+{
+  "id": "q-raciocinio-logico-raciocinio-logico-municipio-de-sao-jose-020",
+  "title": "No sistema operacional Windows, é possível alte rar o conteúdo de um arquivo que se encontra aberto em um",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Raciocínio Lógico",
+  "submateria": "Raciocínio Lógico",
+  "categorias": [
+    "Raciocínio Lógico",
+    "Raciocínio Lógico"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Wordpad ++"
+    },
+    {
+      "id": "B",
+      "texto": "Bloco de Notas"
+    },
+    {
+      "id": "C",
+      "texto": "Internet Explorer"
+    },
+    {
+      "id": "D",
+      "texto": "Explorador de Arquivos"
+    },
+    {
+      "id": "E",
+      "texto": "Check-square Conexão de Área de Trabalho Remota 50 questões"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "FEPESE",
+  "prova": "Município de São José 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No sistema operacional Windows, é possível alte<br>rar o conteúdo de um arquivo que se encontra aberto<br>em um computador remoto.<br>Assinale a alternativa que indica corretamente a ferra<br>menta do Windows que permite essa ação.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v2/municipio-de-sao-jose-2024-raciocinio-logico-q020/",
+  "fontePdf": "pdfs\fepese-2024-prefeitura-de-sao-jose-sc-guarda-municipal-prova.pdf"
+}

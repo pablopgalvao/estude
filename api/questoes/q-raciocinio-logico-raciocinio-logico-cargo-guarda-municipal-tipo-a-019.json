@@ -1,0 +1,41 @@
+{
+  "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-019",
+  "title": "Determinada empresa pretende construir casas em um terreno com área total de 5.700 m².",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Raciocínio Lógico",
+  "submateria": "Raciocínio Lógico",
+  "categorias": [
+    "Raciocínio Lógico",
+    "Raciocínio Lógico"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "34."
+    },
+    {
+      "id": "B",
+      "texto": "38."
+    },
+    {
+      "id": "C",
+      "texto": "41."
+    },
+    {
+      "id": "D",
+      "texto": "49. RASCUNHO GUARDA MUNICIPAL – TIPO A 7 Noções de"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDECAN",
+  "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Determinada empresa pretende construir casas em um terreno com área total de 5.700 m². Para isso, ela irá dividir o terreno em 18 pequenos lotes, alguns com 300 m² de área e outros com 360 m² de área. Sabendo-se que o número de lotes com área de 300 m² é representado por A e o número de lotes com área de 360 m² é representado por B, então o valor da expressão 2A + 3B é:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03/cargo-guarda-municipal-tipo-a-2023-raciocinio-logico-raciocinio-logico-q019/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf"
+}

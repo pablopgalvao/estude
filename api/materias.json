@@ -1,38 +1,70 @@
 [
   {
-    "id": "ctb",
-    "nome": "CTB"
+    "id": "conhecimentos-especificos",
+    "nome": "Conhecimentos Específicos"
   },
   {
-    "id": "direito-constitucional",
-    "nome": "Direito_Constitucional"
+    "id": "historia",
+    "nome": "História"
   },
   {
-    "id": "direito-penal",
-    "nome": "Direito_Penal"
-  },
-  {
-    "id": "eca",
-    "nome": "ECA"
-  },
-  {
-    "id": "informatica",
-    "nome": "Informatica"
+    "id": "legislacao",
+    "nome": "Legislação"
   },
   {
     "id": "lingua-portuguesa",
-    "nome": "Lingua_Portuguesa"
+    "nome": "Língua Portuguesa"
   },
   {
     "id": "matematica",
-    "nome": "Matematica"
+    "nome": "Matemática"
   },
   {
-    "id": "processo-penal",
-    "nome": "Processo_Penal"
+    "id": "atualidades",
+    "nome": "Atualidades"
+  },
+  {
+    "id": "nocoes-de-direito",
+    "nome": "Noções De Direito"
   },
   {
     "id": "raciocinio-logico",
-    "nome": "Raciocinio_Logico"
+    "nome": "Raciocínio Lógico"
+  },
+  {
+    "id": "geral",
+    "nome": "Geral"
+  },
+  {
+    "id": "informatica",
+    "nome": "Informática"
+  },
+  {
+    "id": "direito-administrativo",
+    "nome": "Direito Administrativo"
+  },
+  {
+    "id": "direito-constitucional",
+    "nome": "Direito Constitucional"
+  },
+  {
+    "id": "direito-penal",
+    "nome": "Direito Penal"
+  },
+  {
+    "id": "etica",
+    "nome": "Ética"
+  },
+  {
+    "id": "portugues",
+    "nome": "Português"
+  },
+  {
+    "id": "fisica",
+    "nome": "Física"
+  },
+  {
+    "id": "geografia",
+    "nome": "Geografia"
   }
 ]

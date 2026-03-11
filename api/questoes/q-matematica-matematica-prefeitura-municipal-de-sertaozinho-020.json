@@ -1,0 +1,45 @@
+{
+  "id": "q-matematica-matematica-prefeitura-municipal-de-sertaozinho-020",
+  "title": "Lílian efetuou um saque em um caixa eletrônico e rece beu somente notas de R$ 20,00 e R$ 50,00, sendo",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "R$ 550,00."
+    },
+    {
+      "id": "B",
+      "texto": "R$ 520,00."
+    },
+    {
+      "id": "C",
+      "texto": "R$ 500,00."
+    },
+    {
+      "id": "D",
+      "texto": "R$ 480,00."
+    },
+    {
+      "id": "E",
+      "texto": "R$ 450,00. pmst1502/007-GuardaCivilMunicipal-Manhã"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "PREFEITURA MUNICIPAL DE SERTÃOZINHO 2016",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Lílian efetuou um saque em um caixa eletrônico e rece<br>beu somente notas de R$ 20,00 e R$ 50,00, sendo o<br>número de notas de R$ 20,00 igual ao triplo do número<br>de notas de R$ 50,00. Em seguida, efetuou um segundo saque, e recebeu mais 4 notas. Se o número total de<br>notas recebidas nesses dois saques foi 24, então o valor<br>total do primeiro saque foi</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_vunesp_guarda_municipal/prefeitura-municipal-de-sertaozinho-2016-matematica-q020/",
+  "fontePdf": "https://www.pciconcursos.com.br/provas/24221444/cfc5c2674394/guarda_civil_municipal.pdf"
+}

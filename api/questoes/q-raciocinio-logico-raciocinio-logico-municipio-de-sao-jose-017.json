@@ -1,0 +1,45 @@
+{
+  "id": "q-raciocinio-logico-raciocinio-logico-municipio-de-sao-jose-017",
+  "title": "Um motor de busca ou motor de pesquisa na Internet é um sistema especializado em buscar infor mação na Web. O",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Raciocínio Lógico",
+  "submateria": "Raciocínio Lógico",
+  "categorias": [
+    "Raciocínio Lógico",
+    "Raciocínio Lógico"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Check-square Yahoo! e Bing"
+    },
+    {
+      "id": "B",
+      "texto": "Mozilla e Bing"
+    },
+    {
+      "id": "C",
+      "texto": "Mozilla e Firefox"
+    },
+    {
+      "id": "D",
+      "texto": "Chrome e Yahoo!"
+    },
+    {
+      "id": "E",
+      "texto": "Internet Explorer e Firefox"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "FEPESE",
+  "prova": "Município de São José 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Um motor de busca ou motor de pesquisa na<br>Internet é um sistema especializado em buscar infor<br>mação na Web. O resultado da pesquisa para uma<br>consulta pode consistir em páginas da web, imagens,<br>vídeos e outros formatos. Um dos motores de busca<br>mais utilizados no mundo é o Google.<br>Assinale a alternativa que apresenta corretamente<br>dois outros exemplos de motores de busca.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v2/municipio-de-sao-jose-2024-raciocinio-logico-q017/",
+  "fontePdf": "pdfs\fepese-2024-prefeitura-de-sao-jose-sc-guarda-municipal-prova.pdf"
+}

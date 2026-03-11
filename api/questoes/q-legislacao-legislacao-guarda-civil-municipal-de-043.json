@@ -1,0 +1,45 @@
+{
+  "id": "q-legislacao-legislacao-guarda-civil-municipal-de-043",
+  "title": "Constitui infração de trânsito a inobservância de qualquer preceito do Código de Trânsito ou da legislação",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Legislação",
+  "submateria": "Legislação",
+  "categorias": [
+    "Legislação",
+    "Legislação"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Com Carteira Nacional de Habilitação vencida há mais de sessenta dias: infração – grave; penalidade – multa; medida administrativa – retenção do veículo até a apresentação de condutor habilitado."
+    },
+    {
+      "id": "B",
+      "texto": "Com Carteira Nacional de Habilitação ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo: infração – gravíssima; penalidade – multa (três vezes); medida administrativa – retenção do veículo até a apresentação de condutor habilitado."
+    },
+    {
+      "id": "C",
+      "texto": "Dirigir veículo, sem possuir Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor: infração – grave; penalidade – multa (três vezes); medida administrativa – retenção do veículo até a apresentação de condutor habilitado."
+    },
+    {
+      "id": "D",
+      "texto": "Sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação da licença para conduzir: infração – gravíssima; penalidade – multa; medida administrativa – retenção do veículo até a apresentação de condutor habilitado."
+    },
+    {
+      "id": "E",
+      "texto": "Com Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor cassada ou com suspensão do direito de dirigir: infração – gravíssima; penalidade – multa (três vezes); medida administrativa – recolhimento do documento de habilitação e retenção do veículo até a apresentação de condutor habilitado."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "CONSULPLAN",
+  "prova": "GUARDA CIVIL MUNICIPAL DE 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Constitui infração de trânsito a inobservância de qualquer preceito do Código de Trânsito ou da legislação complementar, e<br>o infrator sujeita-se às penalidades e às punições previstas indicadas, bem como às medidas administrativas em capítulo do<br>referido código. Assim, assinale a afirmativa correta.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v3/guarda-civil-municipal-de-2023-legislacao-q043/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/101575/instituto-consulplan-2023-prefeitura-de-campos-dos-goytacazes-rj-guarda-civil-municipal-de-3-categoria-prova.pdf"
+}

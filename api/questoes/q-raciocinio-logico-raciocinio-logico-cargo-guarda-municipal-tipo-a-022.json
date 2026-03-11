@@ -1,0 +1,41 @@
+{
+  "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-022",
+  "title": "No que se refere aos sistemas operacionais Windows e Linux, dois componentes são caraterizados a",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Raciocínio Lógico",
+  "submateria": "Raciocínio Lógico",
+  "categorias": [
+    "Raciocínio Lógico",
+    "Raciocínio Lógico"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "bios e kernel"
+    },
+    {
+      "id": "B",
+      "texto": "kernel e swap"
+    },
+    {
+      "id": "C",
+      "texto": "swap e setup"
+    },
+    {
+      "id": "D",
+      "texto": "setup e bios"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDECAN",
+  "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No que se refere aos sistemas operacionais Windows e<br>Linux, dois componentes são caraterizados a seguir.<br>I.<br>Há um programa que é o firmware responsável<br>pela execução de tarefas imprescindíveis, como o<br>reconhecimento dos hardwares instalados, a verificação<br>das horas no relógio interno e a inicialização do sistema<br>operacional.<br>II.<br>Há um componente que representa o núcleo entre<br>o hardware de um computador e seus processos,<br>estabelecendo a comunicação e gerenciando<br>recursos com a maior eficiência possível.<br>Os componentes em I e II são denominados, respectivamente:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v3/cargo-guarda-municipal-tipo-a-2023-raciocinio-logico-q022/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf"
+}

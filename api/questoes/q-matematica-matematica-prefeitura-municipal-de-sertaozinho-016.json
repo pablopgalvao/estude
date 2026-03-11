@@ -1,0 +1,45 @@
+{
+  "id": "q-matematica-matematica-prefeitura-municipal-de-sertaozinho-016",
+  "title": "Considere uma sequência de três números naturais pares e consecutivos, cuja soma é igual a 66. Nesse caso, o",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "480."
+    },
+    {
+      "id": "B",
+      "texto": "492."
+    },
+    {
+      "id": "C",
+      "texto": "504."
+    },
+    {
+      "id": "D",
+      "texto": "516."
+    },
+    {
+      "id": "E",
+      "texto": "528."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "PREFEITURA MUNICIPAL DE SERTÃOZINHO 2016",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Considere uma sequência de três números naturais<br>pares e consecutivos, cuja soma é igual a 66. Nesse<br>caso, o produto do primeiro pelo terceiro número dessa<br>sequência será igual a</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_vunesp_guarda_municipal/prefeitura-municipal-de-sertaozinho-2016-matematica-q016/",
+  "fontePdf": "https://www.pciconcursos.com.br/provas/24221444/cfc5c2674394/guarda_civil_municipal.pdf"
+}

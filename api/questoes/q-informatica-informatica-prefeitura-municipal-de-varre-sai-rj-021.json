@@ -1,0 +1,41 @@
+{
+  "id": "q-informatica-informatica-prefeitura-municipal-de-varre-sai-rj-021",
+  "title": ". Como desativar a verificação ortográfica automática em um documento no Word 2016 (Pt-Br)?",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Informática",
+  "submateria": "Informática",
+  "categorias": [
+    "Informática",
+    "Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Clicar na guia \"Revisão\" e depois clicar em \"Desativar Verificação Ortográfica”."
+    },
+    {
+      "id": "B",
+      "texto": "Utilizar o atalho “Ctrl” + “Alt” + “O”."
+    },
+    {
+      "id": "C",
+      "texto": "Clicar na guia \"Revisão\", depois clicar no botão “Ortografia e Gramática”. Na janela seguinte, clicar em \"Desativar Verificação Ortográfica”."
+    },
+    {
+      "id": "D",
+      "texto": "Ir para as opções do Word e desmarcar a opção \"Verificar ortografia ao digitar”."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "PREFEITURA MUNICIPAL DE VARRE-SAI/RJ 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Como desativar a verificação ortográfica automática em um documento no Word 2016<br>(Pt-Br)?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v3/prefeitura-municipal-de-varre-sai-rj-2024-informatica-q021/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/104314/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

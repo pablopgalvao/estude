@@ -1,0 +1,45 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-020",
+  "title": "No auditório de uma empresa, estão reunidos menos de 80 funcionários, que serão divididos",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "70."
+    },
+    {
+      "id": "B",
+      "texto": "65."
+    },
+    {
+      "id": "C",
+      "texto": "60."
+    },
+    {
+      "id": "D",
+      "texto": "55."
+    },
+    {
+      "id": "E",
+      "texto": "50."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "VUNESP",
+  "prova": "concurso público 2022",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No auditório de uma empresa, estão reunidos menos de 80 funcionários, que serão divididos em grupos, de modo que cada grupo fique com o mesmo número de funcio- nários e que nenhum funcionário fique fora dos grupos. Nessas condições, é possível formar grupos com 4 fun- cionários em cada um deles, ou com 5 funcionários em cada um, ou com 6 funcionários em cada um. O número de funcionários presentes nesse auditório é</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03/concurso-publico-2022-matematica-q020/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/87279/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+}

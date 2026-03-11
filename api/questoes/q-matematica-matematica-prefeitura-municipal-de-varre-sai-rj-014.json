@@ -1,0 +1,43 @@
+{
+  "id": "q-matematica-matematica-prefeitura-municipal-de-varre-sai-rj-014",
+  "title": ". A imagem a seguir mostra uma sequência de figuras construídas seguindo um determinado padrão. Seguindo esse",
+  "images": [
+    "images/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q014-p6-1.png"
+  ],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "974."
+    },
+    {
+      "id": "B",
+      "texto": "968."
+    },
+    {
+      "id": "C",
+      "texto": "978."
+    },
+    {
+      "id": "D",
+      "texto": "970."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "PREFEITURA MUNICIPAL DE VARRE-SAI/RJ 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. A imagem a seguir mostra uma sequência de figuras construídas seguindo um<br>determinado padrão.<br>Seguindo esse mesmo padrão, quantos quadradinhos cinzas serão necessários para construir uma peça<br>igual a Figura 17, 3 peças iguais a Figura 35 e 2 peças iguais a Figura 60?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v3/prefeitura-municipal-de-varre-sai-rj-2024-matematica-q014/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/104314/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

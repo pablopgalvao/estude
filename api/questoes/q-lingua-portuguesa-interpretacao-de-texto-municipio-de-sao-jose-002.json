@@ -1,0 +1,45 @@
+{
+  "id": "q-lingua-portuguesa-interpretacao-de-texto-municipio-de-sao-jose-002",
+  "title": "Assinale a pergunta que pode ser respondida com base no texto.",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Língua Portuguesa",
+  "submateria": "Interpretação de Texto",
+  "categorias": [
+    "Língua Portuguesa",
+    "Interpretação de Texto"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Por que a Lei 13.022/2014 deve ser revogada?"
+    },
+    {
+      "id": "B",
+      "texto": "Check-square Qual é o papel fundamental das polícias militares?"
+    },
+    {
+      "id": "C",
+      "texto": "Com base em que o autor do texto associa o papel das guardas municipais ao trabalho dos vigilantes prediais?"
+    },
+    {
+      "id": "D",
+      "texto": "Em que se assemelham e em que se diferen ciam as atribuições das guardas municipais e das polícias militares?"
+    },
+    {
+      "id": "E",
+      "texto": "Que ações das guardas municipais contribuem para que os jovens não trilhem o caminho da violência?"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "FEPESE",
+  "prova": "Município de São José 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Assinale a pergunta que pode ser respondida com<br>base no texto.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v2/municipio-de-sao-jose-2024-lingua-portuguesa-q002/",
+  "fontePdf": "pdfs\fepese-2024-prefeitura-de-sao-jose-sc-guarda-municipal-prova.pdf"
+}

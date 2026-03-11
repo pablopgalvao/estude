@@ -1,0 +1,41 @@
+{
+  "id": "q-matematica-matematica-prefeitura-municipal-de-varre-sai-rj-013",
+  "title": ". Maria possui um empreendimento de prestação de serviços, onde o lucro 𝑳 dado por 𝟕𝒙 𝑳(𝒙) = 𝟕, 𝟓𝒙 e o custo",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "37."
+    },
+    {
+      "id": "B",
+      "texto": "31."
+    },
+    {
+      "id": "C",
+      "texto": "27."
+    },
+    {
+      "id": "D",
+      "texto": "41."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "PREFEITURA MUNICIPAL DE VARRE-SAI/RJ 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Maria possui um empreendimento de prestação de serviços, onde o lucro 𝑳 dado por<br>𝟕𝒙<br>𝑳(𝒙) &#x3D; 𝟕, 𝟓𝒙 e o custo total 𝑪 dado por 𝑪(𝒙) &#x3D; 𝟏𝟐𝟎+<br>𝟐 variam com base no número 𝒙 de clientes. Qual é<br>o número mínimo de clientes necessário para que o seu lucro supere os custos dessa empresa?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v3/prefeitura-municipal-de-varre-sai-rj-2024-matematica-q013/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/104314/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

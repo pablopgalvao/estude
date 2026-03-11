@@ -1,70 +1,15 @@
 {
-  "total": 6,
+  "total": 1,
   "items": [
     {
-      "id": "q-gcm-00007",
-      "title": "crase",
-      "materia": "Lingua_Portuguesa",
-      "submateria": "crase",
+      "id": "q-lingua-portuguesa-crase-concurso-publico-080",
+      "title": "A única alternativa em que o acento grave, indicador de crase, foi empregado",
+      "materia": "Língua Portuguesa",
+      "submateria": "Crase",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "Simulado IA",
-      "prova": "Pacote Treino GCM",
-      "questao": ""
-    },
-    {
-      "id": "q-gcm-00008",
-      "title": "crase",
-      "materia": "Lingua_Portuguesa",
-      "submateria": "crase",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "Simulado IA",
-      "prova": "Pacote Treino GCM",
-      "questao": ""
-    },
-    {
-      "id": "q-gcm-00009",
-      "title": "crase",
-      "materia": "Lingua_Portuguesa",
-      "submateria": "crase",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "Simulado IA",
-      "prova": "Pacote Treino GCM",
-      "questao": ""
-    },
-    {
-      "id": "q-gcm-00012",
-      "title": "crase",
-      "materia": "Lingua_Portuguesa",
-      "submateria": "crase",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "Simulado IA",
-      "prova": "Pacote Treino GCM",
-      "questao": ""
-    },
-    {
-      "id": "q-gcm-00010",
-      "title": "crase",
-      "materia": "Lingua_Portuguesa",
-      "submateria": "crase",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "Simulado IA",
-      "prova": "Pacote Treino GCM",
-      "questao": ""
-    },
-    {
-      "id": "q-gcm-00011",
-      "title": "crase",
-      "materia": "Lingua_Portuguesa",
-      "submateria": "crase",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "Simulado IA",
-      "prova": "Pacote Treino GCM",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
       "questao": ""
     }
   ]

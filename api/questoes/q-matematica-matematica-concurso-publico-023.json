@@ -1,0 +1,45 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-023",
+  "title": "Uma família comprou determinado número de litros de álcool gel nos 5 primeiros meses do",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "7 litros."
+    },
+    {
+      "id": "B",
+      "texto": "6 litros."
+    },
+    {
+      "id": "C",
+      "texto": "5 litros."
+    },
+    {
+      "id": "D",
+      "texto": "4 litros."
+    },
+    {
+      "id": "E",
+      "texto": "3 litros."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "VUNESP",
+  "prova": "concurso público 2022",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Uma família comprou determinado número de litros de álcool gel nos 5 primeiros meses do ano de 2020. O gráfi- co mostra algumas informações sobre o número de litros comprados por mês. Na média, foram comprados 8 litros por mês. O número de litros comprados em abril superou o número de litros comprados em fevereiro em</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03/concurso-publico-2022-matematica-q023/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/87279/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+}

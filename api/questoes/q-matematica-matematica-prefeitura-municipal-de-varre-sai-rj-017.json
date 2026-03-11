@@ -1,0 +1,43 @@
+{
+  "id": "q-matematica-matematica-prefeitura-municipal-de-varre-sai-rj-017",
+  "title": ". Carlos desenhou um quadro em formato retangular. Sobre esse quadro, fez 6 linhas paralela, gerando 7",
+  "images": [
+    "images/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q017-p7-1.png"
+  ],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "926736."
+    },
+    {
+      "id": "B",
+      "texto": "934248."
+    },
+    {
+      "id": "C",
+      "texto": "941192."
+    },
+    {
+      "id": "D",
+      "texto": "956212."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "PREFEITURA MUNICIPAL DE VARRE-SAI/RJ 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Carlos desenhou um quadro em formato retangular. Sobre esse quadro, fez 6 linhas<br>paralela, gerando 7 regiões neste quadro, conforme mostrado a seguir.<br>Ele pretende pintar esse quadro, de forma que regiões adjacentes não sejam preenchidas com tintas de<br>mesma cor. Dispondo de 8 cores diferentes de tinta, de quantas formas diferentes ele pode realizar esta<br>tarefa?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03_v3/prefeitura-municipal-de-varre-sai-rj-2024-matematica-q017/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/104314/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

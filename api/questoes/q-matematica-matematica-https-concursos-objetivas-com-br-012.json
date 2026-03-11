@@ -1,0 +1,45 @@
+{
+  "id": "q-matematica-matematica-https-concursos-objetivas-com-br-012",
+  "title": "Em um porto, estão alocados diferentes tipos de barcos.",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "empresa Porto Barcos tem 5 barcos pesqueiros lá, e sabe- se que um desses barcos pesa 440kg. Sabendo-se que todos os barcos são do mesmo modelo, qual o peso total dos 5 barcos, em toneladas?"
+    },
+    {
+      "id": "A",
+      "texto": "2,2T"
+    },
+    {
+      "id": "B",
+      "texto": "20,2T"
+    },
+    {
+      "id": "C",
+      "texto": "22,20T"
+    },
+    {
+      "id": "D",
+      "texto": "220T"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "https://concursos.objetivas.com.br 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Em um porto, estão alocados diferentes tipos de barcos.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/saida_md_11_03/https-concursos-objetivas-com-br-2024-matematica-q012/",
+  "fontePdf": "https://arquivos.qconcursos.com/prova/arquivo_prova/117513/objetiva-2024-prefeitura-de-conceicao-da-aparecida-mg-guarda-civil-municipal-prova.pdf"
+}

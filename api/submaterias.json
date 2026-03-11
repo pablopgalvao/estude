@@ -1,172 +1,102 @@
 [
   {
-    "id": "sinalizacao",
-    "nome": "sinalizacao",
-    "materiaId": "ctb"
+    "id": "conhecimentos-especificos",
+    "nome": "Conhecimentos Específicos",
+    "materiaId": "conhecimentos-especificos"
   },
   {
-    "id": "infracoes",
-    "nome": "infracoes",
-    "materiaId": "ctb"
+    "id": "historia",
+    "nome": "História",
+    "materiaId": "historia"
   },
   {
-    "id": "art5",
-    "nome": "art5",
-    "materiaId": "direito-constitucional"
+    "id": "legislacao",
+    "nome": "Legislação",
+    "materiaId": "legislacao"
   },
   {
-    "id": "art6",
-    "nome": "art6",
-    "materiaId": "direito-constitucional"
-  },
-  {
-    "id": "art37",
-    "nome": "art37",
-    "materiaId": "direito-constitucional"
-  },
-  {
-    "id": "seguranca-publica",
-    "nome": "seguranca_publica",
-    "materiaId": "direito-constitucional"
-  },
-  {
-    "id": "homicidio",
-    "nome": "homicidio",
-    "materiaId": "direito-penal"
-  },
-  {
-    "id": "furto",
-    "nome": "furto",
-    "materiaId": "direito-penal"
-  },
-  {
-    "id": "roubo",
-    "nome": "roubo",
-    "materiaId": "direito-penal"
-  },
-  {
-    "id": "legitima-defesa",
-    "nome": "legitima_defesa",
-    "materiaId": "direito-penal"
-  },
-  {
-    "id": "direitos",
-    "nome": "direitos",
-    "materiaId": "eca"
-  },
-  {
-    "id": "ato-infracional",
-    "nome": "ato_infracional",
-    "materiaId": "eca"
-  },
-  {
-    "id": "windows",
-    "nome": "windows",
-    "materiaId": "informatica"
-  },
-  {
-    "id": "excel",
-    "nome": "excel",
-    "materiaId": "informatica"
-  },
-  {
-    "id": "word",
-    "nome": "word",
-    "materiaId": "informatica"
-  },
-  {
-    "id": "internet",
-    "nome": "internet",
-    "materiaId": "informatica"
-  },
-  {
-    "id": "email",
-    "nome": "email",
-    "materiaId": "informatica"
-  },
-  {
-    "id": "interpretacao",
-    "nome": "interpretação",
+    "id": "interpretacao-de-texto",
+    "nome": "Interpretação De Texto",
     "materiaId": "lingua-portuguesa"
+  },
+  {
+    "id": "lingua-portuguesa",
+    "nome": "Língua Portuguesa",
+    "materiaId": "lingua-portuguesa"
+  },
+  {
+    "id": "matematica",
+    "nome": "Matemática",
+    "materiaId": "matematica"
+  },
+  {
+    "id": "atualidades",
+    "nome": "Atualidades",
+    "materiaId": "atualidades"
+  },
+  {
+    "id": "nocoes-de-direito",
+    "nome": "Noções De Direito",
+    "materiaId": "nocoes-de-direito"
+  },
+  {
+    "id": "raciocinio-logico",
+    "nome": "Raciocínio Lógico",
+    "materiaId": "raciocinio-logico"
+  },
+  {
+    "id": "gramatica",
+    "nome": "Gramática",
+    "materiaId": "lingua-portuguesa"
+  },
+  {
+    "id": "geral",
+    "nome": "Geral",
+    "materiaId": "geral"
+  },
+  {
+    "id": "informatica",
+    "nome": "Informática",
+    "materiaId": "informatica"
+  },
+  {
+    "id": "direito-administrativo",
+    "nome": "Direito Administrativo",
+    "materiaId": "direito-administrativo"
+  },
+  {
+    "id": "direito-constitucional",
+    "nome": "Direito Constitucional",
+    "materiaId": "direito-constitucional"
+  },
+  {
+    "id": "direito-penal",
+    "nome": "Direito Penal",
+    "materiaId": "direito-penal"
+  },
+  {
+    "id": "etica",
+    "nome": "Ética",
+    "materiaId": "etica"
+  },
+  {
+    "id": "lingua-portuguesa",
+    "nome": "Língua Portuguesa",
+    "materiaId": "portugues"
+  },
+  {
+    "id": "fisica",
+    "nome": "Física",
+    "materiaId": "fisica"
   },
   {
     "id": "crase",
-    "nome": "crase",
+    "nome": "Crase",
     "materiaId": "lingua-portuguesa"
   },
   {
-    "id": "concordancia",
-    "nome": "concordancia",
-    "materiaId": "lingua-portuguesa"
-  },
-  {
-    "id": "regencia",
-    "nome": "regencia",
-    "materiaId": "lingua-portuguesa"
-  },
-  {
-    "id": "pontuacao",
-    "nome": "pontuacao",
-    "materiaId": "lingua-portuguesa"
-  },
-  {
-    "id": "porcentagem",
-    "nome": "porcentagem",
-    "materiaId": "matematica"
-  },
-  {
-    "id": "regra-de-tres",
-    "nome": "regra_de_tres",
-    "materiaId": "matematica"
-  },
-  {
-    "id": "equacoes",
-    "nome": "equacoes",
-    "materiaId": "matematica"
-  },
-  {
-    "id": "geometria",
-    "nome": "geometria",
-    "materiaId": "matematica"
-  },
-  {
-    "id": "graficos",
-    "nome": "graficos",
-    "materiaId": "matematica"
-  },
-  {
-    "id": "flagrante",
-    "nome": "flagrante",
-    "materiaId": "processo-penal"
-  },
-  {
-    "id": "busca-apreensao",
-    "nome": "busca_apreensao",
-    "materiaId": "processo-penal"
-  },
-  {
-    "id": "prisao",
-    "nome": "prisao",
-    "materiaId": "processo-penal"
-  },
-  {
-    "id": "sequencias",
-    "nome": "sequencias",
-    "materiaId": "raciocinio-logico"
-  },
-  {
-    "id": "diagramas",
-    "nome": "diagramas",
-    "materiaId": "raciocinio-logico"
-  },
-  {
-    "id": "argumentacao",
-    "nome": "argumentacao",
-    "materiaId": "raciocinio-logico"
-  },
-  {
-    "id": "padroes",
-    "nome": "padroes",
-    "materiaId": "raciocinio-logico"
+    "id": "geografia",
+    "nome": "Geografia",
+    "materiaId": "geografia"
   }
 ]
