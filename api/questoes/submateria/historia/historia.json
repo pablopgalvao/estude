@@ -13,8 +13,8 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-003",
-      "title": "Apesar de ter completado o percurso outras vezes, aquele dia foi diferente: o animal",
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-002",
+      "title": "A maioria de nós já teve esta experiência: fazer uma trilha",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -24,8 +24,8 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-002",
-      "title": "A maioria de nós já teve esta experiência: fazer uma trilha",
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-003",
+      "title": "Apesar de ter completado o percurso outras vezes, aquele dia foi diferente: o animal",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -57,8 +57,8 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-008",
-      "title": "Assinale a alternativa em que a palavra indicada, no texto, não tenha sido formada por",
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-010",
+      "title": "Como água potável era difícil de armazenar sem ser logo contaminada, consumia-se cerveja",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -79,8 +79,8 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-010",
-      "title": "Como água potável era difícil de armazenar sem ser logo contaminada, consumia-se cerveja",
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-005",
+      "title": "Plantas têm uma intrincada relação com a história da humanidade. No livro Plantas e",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -90,8 +90,41 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-005",
-      "title": "Plantas têm uma intrincada relação com a história da humanidade. No livro Plantas e",
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-004",
+      "title": "Por “intrincada” (linha 12), só não se pode entender, no texto,",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-008",
+      "title": "Assinale a alternativa em que a palavra indicada, no texto, não tenha sido formada por",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-002",
+      "title": "A maioria de nós já teve esta experiência: fazer uma trilha",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-003",
+      "title": "Apesar de ter completado o percurso outras vezes, aquele dia foi diferente: o animal",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -112,30 +145,8 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-002",
-      "title": "A maioria de nós já teve esta experiência: fazer uma trilha",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-004",
-      "title": "Por “intrincada” (linha 12), só não se pode entender, no texto,",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-003",
-      "title": "Apesar de ter completado o percurso outras vezes, aquele dia foi diferente: o animal",
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-005",
+      "title": "Plantas têm uma intrincada relação com a história da humanidade. No livro Plantas e",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -167,17 +178,6 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-005",
-      "title": "Plantas têm uma intrincada relação com a história da humanidade. No livro Plantas e",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
       "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-007",
       "title": "Já em Sob o efeito das plantas, Michael Pollan sugere que o café – a cafeína,",
       "materia": "História",
@@ -200,17 +200,6 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-008",
-      "title": "Assinale a alternativa em que a palavra indicada, no texto, não tenha sido formada por",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
       "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-010",
       "title": "Como água potável era difícil de armazenar sem ser logo contaminada, consumia-se cerveja",
       "materia": "História",
@@ -222,25 +211,14 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-concurso-publico-009",
-      "title": "Assinale a alternativa em que o termo em destaque expressa ideia de causa.",
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-008",
+      "title": "Assinale a alternativa em que a palavra indicada, no texto, não tenha sido formada por",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-011",
-      "title": "Conforme o autor, a obsessão mais ou menos generali- zada pela privacidade",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
       "questao": ""
     },
     {
@@ -299,6 +277,28 @@
       "questao": ""
     },
     {
+      "id": "q-historia-historia-concurso-publico-011",
+      "title": "Conforme o autor, a obsessão mais ou menos generali- zada pela privacidade",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-009",
+      "title": "Assinale a alternativa em que o termo em destaque expressa ideia de causa.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
       "id": "q-historia-historia-concurso-publico-012",
       "title": "O termo destacado na frase “... os cônjuges que anti- gamente escondiam zelosamente suas",
       "materia": "História",
@@ -310,17 +310,6 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-concurso-publico-093",
-      "title": "Nas Disposições Gerais do Título I do Código de Posturas do Município de Niterói, está",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
       "id": "q-historia-historia-concurso-publico-092",
       "title": "Observe a fotograﬁ a abaixo. Vista do Centro de Niterói (RJ) – 1957. (Extraído em",
       "materia": "História",
@@ -334,17 +323,6 @@
     {
       "id": "q-historia-historia-concurso-publico-093",
       "title": "Nas Disposições Gerais do Título I do Código de Posturas do Município de Niterói, está",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-092",
-      "title": "Observe a fotograﬁ a abaixo. Vista do Centro de Niterói (RJ) – 1957. (Extraído em",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -365,8 +343,30 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-concurso-publico-098",
-      "title": "Sobre as características da população de Niterói, podemos considerar que a cidade possui:",
+      "id": "q-historia-historia-concurso-publico-092",
+      "title": "Observe a fotograﬁ a abaixo. Vista do Centro de Niterói (RJ) – 1957. (Extraído em",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-093",
+      "title": "Nas Disposições Gerais do Título I do Código de Posturas do Município de Niterói, está",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-096",
+      "title": "Ainda sobre o crescimento do Produto Interno Bruto (PIB) de Niterói, um dos elementos",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -387,8 +387,19 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-concurso-publico-096",
-      "title": "Ainda sobre o crescimento do Produto Interno Bruto (PIB) de Niterói, um dos elementos",
+      "id": "q-historia-historia-concurso-publico-100",
+      "title": "Devido às potencialidades e às condições geográﬁ cas do município de Niterói, uma",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-098",
+      "title": "Sobre as características da população de Niterói, podemos considerar que a cidade possui:",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -420,19 +431,8 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-concurso-publico-100",
-      "title": "Devido às potencialidades e às condições geográﬁ cas do município de Niterói, uma",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-edital-001-2023-002",
-      "title": "Assinale a pergunta que pode ser respondida com base no texto.",
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-001",
+      "title": "Considerando a expressão “mesmo que venha a ser considerada constitucional”, no início do",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -444,6 +444,17 @@
     {
       "id": "q-historia-historia-concurso-publico-edital-001-2023-003",
       "title": "Assinale a frase correta quanto à concordância verbal e nominal.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-002",
+      "title": "Assinale a pergunta que pode ser respondida com base no texto.",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -464,30 +475,8 @@
       "questao": ""
     },
     {
-      "id": "q-historia-historia-concurso-publico-edital-001-2023-001",
-      "title": "Considerando a expressão “mesmo que venha a ser considerada constitucional”, no início do",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
       "id": "q-historia-historia-concurso-publico-edital-001-2023-008",
       "title": "Em 1748, começaram a chegar a Santa Catarina os primeiros imigrantes na verdadeira",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-edital-001-2023-001",
-      "title": "Considerando a expressão “mesmo que venha a ser considerada constitucional”, no início do",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -508,30 +497,19 @@
       "questao": ""
     },
     {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-001",
+      "title": "Considerando a expressão “mesmo que venha a ser considerada constitucional”, no início do",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
       "id": "q-historia-historia-concurso-publico-edital-001-2023-006",
       "title": "Muito benquista pela criançada, é a brincadeira mais cultivada e, por isso mesmo, a mais",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-edital-001-2023-004",
-      "title": "Assinale a frase correta quanto à flexão verbal.",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-edital-001-2023-003",
-      "title": "Assinale a frase correta quanto à concordância verbal e nominal.",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -552,6 +530,39 @@
       "questao": ""
     },
     {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-003",
+      "title": "Assinale a frase correta quanto à concordância verbal e nominal.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-004",
+      "title": "Assinale a frase correta quanto à flexão verbal.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-006",
+      "title": "Muito benquista pela criançada, é a brincadeira mais cultivada e, por isso mesmo, a mais",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
       "id": "q-historia-historia-concurso-publico-edital-001-2023-008",
       "title": "Em 1748, começaram a chegar a Santa Catarina os primeiros imigrantes na verdadeira",
       "materia": "História",
@@ -565,17 +576,6 @@
     {
       "id": "q-historia-historia-concurso-publico-edital-001-2023-005",
       "title": "Assinale a alternativa que está de acordo com as normas da língua portuguesa padrão.",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-edital-001-2023-006",
-      "title": "Muito benquista pela criançada, é a brincadeira mais cultivada e, por isso mesmo, a mais",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",

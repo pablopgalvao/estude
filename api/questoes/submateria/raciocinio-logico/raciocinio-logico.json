@@ -2,6 +2,28 @@
   "total": 22,
   "items": [
     {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-012",
+      "title": "Na tabela a seguir são apresentados os dias da semana em que cada uma das turmas de",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-013",
+      "title": "Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes,",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
       "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-011",
       "title": "Para determinado evento infantil, foram convidados Huguinho, Zezinho e Luisinho. Eles",
       "materia": "Raciocínio Lógico",
@@ -35,19 +57,8 @@
       "questao": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-012",
-      "title": "Na tabela a seguir são apresentados os dias da semana em que cada uma das turmas de",
-      "materia": "Raciocínio Lógico",
-      "submateria": "Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-013",
-      "title": "Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes,",
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-017",
+      "title": "Em uma determinada cidade, foi realizada uma pesquisa com os moradores sobre seus hábitos",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -68,8 +79,8 @@
       "questao": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-017",
-      "title": "Em uma determinada cidade, foi realizada uma pesquisa com os moradores sobre seus hábitos",
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-019",
+      "title": "Determinada empresa pretende construir casas em um terreno com área total de 5.700 m².",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -90,17 +101,6 @@
       "questao": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-012",
-      "title": "Na tabela a seguir são apresentados os dias da semana em que cada uma das turmas de",
-      "materia": "Raciocínio Lógico",
-      "submateria": "Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
       "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-018",
       "title": "Bruno desenha em seu caderno três figuras geométricas sobrepostas: um retângulo que ele",
       "materia": "Raciocínio Lógico",
@@ -112,8 +112,8 @@
       "questao": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-019",
-      "title": "Determinada empresa pretende construir casas em um terreno com área total de 5.700 m².",
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-015",
+      "title": "Em determinado concurso de beleza, há quatro mulheres: uma capixaba, uma carioca, uma",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -123,8 +123,8 @@
       "questao": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-013",
-      "title": "Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes,",
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-012",
+      "title": "Na tabela a seguir são apresentados os dias da semana em que cada uma das turmas de",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -136,17 +136,6 @@
     {
       "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-014",
       "title": "Em uma escola de ensino fundamental, a professora questionou cinco crianças sobre o",
-      "materia": "Raciocínio Lógico",
-      "submateria": "Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-015",
-      "title": "Em determinado concurso de beleza, há quatro mulheres: uma capixaba, uma carioca, uma",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -178,6 +167,17 @@
       "questao": ""
     },
     {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-013",
+      "title": "Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes,",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
       "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-019",
       "title": "Determinada empresa pretende construir casas em um terreno com área total de 5.700 m².",
       "materia": "Raciocínio Lógico",
@@ -200,8 +200,8 @@
       "questao": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-edital-001-2023-015",
-      "title": "Um grupo com total de 150 pessoas foi entrevis­ tado e, durante a análise das respostas,",
+      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-edital-001-2023-004",
+      "title": "Maria comprou uma quantidade x de camisetas. Assinale a alternativa que indica todas as",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -211,8 +211,8 @@
       "questao": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-edital-001-2023-004",
-      "title": "Maria comprou uma quantidade x de camisetas. Assinale a alternativa que indica todas as",
+      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-edital-001-2023-015",
+      "title": "Um grupo com total de 150 pessoas foi entrevis­ tado e, durante a análise das respostas,",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",

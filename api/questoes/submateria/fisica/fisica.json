@@ -2,17 +2,6 @@
   "total": 57,
   "items": [
     {
-      "id": "q-fisica-fisica-concurso-publico-036",
-      "title": "Nos termos da Lei no 10.741, de 1o de outubro de 2003 (Estatuto do Idoso), é correto",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
       "id": "q-fisica-fisica-concurso-publico-037",
       "title": "Nos termos da Lei no 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a",
       "materia": "Física",
@@ -24,8 +13,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-038",
-      "title": "Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar,",
+      "id": "q-fisica-fisica-concurso-publico-040",
+      "title": "Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a política",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -35,8 +24,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-041",
-      "title": "É correto afirmar que a conduta de deixar de identificar- -se ao preso por ocasião de sua",
+      "id": "q-fisica-fisica-concurso-publico-036",
+      "title": "Nos termos da Lei no 10.741, de 1o de outubro de 2003 (Estatuto do Idoso), é correto",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -68,17 +57,6 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-040",
-      "title": "Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a política",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
       "id": "q-fisica-fisica-concurso-publico-044",
       "title": "Nos termos da Lei no 13.022, de 08 de agosto de 2014 (Estatuto Geral das Guardas",
       "materia": "Física",
@@ -90,8 +68,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-046",
-      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito),",
+      "id": "q-fisica-fisica-concurso-publico-041",
+      "title": "É correto afirmar que a conduta de deixar de identificar- -se ao preso por ocasião de sua",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -112,8 +90,19 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-047",
-      "title": "Nos termos da Lei complementar no 334 de 27 de dezem- bro de 2017 (Dispõe sobre a",
+      "id": "q-fisica-fisica-concurso-publico-038",
+      "title": "Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar,",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-046",
+      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito),",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -134,8 +123,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-049",
-      "title": "Nos termos da Lei complementar no 129 de 10 de feverei- ro de 2005 (Cria a Corregedoria",
+      "id": "q-fisica-fisica-concurso-publico-047",
+      "title": "Nos termos da Lei complementar no 334 de 27 de dezem- bro de 2017 (Dispõe sobre a",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -156,30 +145,30 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-096",
-      "title": "Ainda sobre o crescimento do Produto Interno Bruto (PIB) de Niterói, um dos elementos",
+      "id": "q-fisica-fisica-concurso-publico-049",
+      "title": "Nos termos da Lei complementar no 129 de 10 de feverei- ro de 2005 (Cria a Corregedoria",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-fisica-fisica-concurso-publico-098",
-      "title": "Sobre as características da população de Niterói, podemos considerar que a cidade possui:",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
       "questao": ""
     },
     {
       "id": "q-fisica-fisica-concurso-publico-095",
       "title": "Dados divulgados pelo Instituto Brasileiro de Geograﬁ a e Estatística (IBGE), tendo como",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-096",
+      "title": "Ainda sobre o crescimento do Produto Interno Bruto (PIB) de Niterói, um dos elementos",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -200,17 +189,6 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-099",
-      "title": "A estrutura administrativa do poder executivo da Prefeitura de Niterói é caracterizada",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
       "id": "q-fisica-fisica-concurso-publico-100",
       "title": "Devido às potencialidades e às condições geográﬁ cas do município de Niterói, uma",
       "materia": "Física",
@@ -222,14 +200,25 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-022",
-      "title": "No que diz respeito à Declaração Universal dos Direitos Humanos, é correto afirmar:",
+      "id": "q-fisica-fisica-concurso-publico-098",
+      "title": "Sobre as características da população de Niterói, podemos considerar que a cidade possui:",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-099",
+      "title": "A estrutura administrativa do poder executivo da Prefeitura de Niterói é caracterizada",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
       "questao": ""
     },
     {
@@ -244,8 +233,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-023",
-      "title": "Assinale a alternativa que apresenta corretamente as medidas integradas de prevenção às",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-022",
+      "title": "No que diz respeito à Declaração Universal dos Direitos Humanos, é correto afirmar:",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -266,30 +255,19 @@
       "questao": ""
     },
     {
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-023",
+      "title": "Assinale a alternativa que apresenta corretamente as medidas integradas de prevenção às",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
       "id": "q-fisica-fisica-concurso-publico-edital-001-2023-024",
       "title": "A Declaração Universal dos Direitos Humanos é um documento que determina:",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-025",
-      "title": "Assinale a alternativa que apresenta correta­ mente a maneira em que deve ser prestada a",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-027",
-      "title": "O Estatuto da Criança e do Adolescente deter­ mina que a colocação em família substituta",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -310,8 +288,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-026",
-      "title": "A inquirição de mulheres em situação de violência doméstica e familiar ou de testemunha",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-025",
+      "title": "Assinale a alternativa que apresenta correta­ mente a maneira em que deve ser prestada a",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -332,8 +310,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-031",
-      "title": "Assinale o princípio que as Entidades de Longa Permanência que atendem às demandas das",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-027",
+      "title": "O Estatuto da Criança e do Adolescente deter­ mina que a colocação em família substituta",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -343,8 +321,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-032",
-      "title": "Assinale a alternativa correta sobre a Declaração Universal dos Direitos Humanos.",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-026",
+      "title": "A inquirição de mulheres em situação de violência doméstica e familiar ou de testemunha",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -365,8 +343,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-034",
-      "title": "Assinale a alternativa que indica corretamente o crime que consiste em abandonar pessoa",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-031",
+      "title": "Assinale o princípio que as Entidades de Longa Permanência que atendem às demandas das",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -387,8 +365,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-037",
-      "title": "Assinale a alternativa correta de acordo com o Estatuto Geral das Guardas Municipais.",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-034",
+      "title": "Assinale a alternativa que indica corretamente o crime que consiste em abandonar pessoa",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -398,8 +376,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-041",
-      "title": "Aquele que der, entregar ou fornecer, ainda que gratuitamente, arma de fogo, acessório,",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-032",
+      "title": "Assinale a alternativa correta sobre a Declaração Universal dos Direitos Humanos.",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -420,8 +398,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-042",
-      "title": "Assinale a alternativa correta acerca do registro, posse e comercialização de armas de",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-043",
+      "title": "Assinale a alternativa que indica corretamente o órgão responsável pelo registro de armas",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -431,41 +409,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-044",
-      "title": "A Lei de Crimes Hediondos prevê um rol de cri­ mes cuja tipificação legal abrange os",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-038",
-      "title": "O estado de necessidade é classificado como:",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-047",
-      "title": "Sobre a Lei de Tortura, é correto afirmar:",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-048",
-      "title": "O servidor público condenado pela prática do crime de tortura ficará impedido de exercer",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-037",
+      "title": "Assinale a alternativa correta de acordo com o Estatuto Geral das Guardas Municipais.",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -486,8 +431,74 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-052",
-      "title": "Assinale a alternativa correta de acordo com a Lei nº 13.869/2019, que dispõe sobre os",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-041",
+      "title": "Aquele que der, entregar ou fornecer, ainda que gratuitamente, arma de fogo, acessório,",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-038",
+      "title": "O estado de necessidade é classificado como:",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-042",
+      "title": "Assinale a alternativa correta acerca do registro, posse e comercialização de armas de",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-048",
+      "title": "O servidor público condenado pela prática do crime de tortura ficará impedido de exercer",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-044",
+      "title": "A Lei de Crimes Hediondos prevê um rol de cri­ mes cuja tipificação legal abrange os",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-049",
+      "title": "Quando o crime de tortura for cometido por agente público haverá:",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-047",
+      "title": "Sobre a Lei de Tortura, é correto afirmar:",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -508,8 +519,19 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-049",
-      "title": "Quando o crime de tortura for cometido por agente público haverá:",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-051",
+      "title": "Assinale a alternativa correta com base na Consti­ tuição Federal de 1988.",
+      "materia": "Física",
+      "submateria": "Física",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-052",
+      "title": "Assinale a alternativa correta de acordo com a Lei nº 13.869/2019, que dispõe sobre os",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -541,30 +563,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-051",
-      "title": "Assinale a alternativa correta com base na Consti­ tuição Federal de 1988.",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-043",
-      "title": "Assinale a alternativa que indica corretamente o órgão responsável pelo registro de armas",
-      "materia": "Física",
-      "submateria": "Física",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-055",
-      "title": "Conforme disposto na Lei nº 13.869/2019, o crime “Submeter o preso a interrogatório",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-057",
+      "title": "De acordo com a Lei nº 13.675/2018, que cria a Política Nacional de Segurança Pública e",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -585,8 +585,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-065",
-      "title": "Agente da autoridade de Trânsito, em realização de atividade rotineira, aborda um cidadão",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-055",
+      "title": "Conforme disposto na Lei nº 13.869/2019, o crime “Submeter o preso a interrogatório",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",
@@ -596,8 +596,8 @@
       "questao": ""
     },
     {
-      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-057",
-      "title": "De acordo com a Lei nº 13.675/2018, que cria a Política Nacional de Segurança Pública e",
+      "id": "q-fisica-fisica-concurso-publico-edital-001-2023-065",
+      "title": "Agente da autoridade de Trânsito, em realização de atividade rotineira, aborda um cidadão",
       "materia": "Física",
       "submateria": "Física",
       "dificuldade": "media",

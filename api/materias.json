@@ -28,12 +28,12 @@
     "nome": "História"
   },
   {
-    "id": "informatica",
-    "nome": "Informática"
-  },
-  {
     "id": "legislacao",
     "nome": "Legislação"
+  },
+  {
+    "id": "informatica",
+    "nome": "Informática"
   },
   {
     "id": "portugues",

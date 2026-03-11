@@ -24,17 +24,6 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-002",
-      "title": "O artigo 5º, inciso IV, da CRFB/88, versa sobre a liberdade de manifestação do",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
       "id": "q-informatica-informatica-concurso-publico-001",
       "title": "Os princípios fundamentais, dispostos no art. 1º, incisos I ao V, da CRFB/88, são a base",
       "materia": "Informática",
@@ -57,8 +46,8 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-008",
-      "title": "Consoante o disposto no §1º do artigo 144 da CRFB/88, o(s) órgão(s) que se destina(m) a",
+      "id": "q-informatica-informatica-concurso-publico-004",
+      "title": "Os artigos 21 e 22 da CRFB/88 tratam, respectivamente, da competência exclusiva e da",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -79,30 +68,8 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-004",
-      "title": "Os artigos 21 e 22 da CRFB/88 tratam, respectivamente, da competência exclusiva e da",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-007",
-      "title": "O artigo 37, caput, da CRFB/88 trata dos princípios constitucionais explícitos da",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-010",
-      "title": "Marco histórico no combate aos atos ilícitos na administração pública, a Lei de",
+      "id": "q-informatica-informatica-concurso-publico-002",
+      "title": "O artigo 5º, inciso IV, da CRFB/88, versa sobre a liberdade de manifestação do",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -123,8 +90,8 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-009",
-      "title": "No exercício de suas funções, a administração deve exercer uma gama de atos que são",
+      "id": "q-informatica-informatica-concurso-publico-008",
+      "title": "Consoante o disposto no §1º do artigo 144 da CRFB/88, o(s) órgão(s) que se destina(m) a",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -134,8 +101,41 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-012",
-      "title": "A atribuição para a aplicação de sanções àqueles que estejam sujeitos à disciplina do",
+      "id": "q-informatica-informatica-concurso-publico-011",
+      "title": "Entre os atos que visam a disciplinar o funcionamento da Administração e a conduta",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-010",
+      "title": "Marco histórico no combate aos atos ilícitos na administração pública, a Lei de",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-007",
+      "title": "O artigo 37, caput, da CRFB/88 trata dos princípios constitucionais explícitos da",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-009",
+      "title": "No exercício de suas funções, a administração deve exercer uma gama de atos que são",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -167,8 +167,30 @@
       "questao": ""
     },
     {
+      "id": "q-informatica-informatica-concurso-publico-012",
+      "title": "A atribuição para a aplicação de sanções àqueles que estejam sujeitos à disciplina do",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
       "id": "q-informatica-informatica-concurso-publico-015",
       "title": "Em regra, é vedada a acumulação remunerada de cargos públicos, empregos e funções em toda",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-017",
+      "title": "De acordo com o Decreto Lei nº 2.848, de 07 de dezembro de 1940 (Código Penal),",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -189,8 +211,8 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-011",
-      "title": "Entre os atos que visam a disciplinar o funcionamento da Administração e a conduta",
+      "id": "q-informatica-informatica-concurso-publico-019",
+      "title": "O Decreto Lei nº 2.848, de 07 de dezembro de 1940 (Código Penal), dispõe no seu art. 327",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -200,8 +222,8 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-017",
-      "title": "De acordo com o Decreto Lei nº 2.848, de 07 de dezembro de 1940 (Código Penal),",
+      "id": "q-informatica-informatica-concurso-publico-020",
+      "title": "O Código Penal (Decreto Lei nº 2.848, de 07 de dezembro de 1940) elenca, no capítulo II",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -224,39 +246,6 @@
     {
       "id": "q-informatica-informatica-concurso-publico-021",
       "title": "De acordo com o Código Penal Brasileiro (Decreto Lei nº 2.848, de 07 de dezembro de",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-020",
-      "title": "O Código Penal (Decreto Lei nº 2.848, de 07 de dezembro de 1940) elenca, no capítulo II",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-019",
-      "title": "O Decreto Lei nº 2.848, de 07 de dezembro de 1940 (Código Penal), dispõe no seu art. 327",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-023",
-      "title": "A Lei das Contravenções Penais (Decreto Lei nº 3.688, de 03 de outubro de 1941)",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -277,17 +266,6 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-001",
-      "title": "Os princípios fundamentais, dispostos no art. 1º, incisos I ao V, da CRFB/88, são a base",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
       "id": "q-informatica-informatica-concurso-publico-003",
       "title": "O inciso XIV do artigo 5º da CRFB/88 versa sobre o livre acesso à informação. Acerca",
       "materia": "Informática",
@@ -301,6 +279,28 @@
     {
       "id": "q-informatica-informatica-concurso-publico-002",
       "title": "O artigo 5º, inciso IV, da CRFB/88, versa sobre a liberdade de manifestação do",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-023",
+      "title": "A Lei das Contravenções Penais (Decreto Lei nº 3.688, de 03 de outubro de 1941)",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-001",
+      "title": "Os princípios fundamentais, dispostos no art. 1º, incisos I ao V, da CRFB/88, são a base",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -332,41 +332,19 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-007",
-      "title": "O artigo 37, caput, da CRFB/88 trata dos princípios constitucionais explícitos da",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-009",
-      "title": "No exercício de suas funções, a administração deve exercer uma gama de atos que são",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-008",
-      "title": "Consoante o disposto no §1º do artigo 144 da CRFB/88, o(s) órgão(s) que se destina(m) a",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
       "id": "q-informatica-informatica-concurso-publico-005",
       "title": "No artigo 37 da CRFB/88, estão insculpidas as normas constitucionais referentes à",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-007",
+      "title": "O artigo 37, caput, da CRFB/88 trata dos princípios constitucionais explícitos da",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -387,19 +365,8 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-011",
-      "title": "Entre os atos que visam a disciplinar o funcionamento da Administração e a conduta",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-010",
-      "title": "Marco histórico no combate aos atos ilícitos na administração pública, a Lei de",
+      "id": "q-informatica-informatica-concurso-publico-009",
+      "title": "No exercício de suas funções, a administração deve exercer uma gama de atos que são",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -420,6 +387,28 @@
       "questao": ""
     },
     {
+      "id": "q-informatica-informatica-concurso-publico-008",
+      "title": "Consoante o disposto no §1º do artigo 144 da CRFB/88, o(s) órgão(s) que se destina(m) a",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-011",
+      "title": "Entre os atos que visam a disciplinar o funcionamento da Administração e a conduta",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
       "id": "q-informatica-informatica-concurso-publico-014",
       "title": "A acessibilidade aos cargos públicos é um princípio constitucional garantido a todos os",
       "materia": "Informática",
@@ -431,41 +420,8 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-016",
-      "title": "A propositura da ação de improbidade administrativa compete ao Ministério Público e deve",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-015",
-      "title": "Em regra, é vedada a acumulação remunerada de cargos públicos, empregos e funções em toda",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-019",
-      "title": "O Decreto Lei nº 2.848, de 07 de dezembro de 1940 (Código Penal), dispõe no seu art. 327",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-018",
-      "title": "“A noção de estado de necessidade remete à ideia de sopesamento de bens diante de uma",
+      "id": "q-informatica-informatica-concurso-publico-010",
+      "title": "Marco histórico no combate aos atos ilícitos na administração pública, a Lei de",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -486,8 +442,41 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-021",
-      "title": "De acordo com o Código Penal Brasileiro (Decreto Lei nº 2.848, de 07 de dezembro de",
+      "id": "q-informatica-informatica-concurso-publico-018",
+      "title": "“A noção de estado de necessidade remete à ideia de sopesamento de bens diante de uma",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-016",
+      "title": "A propositura da ação de improbidade administrativa compete ao Ministério Público e deve",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-019",
+      "title": "O Decreto Lei nº 2.848, de 07 de dezembro de 1940 (Código Penal), dispõe no seu art. 327",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-015",
+      "title": "Em regra, é vedada a acumulação remunerada de cargos públicos, empregos e funções em toda",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -499,6 +488,17 @@
     {
       "id": "q-informatica-informatica-concurso-publico-020",
       "title": "O Código Penal (Decreto Lei nº 2.848, de 07 de dezembro de 1940) elenca, no capítulo II",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-021",
+      "title": "De acordo com o Código Penal Brasileiro (Decreto Lei nº 2.848, de 07 de dezembro de",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -541,8 +541,8 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-017",
-      "title": "Um motor de busca ou motor de pesquisa na Internet é um sistema especializado em buscar",
+      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-018",
+      "title": "Os modos de espera, hibernação e desativação do Windows descrevem estados de inatividade",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -552,8 +552,19 @@
       "questao": ""
     },
     {
-      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-018",
-      "title": "Os modos de espera, hibernação e desativação do Windows descrevem estados de inatividade",
+      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-020",
+      "title": "No sistema operacional Windows, é possível alte­ rar o conteúdo de um arquivo que se",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-017",
+      "title": "Um motor de busca ou motor de pesquisa na Internet é um sistema especializado em buscar",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",
@@ -576,17 +587,6 @@
     {
       "id": "q-informatica-informatica-concurso-publico-edital-001-2023-016",
       "title": "No sistema operacional Windows é possível rea­ lizar a instalação de diversas",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-020",
-      "title": "No sistema operacional Windows, é possível alte­ rar o conteúdo de um arquivo que se",
       "materia": "Informática",
       "submateria": "Informática",
       "dificuldade": "media",

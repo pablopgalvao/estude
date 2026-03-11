@@ -35,17 +35,6 @@
       "questao": ""
     },
     {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-007",
-      "title": "No texto, o autor trata",
-      "materia": "Língua Portuguesa",
-      "submateria": "Interpretação De Texto",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
       "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-003",
       "title": "A expressão destacada em negrito na passagem do s­egundo parágrafo “A China tem uma",
       "materia": "Língua Portuguesa",
@@ -68,19 +57,8 @@
       "questao": ""
     },
     {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-002",
-      "title": "Para o autor, embora a produção científica chinesa tenha",
-      "materia": "Língua Portuguesa",
-      "submateria": "Interpretação De Texto",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-004",
-      "title": "Para o autor, a posição defendida por economistas de que a ausência de instituições",
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-007",
+      "title": "No texto, o autor trata",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",
@@ -112,8 +90,30 @@
       "questao": ""
     },
     {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-002",
+      "title": "Para o autor, embora a produção científica chinesa tenha",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
       "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-007",
       "title": "No texto, o autor trata",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-004",
+      "title": "Para o autor, a posição defendida por economistas de que a ausência de instituições",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",
@@ -131,17 +131,6 @@
       "tags": [],
       "bancaExaminadora": "VUNESP",
       "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-051",
-      "title": "De acordo com o texto, o ambiente digital:",
-      "materia": "Língua Portuguesa",
-      "submateria": "Interpretação De Texto",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
       "questao": ""
     },
     {
@@ -178,8 +167,8 @@
       "questao": ""
     },
     {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-057",
-      "title": "“A internet aumenta as vulnerabilidades que já existem no ambiente oﬄ ine” (2º",
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-051",
+      "title": "De acordo com o texto, o ambiente digital:",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",
@@ -191,6 +180,17 @@
     {
       "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-054",
       "title": "Leia o trecho a seguir, extraído do 1º e 2º parágrafos do texto: \"'A avaliação é do",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-057",
+      "title": "“A internet aumenta as vulnerabilidades que já existem no ambiente oﬄ ine” (2º",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",
@@ -244,8 +244,8 @@
       "questao": ""
     },
     {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-085",
-      "title": "No uso dos recursos do Word do pacote 2021 BR, em um notebook Windows 10 BR (x64), um",
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-084",
+      "title": "Um diretório do Linux é simplesmente um arquivo, que é distribuído em forma de",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",
@@ -255,8 +255,8 @@
       "questao": ""
     },
     {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-084",
-      "title": "Um diretório do Linux é simplesmente um arquivo, que é distribuído em forma de",
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-085",
+      "title": "No uso dos recursos do Word do pacote 2021 BR, em um notebook Windows 10 BR (x64), um",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",

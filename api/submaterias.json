@@ -35,14 +35,14 @@
     "materiaId": "historia"
   },
   {
-    "id": "informatica",
-    "nome": "Informática",
-    "materiaId": "informatica"
-  },
-  {
     "id": "legislacao",
     "nome": "Legislação",
     "materiaId": "legislacao"
+  },
+  {
+    "id": "informatica",
+    "nome": "Informática",
+    "materiaId": "informatica"
   },
   {
     "id": "lingua-portuguesa",

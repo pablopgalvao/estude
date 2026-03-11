@@ -2,116 +2,6 @@
   "total": 109,
   "items": [
     {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-071",
-      "title": "De acordo com a Lei nº 13.022/2014 (Estatuto Geral das Guardas), as guardas municipais",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-072",
-      "title": "Por obrigação legal, a Agência Nacional de Telecomunicações (Anatel) tem que destinar",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-074",
-      "title": "Respeitadas as competências dos órgãos federais e estaduais, há diversas competências",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-076",
-      "title": "Considere que Maria é guarda municipal; Paulo é analista tributário da Receita Federal do",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-075",
-      "title": "A Lei nº 13.869/2019 definiu os crimes de abuso de autoridade, cometidos por agente",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-073",
-      "title": "Para garantir a gestão democrática da cidade, a Lei Orgânica do Município de Fortaleza",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-077",
-      "title": "Considerando o disposto na Lei Orgânica Municipal, assinale abaixo a única alternativa",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-078",
-      "title": "Francisco de Assis, guarda municipal, estava conduzindo uma viatura da Guarda Municipal",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-079",
-      "title": "Silvia foi exonerada após ter completado 03 (três) anos e 06 (seis) meses de exercício em",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-080",
-      "title": "No serviço público municipal, o servidor, cujo cônjuge ou companheiro tiver sido mandado",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
       "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-072",
       "title": "Por obrigação legal, a Agência Nacional de Telecomunicações (Anatel) tem que destinar",
       "materia": "Legislação",
@@ -145,8 +35,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-074",
-      "title": "Respeitadas as competências dos órgãos federais e estaduais, há diversas competências",
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-075",
+      "title": "A Lei nº 13.869/2019 definiu os crimes de abuso de autoridade, cometidos por agente",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -156,8 +46,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-076",
-      "title": "Considere que Maria é guarda municipal; Paulo é analista tributário da Receita Federal do",
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-074",
+      "title": "Respeitadas as competências dos órgãos federais e estaduais, há diversas competências",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -178,19 +68,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-075",
-      "title": "A Lei nº 13.869/2019 definiu os crimes de abuso de autoridade, cometidos por agente",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-079",
-      "title": "Silvia foi exonerada após ter completado 03 (três) anos e 06 (seis) meses de exercício em",
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-076",
+      "title": "Considere que Maria é guarda municipal; Paulo é analista tributário da Receita Federal do",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -211,6 +90,28 @@
       "questao": ""
     },
     {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-079",
+      "title": "Silvia foi exonerada após ter completado 03 (três) anos e 06 (seis) meses de exercício em",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-072",
+      "title": "Por obrigação legal, a Agência Nacional de Telecomunicações (Anatel) tem que destinar",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
       "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-080",
       "title": "No serviço público municipal, o servidor, cujo cônjuge ou companheiro tiver sido mandado",
       "materia": "Legislação",
@@ -222,52 +123,107 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-031",
-      "title": "Considere o seguinte caso hipotético: Artomis, utilizando- -se de grave ameaça, obriga",
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-071",
+      "title": "De acordo com a Lei nº 13.022/2014 (Estatuto Geral das Guardas), as guardas municipais",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-075",
+      "title": "A Lei nº 13.869/2019 definiu os crimes de abuso de autoridade, cometidos por agente",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-076",
+      "title": "Considere que Maria é guarda municipal; Paulo é analista tributário da Receita Federal do",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-074",
+      "title": "Respeitadas as competências dos órgãos federais e estaduais, há diversas competências",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-073",
+      "title": "Para garantir a gestão democrática da cidade, a Lei Orgânica do Município de Fortaleza",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-077",
+      "title": "Considerando o disposto na Lei Orgânica Municipal, assinale abaixo a única alternativa",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-079",
+      "title": "Silvia foi exonerada após ter completado 03 (três) anos e 06 (seis) meses de exercício em",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-080",
+      "title": "No serviço público municipal, o servidor, cujo cônjuge ou companheiro tiver sido mandado",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-078",
+      "title": "Francisco de Assis, guarda municipal, estava conduzindo uma viatura da Guarda Municipal",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
       "questao": ""
     },
     {
       "id": "q-legislacao-legislacao-concurso-publico-032",
       "title": "Nos termos do Código de Processo Penal, é correto afir- mar que",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-038",
-      "title": "Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar,",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-039",
-      "title": "Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a conduta de",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-037",
-      "title": "Nos termos da Lei no 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -288,8 +244,19 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-041",
-      "title": "É correto afirmar que a conduta de deixar de identificar- -se ao preso por ocasião de sua",
+      "id": "q-legislacao-legislacao-concurso-publico-037",
+      "title": "Nos termos da Lei no 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-031",
+      "title": "Considere o seguinte caso hipotético: Artomis, utilizando- -se de grave ameaça, obriga",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -310,8 +277,30 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-043",
-      "title": "Nos termos da Lei no 13.022, de 08 de agosto de 2014 (Estatuto Geral das Guardas",
+      "id": "q-legislacao-legislacao-concurso-publico-039",
+      "title": "Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a conduta de",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-038",
+      "title": "Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar,",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-041",
+      "title": "É correto afirmar que a conduta de deixar de identificar- -se ao preso por ocasião de sua",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -332,8 +321,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-045",
-      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito",
+      "id": "q-legislacao-legislacao-concurso-publico-044",
+      "title": "Nos termos da Lei no 13.022, de 08 de agosto de 2014 (Estatuto Geral das Guardas",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -343,7 +332,7 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-044",
+      "id": "q-legislacao-legislacao-concurso-publico-043",
       "title": "Nos termos da Lei no 13.022, de 08 de agosto de 2014 (Estatuto Geral das Guardas",
       "materia": "Legislação",
       "submateria": "Legislação",
@@ -365,19 +354,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-049",
-      "title": "Nos termos da Lei complementar no 129 de 10 de feverei- ro de 2005 (Cria a Corregedoria",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-046",
-      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito),",
+      "id": "q-legislacao-legislacao-concurso-publico-045",
+      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -409,6 +387,28 @@
       "questao": ""
     },
     {
+      "id": "q-legislacao-legislacao-concurso-publico-046",
+      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito),",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-049",
+      "title": "Nos termos da Lei complementar no 129 de 10 de feverei- ro de 2005 (Cria a Corregedoria",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
+      "questao": ""
+    },
+    {
       "id": "q-legislacao-legislacao-concurso-publico-027",
       "title": "De acordo com a previsão contida na Lei n° 8069/90, uma das medidas de proteção à criança",
       "materia": "Legislação",
@@ -431,261 +431,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-026",
-      "title": "À luz da Lei n° 8069/90, um dos princípios que regem as Medidas Especíﬁ cas de Proteção à",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
       "id": "q-legislacao-legislacao-concurso-publico-028",
       "title": "Em consonância com a Lei n° 8069/90, o ato infracional é a conduta descrita como:",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-029",
-      "title": "Uma das garantias processuais asseguradas pela Lei n° 8069/90 ao adolescente diz respeito",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-030",
-      "title": "De acordo com a Lei n° 8069/90, quando veriﬁ cada a prática de ato infracional, algumas",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-031",
-      "title": "Dentre os crimes em espécie previstos na Lei n° 8069/90, encontra-se o de “Submeter",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-033",
-      "title": "Em consonância com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-034",
-      "title": "À luz da Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL DAS",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-032",
-      "title": "De acordo com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-036",
-      "title": "É sabido que os órgãos de trânsito do Brasil são os responsáveis por administrar o",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-035",
-      "title": "O Sistema Nacional de Trânsito é composto por diferentes órgãos e entidades dentre os",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-038",
-      "title": "As vias abertas à circulação, de acordo com sua utilização, classiﬁ cam-se em vias",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-041",
-      "title": "De acordo com a Lei nº 13.675, de 11 de junho de 2018, são integrantes estratégicos do",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-040",
-      "title": "Sobre a organização e o funcionamento dos órgãos responsáveis pela segurança pública, a",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-037",
-      "title": "A aplicação de multa e o recolhimento do certiﬁ cado de registro e do certiﬁ cado de",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-044",
-      "title": "A Lei nº 13.675, de 11 de junho de 2018, instituiu o Sistema Integrado de Educação e",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-042",
-      "title": "A integração e a coordenação dos órgãos integrantes do Susp dar-se-ão nos limites das",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-039",
-      "title": "O Código de Trânsito Brasileiro estabelece que conduzir um veículo com elementos de",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-045",
-      "title": "A Guarda Municipal é órgão de segurança que desempenha atividades de alcance limitado em",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-046",
-      "title": "Na estrutura da Guarda Civil Municipal, estão estabelecidos os cargos de Inspetor-Geral,",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-047",
-      "title": "A Lei Orgânica do Município de Niterói dispõe sobre as regras de funcionamento dos",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-043",
-      "title": "O § 2º do art. 9º da Lei nº 13.675, de 11 de junho de 2018, apresenta os integrantes",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-049",
-      "title": "O Código de Posturas do Município de Niterói trata do exercício do poder de polícia da",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-025",
-      "title": "De acordo com a Lei n° 8069/90, em relação aos direitos nela reconhecidos que forem",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-050",
-      "title": "O servidor poderá fazer uso de um período de afastamento temporário de suas funções por",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -717,52 +464,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-048",
-      "title": "No âmbito da Guarda do Município de Niterói, está estabelecido Regime Adicional de",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-027",
-      "title": "De acordo com a previsão contida na Lei n° 8069/90, uma das medidas de proteção à criança",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
       "id": "q-legislacao-legislacao-concurso-publico-031",
       "title": "Dentre os crimes em espécie previstos na Lei n° 8069/90, encontra-se o de “Submeter",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-033",
-      "title": "Em consonância com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-028",
-      "title": "Em consonância com a Lei n° 8069/90, o ato infracional é a conduta descrita como:",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -783,8 +486,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-034",
-      "title": "À luz da Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL DAS",
+      "id": "q-legislacao-legislacao-concurso-publico-033",
+      "title": "Em consonância com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -794,8 +497,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-038",
-      "title": "As vias abertas à circulação, de acordo com sua utilização, classiﬁ cam-se em vias",
+      "id": "q-legislacao-legislacao-concurso-publico-034",
+      "title": "À luz da Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL DAS",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -827,8 +530,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-037",
-      "title": "A aplicação de multa e o recolhimento do certiﬁ cado de registro e do certiﬁ cado de",
+      "id": "q-legislacao-legislacao-concurso-publico-030",
+      "title": "De acordo com a Lei n° 8069/90, quando veriﬁ cada a prática de ato infracional, algumas",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -849,8 +552,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-041",
-      "title": "De acordo com a Lei nº 13.675, de 11 de junho de 2018, são integrantes estratégicos do",
+      "id": "q-legislacao-legislacao-concurso-publico-037",
+      "title": "A aplicação de multa e o recolhimento do certiﬁ cado de registro e do certiﬁ cado de",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -860,19 +563,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-030",
-      "title": "De acordo com a Lei n° 8069/90, quando veriﬁ cada a prática de ato infracional, algumas",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-042",
-      "title": "A integração e a coordenação dos órgãos integrantes do Susp dar-se-ão nos limites das",
+      "id": "q-legislacao-legislacao-concurso-publico-038",
+      "title": "As vias abertas à circulação, de acordo com sua utilização, classiﬁ cam-se em vias",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -904,8 +596,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-044",
-      "title": "A Lei nº 13.675, de 11 de junho de 2018, instituiu o Sistema Integrado de Educação e",
+      "id": "q-legislacao-legislacao-concurso-publico-041",
+      "title": "De acordo com a Lei nº 13.675, de 11 de junho de 2018, são integrantes estratégicos do",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -915,8 +607,19 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-045",
-      "title": "A Guarda Municipal é órgão de segurança que desempenha atividades de alcance limitado em",
+      "id": "q-legislacao-legislacao-concurso-publico-042",
+      "title": "A integração e a coordenação dos órgãos integrantes do Susp dar-se-ão nos limites das",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-044",
+      "title": "A Lei nº 13.675, de 11 de junho de 2018, instituiu o Sistema Integrado de Educação e",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -948,6 +651,292 @@
       "questao": ""
     },
     {
+      "id": "q-legislacao-legislacao-concurso-publico-045",
+      "title": "A Guarda Municipal é órgão de segurança que desempenha atividades de alcance limitado em",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-048",
+      "title": "No âmbito da Guarda do Município de Niterói, está estabelecido Regime Adicional de",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-050",
+      "title": "O servidor poderá fazer uso de um período de afastamento temporário de suas funções por",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-049",
+      "title": "O Código de Posturas do Município de Niterói trata do exercício do poder de polícia da",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-027",
+      "title": "De acordo com a previsão contida na Lei n° 8069/90, uma das medidas de proteção à criança",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-025",
+      "title": "De acordo com a Lei n° 8069/90, em relação aos direitos nela reconhecidos que forem",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-028",
+      "title": "Em consonância com a Lei n° 8069/90, o ato infracional é a conduta descrita como:",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-026",
+      "title": "À luz da Lei n° 8069/90, um dos princípios que regem as Medidas Especíﬁ cas de Proteção à",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-030",
+      "title": "De acordo com a Lei n° 8069/90, quando veriﬁ cada a prática de ato infracional, algumas",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-029",
+      "title": "Uma das garantias processuais asseguradas pela Lei n° 8069/90 ao adolescente diz respeito",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-031",
+      "title": "Dentre os crimes em espécie previstos na Lei n° 8069/90, encontra-se o de “Submeter",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-032",
+      "title": "De acordo com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-034",
+      "title": "À luz da Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL DAS",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-033",
+      "title": "Em consonância com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-035",
+      "title": "O Sistema Nacional de Trânsito é composto por diferentes órgãos e entidades dentre os",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-037",
+      "title": "A aplicação de multa e o recolhimento do certiﬁ cado de registro e do certiﬁ cado de",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-036",
+      "title": "É sabido que os órgãos de trânsito do Brasil são os responsáveis por administrar o",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-038",
+      "title": "As vias abertas à circulação, de acordo com sua utilização, classiﬁ cam-se em vias",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-040",
+      "title": "Sobre a organização e o funcionamento dos órgãos responsáveis pela segurança pública, a",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-039",
+      "title": "O Código de Trânsito Brasileiro estabelece que conduzir um veículo com elementos de",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-043",
+      "title": "O § 2º do art. 9º da Lei nº 13.675, de 11 de junho de 2018, apresenta os integrantes",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-042",
+      "title": "A integração e a coordenação dos órgãos integrantes do Susp dar-se-ão nos limites das",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-045",
+      "title": "A Guarda Municipal é órgão de segurança que desempenha atividades de alcance limitado em",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-041",
+      "title": "De acordo com a Lei nº 13.675, de 11 de junho de 2018, são integrantes estratégicos do",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-044",
+      "title": "A Lei nº 13.675, de 11 de junho de 2018, instituiu o Sistema Integrado de Educação e",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-046",
+      "title": "Na estrutura da Guarda Civil Municipal, estão estabelecidos os cargos de Inspetor-Geral,",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
       "id": "q-legislacao-legislacao-concurso-publico-048",
       "title": "No âmbito da Guarda do Município de Niterói, está estabelecido Regime Adicional de",
       "materia": "Legislação",
@@ -970,8 +959,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-050",
-      "title": "O servidor poderá fazer uso de um período de afastamento temporário de suas funções por",
+      "id": "q-legislacao-legislacao-concurso-publico-047",
+      "title": "A Lei Orgânica do Município de Niterói dispõe sobre as regras de funcionamento dos",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -981,25 +970,14 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-edital-001-2023-066",
-      "title": "Dentre os componentes do Sistema Nacional de Trânsito, podemos destacar a Junta",
+      "id": "q-legislacao-legislacao-concurso-publico-050",
+      "title": "O servidor poderá fazer uso de um período de afastamento temporário de suas funções por",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-edital-001-2023-067",
-      "title": "Analisando as normas gerais de circulação e con­ duta, é correto afirmar:",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "FEPESE",
-      "prova": "Concurso Público • Edital 001/2023 2024",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
       "questao": ""
     },
     {
@@ -1047,14 +1025,25 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-guarda-civil-municipal-de-3-004",
-      "title": "Via Urbana. ( ) Ruas, avenidas, vielas, ou caminhos e similares abertos à circulação",
+      "id": "q-legislacao-legislacao-concurso-publico-edital-001-2023-067",
+      "title": "Analisando as normas gerais de circulação e con­ duta, é correto afirmar:",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "CONSULPLAN",
-      "prova": "GUARDA CIVIL MUNICIPAL DE 3ª 2023",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-edital-001-2023-066",
+      "title": "Dentre os componentes do Sistema Nacional de Trânsito, podemos destacar a Junta",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024",
       "questao": ""
     },
     {
@@ -1069,30 +1058,19 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-017",
-      "title": "Com base na Constituição Federal, constitui crime inafiançável e imprescritível, sujeito",
+      "id": "q-legislacao-legislacao-guarda-civil-municipal-de-3-004",
+      "title": "Via Urbana. ( ) Ruas, avenidas, vielas, ou caminhos e similares abertos à circulação",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "https://concursos.objetivas.com.br 2024",
+      "bancaExaminadora": "CONSULPLAN",
+      "prova": "GUARDA CIVIL MUNICIPAL DE 3ª 2023",
       "questao": ""
     },
     {
       "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-018",
       "title": "Um servidor público deve sempre agir com imparcialidade. Isso significa que ele deve:",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "https://concursos.objetivas.com.br 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-020",
-      "title": "No Brasil (e em grande parte dos países do Ocidente), existem eleições pois o regime",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -1113,8 +1091,41 @@
       "questao": ""
     },
     {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-018",
+      "title": "Um servidor público deve sempre agir com imparcialidade. Isso significa que ele deve:",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024",
+      "questao": ""
+    },
+    {
       "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-021",
       "title": "O nome dado ao aumento dos preços de produtos e serviços, baseado no índice de preços",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-017",
+      "title": "Com base na Constituição Federal, constitui crime inafiançável e imprescritível, sujeito",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-017",
+      "title": "Com base na Constituição Federal, constitui crime inafiançável e imprescritível, sujeito",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -1135,8 +1146,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-018",
-      "title": "Um servidor público deve sempre agir com imparcialidade. Isso significa que ele deve:",
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-021",
+      "title": "O nome dado ao aumento dos preços de produtos e serviços, baseado no índice de preços",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -1157,19 +1168,8 @@
       "questao": ""
     },
     {
-      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-017",
-      "title": "Com base na Constituição Federal, constitui crime inafiançável e imprescritível, sujeito",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "https://concursos.objetivas.com.br 2024",
-      "questao": ""
-    },
-    {
-      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-021",
-      "title": "O nome dado ao aumento dos preços de produtos e serviços, baseado no índice de preços",
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-020",
+      "title": "No Brasil (e em grande parte dos países do Ocidente), existem eleições pois o regime",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",

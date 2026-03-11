@@ -24,8 +24,8 @@
       "questao": ""
     },
     {
-      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-024",
-      "title": "Google Meet é um aplicativo desenvolvido pelo Google com foco na realização das",
+      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-026",
+      "title": "Segurança da informação é a proteção de dados de propriedade das organizações contra",
       "materia": "Português",
       "submateria": "Língua Portuguesa",
       "dificuldade": "media",
@@ -37,6 +37,28 @@
     {
       "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-025",
       "title": "Ao usar os recursos de um browser como o Google Chrome ou o Firefox Mozilla, em ambos é",
+      "materia": "Português",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-024",
+      "title": "Google Meet é um aplicativo desenvolvido pelo Google com foco na realização das",
+      "materia": "Português",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-022",
+      "title": "No que se refere aos sistemas operacionais Windows e Linux, dois componentes são",
       "materia": "Português",
       "submateria": "Língua Portuguesa",
       "dificuldade": "media",
@@ -57,17 +79,6 @@
       "questao": ""
     },
     {
-      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-026",
-      "title": "Segurança da informação é a proteção de dados de propriedade das organizações contra",
-      "materia": "Português",
-      "submateria": "Língua Portuguesa",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
       "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-024",
       "title": "Google Meet é um aplicativo desenvolvido pelo Google com foco na realização das",
       "materia": "Português",
@@ -92,17 +103,6 @@
     {
       "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-026",
       "title": "Segurança da informação é a proteção de dados de propriedade das organizações contra",
-      "materia": "Português",
-      "submateria": "Língua Portuguesa",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-022",
-      "title": "No que se refere aos sistemas operacionais Windows e Linux, dois componentes são",
       "materia": "Português",
       "submateria": "Língua Portuguesa",
       "dificuldade": "media",

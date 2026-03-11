@@ -2,30 +2,8 @@
   "total": 49,
   "items": [
     {
-      "id": "q-etica-etica-cargo-guarda-municipal-tipo-a-004",
-      "title": "Lagoa W está integrada com Terminal Rodoviário; Conclui-se corretamente que:",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
       "id": "q-etica-etica-cargo-guarda-municipal-tipo-a-034",
       "title": "A cidade de Fortaleza conta com diversas regiões administrativas devidamente espalhadas",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-etica-etica-cargo-guarda-municipal-tipo-a-035",
-      "title": "O Produto Interno Bruto (PIB) não se destina exclusivamente à medição de todas as",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -46,8 +24,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-cargo-guarda-municipal-tipo-a-037",
-      "title": "São pontos turísticos da cidade de Fortaleza:",
+      "id": "q-etica-etica-cargo-guarda-municipal-tipo-a-035",
+      "title": "O Produto Interno Bruto (PIB) não se destina exclusivamente à medição de todas as",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -59,6 +37,28 @@
     {
       "id": "q-etica-etica-cargo-guarda-municipal-tipo-a-038",
       "title": "Do ponto de vista histórico, o nome da cidade de Fortaleza faz referência:",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-etica-etica-cargo-guarda-municipal-tipo-a-004",
+      "title": "Lagoa W está integrada com Terminal Rodoviário; Conclui-se corretamente que:",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-etica-etica-cargo-guarda-municipal-tipo-a-037",
+      "title": "São pontos turísticos da cidade de Fortaleza:",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -101,8 +101,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-058",
-      "title": "“O pesquisador lamenta a falta de participação das grandes empresas em debates” (5º",
+      "id": "q-etica-etica-concurso-publico-054",
+      "title": "Leia o trecho a seguir, extraído do 1º e 2º parágrafos do texto: \"'A avaliação é do",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -123,8 +123,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-054",
-      "title": "Leia o trecho a seguir, extraído do 1º e 2º parágrafos do texto: \"'A avaliação é do",
+      "id": "q-etica-etica-concurso-publico-058",
+      "title": "“O pesquisador lamenta a falta de participação das grandes empresas em debates” (5º",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -145,8 +145,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-060",
-      "title": "“E alerta para o fato de que o afrouxamento da moderação das redes Instagram e Facebook,",
+      "id": "q-etica-etica-concurso-publico-061",
+      "title": "“Como saída, ele identiﬁ ca a necessidade de o Estado aplicar",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -167,19 +167,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-063",
-      "title": "“O governo está recolhendo subsídios e argumentos nesse embate com as plataformas",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-etica-etica-concurso-publico-061",
-      "title": "“Como saída, ele identiﬁ ca a necessidade de o Estado aplicar",
+      "id": "q-etica-etica-concurso-publico-060",
+      "title": "“E alerta para o fato de que o afrouxamento da moderação das redes Instagram e Facebook,",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -211,19 +200,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-067",
-      "title": "“Agora chegou a vez do Executivo assumir a sua responsabilidade de monitorar e ﬁ scalizar",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-etica-etica-concurso-publico-068",
-      "title": "“É um verdadeiro campo minado para crianças e adolescentes, de exposição a conteúdos",
+      "id": "q-etica-etica-concurso-publico-063",
+      "title": "“O governo está recolhendo subsídios e argumentos nesse embate com as plataformas",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -244,6 +222,17 @@
       "questao": ""
     },
     {
+      "id": "q-etica-etica-concurso-publico-067",
+      "title": "“Agora chegou a vez do Executivo assumir a sua responsabilidade de monitorar e ﬁ scalizar",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
       "id": "q-etica-etica-concurso-publico-069",
       "title": "“As crianças já vulnerabilizadas socialmente estão mais suscetíveis a riscos no ambiente",
       "materia": "Ética",
@@ -255,8 +244,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-075",
-      "title": "No texto, lê-se o seguinte: “Lamentavelmente, as empresas",
+      "id": "q-etica-etica-concurso-publico-068",
+      "title": "“É um verdadeiro campo minado para crianças e adolescentes, de exposição a conteúdos",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -288,8 +277,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-073",
-      "title": "No texto, lê-se a seguinte pergunta: Quais são os principais riscos que nossas crianças e",
+      "id": "q-etica-etica-concurso-publico-074",
+      "title": "“A plataforma sem moderação de conteúdo gera muito mais riscos para a violência contra a",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -299,8 +288,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-077",
-      "title": "A obra utilizada para consultar a graﬁ a correta das palavras é o dicionário. Nesse tipo",
+      "id": "q-etica-etica-concurso-publico-075",
+      "title": "No texto, lê-se o seguinte: “Lamentavelmente, as empresas",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -321,19 +310,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-074",
-      "title": "“A plataforma sem moderação de conteúdo gera muito mais riscos para a violência contra a",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-etica-etica-concurso-publico-078",
-      "title": "“A metereologia reivindica seu lugar no campo das ciências, sem privilégios ou",
+      "id": "q-etica-etica-concurso-publico-073",
+      "title": "No texto, lê-se a seguinte pergunta: Quais são os principais riscos que nossas crianças e",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -365,8 +343,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-082",
-      "title": "Atualmente, na operação de microcomputadores",
+      "id": "q-etica-etica-concurso-publico-077",
+      "title": "A obra utilizada para consultar a graﬁ a correta das palavras é o dicionário. Nesse tipo",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -387,8 +365,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-083",
-      "title": "Um Guarda Municipal de Niterói está acessando um site cuja URL é",
+      "id": "q-etica-etica-concurso-publico-081",
+      "title": "Uma modalidade de processamento refere-se à capacidade de processar dados",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -398,8 +376,19 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-085",
-      "title": "No uso dos recursos do Word do pacote 2021 BR, em um notebook Windows 10 BR (x64), um",
+      "id": "q-etica-etica-concurso-publico-078",
+      "title": "“A metereologia reivindica seu lugar no campo das ciências, sem privilégios ou",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-etica-etica-concurso-publico-083",
+      "title": "Um Guarda Municipal de Niterói está acessando um site cuja URL é",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -420,52 +409,8 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-concurso-publico-081",
-      "title": "Uma modalidade de processamento refere-se à capacidade de processar dados",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-etica-etica-concurso-publico-088",
-      "title": "Segurança da informação é deﬁ nida como a prática de proteger dados e sistemas contra",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-etica-etica-concurso-publico-087",
-      "title": "A planilha da ﬁ gura foi montada no Excel do pacote MS Oﬃ ce 2021 BR, em um",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-etica-etica-concurso-publico-089",
-      "title": "Atualmente, a internet oferece alguns recursos, permitindo",
-      "materia": "Ética",
-      "submateria": "Ética",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "OBJETIVA",
-      "prova": "CONCURSO PÚBLICO 2025",
-      "questao": ""
-    },
-    {
-      "id": "q-etica-etica-concurso-publico-090",
-      "title": "O Google, como instituição, disponibilizou diversas ferramentas que representam um",
+      "id": "q-etica-etica-concurso-publico-085",
+      "title": "No uso dos recursos do Word do pacote 2021 BR, em um notebook Windows 10 BR (x64), um",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -486,19 +431,63 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-https-concursos-objetivas-com-br-027",
-      "title": "É de extrema importância que, no combate ao fogo, saiba-se identificar a classe do",
+      "id": "q-etica-etica-concurso-publico-087",
+      "title": "A planilha da ﬁ gura foi montada no Excel do pacote MS Oﬃ ce 2021 BR, em um",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
       "tags": [],
       "bancaExaminadora": "OBJETIVA",
-      "prova": "https://concursos.objetivas.com.br 2024",
+      "prova": "CONCURSO PÚBLICO 2025",
       "questao": ""
     },
     {
-      "id": "q-etica-etica-https-concursos-objetivas-com-br-028",
-      "title": "O que um guarda civil municipal deve fazer se encontrar uma pessoa com comportamento",
+      "id": "q-etica-etica-concurso-publico-090",
+      "title": "O Google, como instituição, disponibilizou diversas ferramentas que representam um",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-etica-etica-concurso-publico-082",
+      "title": "Atualmente, na operação de microcomputadores",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-etica-etica-concurso-publico-088",
+      "title": "Segurança da informação é deﬁ nida como a prática de proteger dados e sistemas contra",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-etica-etica-concurso-publico-089",
+      "title": "Atualmente, a internet oferece alguns recursos, permitindo",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025",
+      "questao": ""
+    },
+    {
+      "id": "q-etica-etica-https-concursos-objetivas-com-br-026",
+      "title": "Com relação à manutenção e conservação dos equipamentos de combate a incêndio, analisar",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
@@ -519,8 +508,19 @@
       "questao": ""
     },
     {
-      "id": "q-etica-etica-https-concursos-objetivas-com-br-026",
-      "title": "Com relação à manutenção e conservação dos equipamentos de combate a incêndio, analisar",
+      "id": "q-etica-etica-https-concursos-objetivas-com-br-028",
+      "title": "O que um guarda civil municipal deve fazer se encontrar uma pessoa com comportamento",
+      "materia": "Ética",
+      "submateria": "Ética",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024",
+      "questao": ""
+    },
+    {
+      "id": "q-etica-etica-https-concursos-objetivas-com-br-027",
+      "title": "É de extrema importância que, no combate ao fogo, saiba-se identificar a classe do",
       "materia": "Ética",
       "submateria": "Ética",
       "dificuldade": "media",
