@@ -1,0 +1,40 @@
+{
+  "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-018",
+  "title": "Bruno desenha em seu caderno três figuras geométricas sobrepostas: um retângulo que ele",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Raciocínio Lógico",
+  "submateria": "Raciocínio Lógico",
+  "categorias": [
+    "Raciocínio Lógico",
+    "Raciocínio Lógico"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "(B − C) ∩ A."
+    },
+    {
+      "id": "B",
+      "texto": "(A ∪ B) ∩ C."
+    },
+    {
+      "id": "C",
+      "texto": "(A ∩ C) − B."
+    },
+    {
+      "id": "D",
+      "texto": "(A ∩ B) − C."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDECAN",
+  "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Bruno desenha em seu caderno três figuras geométricas sobrepostas: um retângulo que ele chamou de A, um triângulo que ele chamou de B e uma circunferência que ele chamou de C. Em seguida, Bruno pintou uma das regiões desta figura, conforme mostrado na imagem a seguir. Sendo assim, a região marcada com cinza na figura é representada pela operação:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/cargo-guarda-municipal-tipo-a-2023-raciocinio-logico-q018/"
+}

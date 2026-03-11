@@ -1,8 +1,8 @@
 {
   "id": "q-legislacao-legislacao-concurso-publico-046",
-  "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito),",
+  "title": "Na estrutura da Guarda Civil Municipal, estão estabelecidos os cargos de Inspetor-Geral,",
   "images": [],
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "dificuldade": "media",
   "materia": "Legislação",
   "submateria": "Legislação",
@@ -15,30 +15,30 @@
   "alternativas": [
     {
       "id": "A",
-      "texto": "Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos."
+      "texto": "para cada grupo de 100 (cem) Guardas Civis Municipais"
     },
     {
       "id": "B",
-      "texto": "Deixar o condutor de prestar socorro à vítima de aci- dente de trânsito quando solicitado pela autoridade e seus agentes."
+      "texto": "para cada grupo de 50 (cinquenta) Guardas Civis Municipais"
     },
     {
       "id": "C",
-      "texto": "Parar o veículo na pista de rolamento das estradas, das rodovias, das vias de trânsito rápido e das de- mais vias dotadas de acostamento."
+      "texto": "para cada grupo de 500 (quinhentos) Guardas Civis Municipais"
     },
     {
       "id": "D",
-      "texto": "Confiar ou entregar a direção de veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança."
+      "texto": "para cada grupo de 25 (vinte e cinco) Guardas Civis Municipais"
     },
     {
       "id": "E",
-      "texto": "Atirar do veículo ou abandonar na via objetos ou substâncias."
+      "texto": "para cada grupo de 75 (setenta e cinco) Guardas Civis Municipais"
     }
   ],
   "gabarito": "",
-  "bancaExaminadora": "VUNESP",
-  "prova": "concurso público 2022",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
   "explicacao": "",
   "comentarios": [],
-  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito), assinale a alternativa que contenha corretamente uma infração gravíssima.</p>\n",
-  "url": "https://pablopgalvao.github.io/2026/03/10/questoes/concurso-publico-2022-legislacao-q046/"
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Na estrutura da Guarda Civil Municipal, estão estabelecidos os cargos de Inspetor-Geral, Corregedor, Inspetor Adjunto, Inspetor, Subinspetor e Coordenador. O cargo de inspetor obedece à proporção de 01 (um) inspetor:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-legislacao-q046/"
 }

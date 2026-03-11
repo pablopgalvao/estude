@@ -1,8 +1,8 @@
 {
   "id": "q-legislacao-legislacao-concurso-publico-049",
-  "title": "Nos termos da Lei complementar no 129 de 10 de feverei- ro de 2005 (Cria a Corregedoria",
+  "title": "O Código de Posturas do Município de Niterói trata do exercício do poder de polícia da",
   "images": [],
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "dificuldade": "media",
   "materia": "Legislação",
   "submateria": "Legislação",
@@ -14,35 +14,31 @@
   "questao": "",
   "alternativas": [
     {
-      "id": "E",
-      "texto": "para os demais efeitos legais, o comportamento do ser- vidor da Guarda Civil Municipal de Osasco será conside- rado insuficiente"
-    },
-    {
       "id": "A",
-      "texto": "quando no período de 10 (dez) meses tiver sofrido mais de 02 (duas) penas de suspensão, acima de 15 (quinze) dias."
+      "texto": "o trânsito livre de animais soltos em logradouros públicos"
     },
     {
       "id": "B",
-      "texto": "quando no período de 24 (vinte e quatro) meses tiver sofrido até 02 (duas) suspensões."
+      "texto": "a permanência de animais em cinemas, teatros, repartições públicas, a despeito de qualquer condição"
     },
     {
       "id": "C",
-      "texto": "quando no período de 5 (cinco) meses tiver sofrido mais de 02 (duas) penas de suspensão, acima de 15 (quinze) dias."
+      "texto": "o comércio de animais nos logradouros públicos quando autorizado pela autoridade competente"
     },
     {
       "id": "D",
-      "texto": "quando no período de 12 (doze) meses tiver sofrido mais de 02 (duas) penas de suspensão, acima de 15 (quinze) dias."
+      "texto": "o acesso e a permanência de animais em shopping centers, piscinas e praias de cães devidamente adestrados"
     },
     {
       "id": "E",
-      "texto": "quando no período de 10 (dez) meses tiver sofrido até 02 (duas) multas disciplinares."
+      "texto": "o trânsito de animais mordedores bravios domesticados, devidamente contidos por coleiras, guias e focinheira, em locais de livre acesso ao público"
     }
   ],
   "gabarito": "",
-  "bancaExaminadora": "VUNESP",
-  "prova": "concurso público 2022",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
   "explicacao": "",
   "comentarios": [],
-  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei complementar no 129 de 10 de feverei- ro de 2005 (Cria a Corregedoria Geral da Guarda Civil de Osasco, institui o regulamento disciplinar dos servidores do quadro dos profissionais da Guarda Civil Municipal de Osasco e dá outras providências), para fins disciplinares</p>\n",
-  "url": "https://pablopgalvao.github.io/2026/03/10/questoes/concurso-publico-2022-legislacao-q049/"
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>O Código de Posturas do Município de Niterói trata do exercício do poder de polícia da administração pública municipal. Nesse diploma legal, estão abrangidas medidas referentes aos animais. No âmbito do município de Niterói, é permitido(a):</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-legislacao-q049/"
 }

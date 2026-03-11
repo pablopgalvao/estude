@@ -1,8 +1,8 @@
 {
   "id": "q-legislacao-legislacao-concurso-publico-040",
-  "title": "Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a política",
+  "title": "Sobre a organização e o funcionamento dos órgãos responsáveis pela segurança pública, a",
   "images": [],
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "dificuldade": "media",
   "materia": "Legislação",
   "submateria": "Legislação",
@@ -14,35 +14,31 @@
   "questao": "",
   "alternativas": [
     {
-      "id": "E",
-      "texto": "de ações não-governamentais, tendo, entre outras, por diretriz:"
-    },
-    {
       "id": "A",
-      "texto": "a promoção de estudos e pesquisas, estatísticas e outras informações relevantes, com a perspectiva de gênero e de raça ou etnia, concernentes às cau- sas, às consequências e à frequência da violência doméstica e familiar contra a mulher, para a siste- matização de dados, a serem controlados em âmbito estadual e municipal."
+      "texto": "a segurança pública é dever do Estado e responsabilidade de todos, compreendendo a União, os Estados e o Distrito Federal no âmbito das competências e atribuições legais de cada um"
     },
     {
       "id": "B",
-      "texto": "a capacitação permanente das Polícias Civil e Militar, da Guarda Municipal, do Corpo de Bombeiros, quan- to às questões exclusivas de gênero."
+      "texto": "compete aos Estados estabelecer a Política Nacional de Segurança Pública e Defesa Social (PNSPDS) e aos Municípios estabelecer suas respectivas políticas, observadas as diretrizes da política estadual, especialmente para análise e enfrentamento dos riscos à harmonia e à independência dos Poderes"
     },
     {
       "id": "C",
-      "texto": "a implementação de atendimento policial especiali- zado para as mulheres, em particular no Ministério Público."
+      "texto": "a atuação conjunta, coordenada, sistêmica e integrada dos órgãos de segurança pública e de defesa social da União, dos Estados, do Distrito Federal e dos Municípios deve se dar em articulação com a sociedade"
     },
     {
       "id": "D",
-      "texto": "a promoção de programas educacionais que disse- minem valores éticos de irrestrito respeito à dignida- de da pessoa humana com a perspectiva exclusiva de gênero."
+      "texto": "o Sistema Único de Segurança Pública (Susp) e a Política Nacional de Segurança Pública e Defesa Social (PNSPDS), têm como ﬁ nalidade a preservação do Estado Democrático de Direito"
     },
     {
       "id": "E",
-      "texto": "o destaque, nos currículos escolares de todos os ní- veis de ensino, para os conteúdos relativos aos di- reitos humanos, à equidade de gênero e de raça ou etnia e ao problema da violência doméstica e familiar contra a mulher."
+      "texto": "o Sistema Único de Segurança Pública (Susp) tem como órgão central o Ministério da Defesa e é integrado pelos órgãos de que trata o art. 144 da Constituição Federal, pelos agentes penitenciários e pelas guardas municipais"
     }
   ],
   "gabarito": "",
-  "bancaExaminadora": "VUNESP",
-  "prova": "concurso público 2022",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
   "explicacao": "",
   "comentarios": [],
-  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a política pública que visa coi- bir a violência doméstica e familiar contra a mulher far- -se-á por meio de um conjunto articulado de ações da União, dos Estados, do Distrito Federal e dos Municípios</p>\n",
-  "url": "https://pablopgalvao.github.io/2026/03/10/questoes/concurso-publico-2022-legislacao-q040/"
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Sobre a organização e o funcionamento dos órgãos responsáveis pela segurança pública, a Lei nº 13.675, de 11 de junho de 2018, dispõe que:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-legislacao-q040/"
 }

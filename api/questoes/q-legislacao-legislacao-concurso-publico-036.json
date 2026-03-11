@@ -1,8 +1,8 @@
 {
   "id": "q-legislacao-legislacao-concurso-publico-036",
-  "title": "Nos termos da Lei no 10.741, de 1o de outubro de 2003 (Estatuto do Idoso), é correto",
+  "title": "É sabido que os órgãos de trânsito do Brasil são os responsáveis por administrar o",
   "images": [],
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "dificuldade": "media",
   "materia": "Legislação",
   "submateria": "Legislação",
@@ -14,31 +14,35 @@
   "questao": "",
   "alternativas": [
     {
+      "id": "E",
+      "texto": "fazer cumprir as leis de trânsito. A atribuição de estabelecer procedimentos sobre a aprendizagem e a habilitação de condutores de veículos, a expedição de documentos de condutores, de registro e o licenciamento de veículos compete:"
+    },
+    {
       "id": "A",
-      "texto": "pública condicionada à representação."
+      "texto": "ao DETRAN"
     },
     {
       "id": "B",
-      "texto": "privada."
+      "texto": "ao Conselho Federal de Trânsito"
     },
     {
       "id": "C",
-      "texto": "pública incondicionada."
+      "texto": "à Secretaria Nacional de Trânsito"
     },
     {
       "id": "D",
-      "texto": "pública condicionada como regra, mas admite ação penal pública incondicionada em algumas hipóteses."
+      "texto": "ao Conselho Nacional de Trânsito"
     },
     {
       "id": "E",
-      "texto": "pública condicionada à requisição do Ministério Público."
+      "texto": "às Juntas Administrativas que regulamentam o Código de Trânsito Brasileiro"
     }
   ],
   "gabarito": "",
-  "bancaExaminadora": "VUNESP",
-  "prova": "concurso público 2022",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
   "explicacao": "",
   "comentarios": [],
-  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei no 10.741, de 1o de outubro de 2003 (Estatuto do Idoso), é correto afirmar que ação penal nos crimes definidos na legislação é</p>\n",
-  "url": "https://pablopgalvao.github.io/2026/03/10/questoes/concurso-publico-2022-legislacao-q036/"
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>É sabido que os órgãos de trânsito do Brasil são os responsáveis por administrar o trânsito, bem como ﬁ scalizar</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-legislacao-q036/"
 }

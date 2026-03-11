@@ -1,8 +1,28 @@
 [
   {
+    "id": "atualidades",
+    "nome": "Atualidades",
+    "materiaId": "atualidades"
+  },
+  {
     "id": "conhecimentos-especificos",
     "nome": "Conhecimentos Específicos",
     "materiaId": "conhecimentos-especificos"
+  },
+  {
+    "id": "direito-administrativo",
+    "nome": "Direito Administrativo",
+    "materiaId": "direito-administrativo"
+  },
+  {
+    "id": "direito-constitucional",
+    "nome": "Direito Constitucional",
+    "materiaId": "direito-constitucional"
+  },
+  {
+    "id": "direito-penal",
+    "nome": "Direito Penal",
+    "materiaId": "direito-penal"
   },
   {
     "id": "historia",
@@ -13,6 +33,21 @@
     "id": "legislacao",
     "nome": "Legislação",
     "materiaId": "legislacao"
+  },
+  {
+    "id": "informatica",
+    "nome": "Informática",
+    "materiaId": "informatica"
+  },
+  {
+    "id": "lingua-portuguesa",
+    "nome": "Língua Portuguesa",
+    "materiaId": "portugues"
+  },
+  {
+    "id": "raciocinio-logico",
+    "nome": "Raciocínio Lógico",
+    "materiaId": "raciocinio-logico"
   },
   {
     "id": "interpretacao-de-texto",
@@ -28,6 +63,21 @@
     "id": "matematica",
     "nome": "Matemática",
     "materiaId": "matematica"
+  },
+  {
+    "id": "gramatica",
+    "nome": "Gramática",
+    "materiaId": "lingua-portuguesa"
+  },
+  {
+    "id": "crase",
+    "nome": "Crase",
+    "materiaId": "lingua-portuguesa"
+  },
+  {
+    "id": "geografia",
+    "nome": "Geografia",
+    "materiaId": "geografia"
   },
   {
     "id": "porcentagem",

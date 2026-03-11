@@ -1,0 +1,44 @@
+{
+  "id": "q-informatica-informatica-concurso-publico-edital-001-2023-018",
+  "title": "Os modos de espera, hibernação e desativação do Windows descrevem estados de inatividade",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Informática",
+  "submateria": "Informática",
+  "categorias": [
+    "Informática",
+    "Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "SQUARE O sistema operacional descarrega no disco rígido o conteúdo da memória RAM, desliga os componentes do sistema e depois a memória RAM é desativada."
+    },
+    {
+      "id": "B",
+      "texto": "SQUARE O sistema operacional desliga alguns com­ ponentes do sistema, mantendo apenas sua memória RAM ligada. Salva e fecha os arquivos abertos e finaliza todos programas ativos."
+    },
+    {
+      "id": "C",
+      "texto": "SQUARE O sistema operacional desliga alguns compo­ nentes do sistema. Salva e fecha os arquivos abertos e finaliza todos programas ativos. O conteúdo da memória RAM é descarregado no disco rígido e depois ela também é desativada."
+    },
+    {
+      "id": "D",
+      "texto": "SQUARE O sistema operacional desliga a interface de vídeo, mantendo os demais componentes liga­ dos com todos os dados do sistema, tais como programas ativos e arquivos abertos."
+    },
+    {
+      "id": "E",
+      "texto": "Check-square O sistema operacional desliga alguns com­ ponentes do sistema, mantendo apenas sua memória RAM ligada com todos os dados do sistema, tais como programas ativos e arquivos abertos. Página 7 Município de São José • Concurso Público • Edital 001/2023 GM Guarda Municipal"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "FEPESE",
+  "prova": "Concurso Público • Edital 001/2023 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Os modos de espera, hibernação e desativação do Windows descrevem estados de inatividade que um computador pode assumir para evitar o processo de inicialização completo do computador e reduzir o consumo de energia. Assinale a alternativa que apresenta corretamente o que o Windows faz ao entrar em modo de espera.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-edital-001-2023-2024-informatica-q018/"
+}

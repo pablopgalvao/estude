@@ -1,8 +1,8 @@
 {
   "id": "q-legislacao-legislacao-concurso-publico-037",
-  "title": "Nos termos da Lei no 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a",
+  "title": "A aplicação de multa e o recolhimento do certiﬁ cado de registro e do certiﬁ cado de",
   "images": [],
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "dificuldade": "media",
   "materia": "Legislação",
   "submateria": "Legislação",
@@ -15,30 +15,30 @@
   "alternativas": [
     {
       "id": "A",
-      "texto": "do Comando do Exército e somente será concedida após autorização do Sinarm."
+      "texto": "relativo"
     },
     {
       "id": "B",
-      "texto": "do Ministério da Justiça e somente será concedida após autorização do Sinarm."
+      "texto": "privativo"
     },
     {
       "id": "C",
-      "texto": "da Polícia Federal e somente será concedida após autorização do Sinarm."
+      "texto": "derivado"
     },
     {
       "id": "D",
-      "texto": "da Polícia Federal e somente será concedida após autorização do Comando do Exército."
+      "texto": "subsidiário"
     },
     {
       "id": "E",
-      "texto": "da Polícia Civil dos Estados e somente será concedi- da após autorização do Sinarm."
+      "texto": "concorrente"
     }
   ],
   "gabarito": "",
-  "bancaExaminadora": "VUNESP",
-  "prova": "concurso público 2022",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
   "explicacao": "",
   "comentarios": [],
-  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei no 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a autorização para o porte de arma de fogo de uso permitido, em todo o território nacional, é de competência</p>\n",
-  "url": "https://pablopgalvao.github.io/2026/03/10/questoes/concurso-publico-2022-legislacao-q037/"
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>A aplicação de multa e o recolhimento do certiﬁ cado de registro e do certiﬁ cado de licenciamento anual são incumbências dos órgãos e das entidades executivos de trânsito dos Estados e do Distrito Federal. Tais competências têm caráter:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-legislacao-q037/"
 }

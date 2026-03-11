@@ -1,0 +1,44 @@
+{
+  "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-084",
+  "title": "Um diretório do Linux é simplesmente um arquivo, que é distribuído em forma de",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Língua Portuguesa",
+  "submateria": "Interpretação De Texto",
+  "categorias": [
+    "Língua Portuguesa",
+    "Interpretação De Texto"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "/cfg/, ls e dir"
+    },
+    {
+      "id": "B",
+      "texto": "/etc/, ﬁ les e pwd"
+    },
+    {
+      "id": "C",
+      "texto": "/etc/, ﬁ les e show"
+    },
+    {
+      "id": "D",
+      "texto": "/cfg/, ls e show"
+    },
+    {
+      "id": "E",
+      "texto": "/etc/, ls e pwd"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Um diretório do Linux é simplesmente um arquivo, que é distribuído em forma de hierarquia. Existem diversas estruturas de diretórios, com o “root” como raiz, que usa o símbolo “&#x2F;”, ao passo que outro diretório armazena todos os ﬁ cheiros globais de conﬁ guração do sistema operacional. No que diz respeito aos comandos de linha de prompt, um possibilita a exibição dos arquivos que estão dentro da pasta na qual o usuário está no momento, enquanto outro exibe o diretório atual no qual o usuário se encontra. Nesse contexto, o diretório de conﬁ guração e os dois comandos caracterizados são, respectivamente:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-lingua-portuguesa-q084/"
+}

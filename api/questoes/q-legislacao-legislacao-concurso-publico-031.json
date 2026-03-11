@@ -1,8 +1,8 @@
 {
   "id": "q-legislacao-legislacao-concurso-publico-031",
-  "title": "Considere o seguinte caso hipotético: Artomis, utilizando- -se de grave ameaça, obriga",
+  "title": "Dentre os crimes em espécie previstos na Lei n° 8069/90, encontra-se o de “Submeter",
   "images": [],
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "dificuldade": "media",
   "materia": "Legislação",
   "submateria": "Legislação",
@@ -15,30 +15,30 @@
   "alternativas": [
     {
       "id": "A",
-      "texto": "a falta de testemunhas não impedirá o flagrante; mas, nesse caso, com o condutor, deverão assiná-lo pelo menos quatro pessoas que hajam testemunha- do o recebimento da nota de culpa."
+      "texto": "detenção de dois meses a um ano"
     },
     {
       "id": "B",
-      "texto": "a falta de testemunhas da infração impedirá a lavra- tura do auto de prisão em flagrante."
+      "texto": "detenção de seis meses a dois anos"
     },
     {
       "id": "C",
-      "texto": "não houve o crime de sequestro, em razão de o veí- culo ter sido interceptado pela Polícia Militar."
+      "texto": "detenção de dois meses a três anos"
     },
     {
       "id": "D",
-      "texto": "a falta de testemunhas não impedirá o flagrante; mas, nesse caso, com o condutor, deverão assiná-lo pelo menos quatro pessoas que hajam testemunha- do a apresentação do preso à autoridade."
+      "texto": "reclusão de um a dois anos, além de multa"
     },
     {
       "id": "E",
-      "texto": "trata-se de crime permanente, entendendo-se o agente em flagrante delito enquanto não cessar a permanência."
+      "texto": "reclusão de um a quatro anos, além de multa"
     }
   ],
   "gabarito": "",
-  "bancaExaminadora": "VUNESP",
-  "prova": "concurso público 2022",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
   "explicacao": "",
   "comentarios": [],
-  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Considere o seguinte caso hipotético: Artomis, utilizando- -se de grave ameaça, obriga Simotramis a adentrar seu veículo e comete o crime de sequestro previsto no Códi- go Penal (Art. 148 – Privar alguém de sua liberdade, me- diante sequestro ou cárcere privado. Pena – reclusão, de um a três anos). Entretanto não existe qualquer testemu- nha do crime e o veículo de Artomis acaba sendo, numa abordagem de rotina, interceptado pela Polícia Militar. Ar- tomis foi preso em flagrante e Simotramis libertado. Diante desta situação hipotética e nos termos do Código de Processo Penal, é correto afirmar que</p>\n",
-  "url": "https://pablopgalvao.github.io/2026/03/10/questoes/concurso-publico-2022-legislacao-q031/"
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Dentre os crimes em espécie previstos na Lei n° 8069&#x2F;90, encontra-se o de “Submeter criança ou adolescente sob sua autoridade, guarda ou vigilância a vexame ou a constrangimento”. Nesse caso, a respectiva Lei estabelece pena de:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-legislacao-q031/"
 }

@@ -1,6 +1,717 @@
 {
-  "total": 51,
+  "total": 320,
   "items": [
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-027",
+      "title": "Nos últimos meses, o Presidente Lula tem criticado severamente o patamar da taxa básica",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-033",
+      "title": "Sobre a administração pública brasileira e a participação dos diversos segmentos da",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-030",
+      "title": "No Brasil, assim como o Ministério da Saúde, o Ministério da Educação é bastante",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-029",
+      "title": "“É uma sublinhagem da variante XBB, que, por sua vez, é uma ‘descendente’ da ômicron. Mas",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-004",
+      "title": "Lagoa W está integrada com Terminal Rodoviário; Conclui-se corretamente que:",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-028",
+      "title": "“Petrobrás terá preços mais baixos”, disse Jean Paul Prates, presidente da empresa",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-032",
+      "title": "Tramita no Congresso Nacional, já em fase de aprovação um projeto que institui a Lei",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-035",
+      "title": "O Produto Interno Bruto (PIB) não se destina exclusivamente à medição de todas as",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-031",
+      "title": "Aposta aqui, aposta ali. Patrocínio aqui, dinheiro ali. E o futebol virou uma grande",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-038",
+      "title": "Do ponto de vista histórico, o nome da cidade de Fortaleza faz referência:",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-034",
+      "title": "A cidade de Fortaleza conta com diversas regiões administrativas devidamente espalhadas",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-036",
+      "title": "Durante o século XX, Fortaleza viveu um período de muito engajamento da população com as",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-039",
+      "title": "De acordo com dados divulgados recentemente pelo INMET, Fortaleza registrou 49 dias com",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-atualidades-atualidades-cargo-guarda-municipal-tipo-a-037",
+      "title": "São pontos turísticos da cidade de Fortaleza:",
+      "materia": "Atualidades",
+      "submateria": "Atualidades",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-cargo-guarda-municipal-tipo-a-050",
+      "title": "Dentre as espécies de atos administrativos, os ofícios e os despachos são considerados:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-cargo-guarda-municipal-tipo-a-049",
+      "title": "Assinale abaixo a única entidade que não tem competência para expedir atos",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-administrativo-direito-administrativo-cargo-guarda-municipal-tipo-a-041",
+      "title": "No histórico evolutivo da sociedade humana, o Estado foi assumindo diferentes formatos e",
+      "materia": "Direito Administrativo",
+      "submateria": "Direito Administrativo",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-administrativo-direito-administrativo-cargo-guarda-municipal-tipo-a-044",
+      "title": "Considere a situação hipotética em que a Secretária de Saúde do Município de Fortaleza",
+      "materia": "Direito Administrativo",
+      "submateria": "Direito Administrativo",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-administrativo-direito-administrativo-cargo-guarda-municipal-tipo-a-048",
+      "title": "Acerca da revogação e anulação dos atos administrativos, assinale a alternativa correta:",
+      "materia": "Direito Administrativo",
+      "submateria": "Direito Administrativo",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-administrativo-direito-administrativo-cargo-guarda-municipal-tipo-a-042",
+      "title": "Acerca dos conceitos de Estado, Governo e Administração Pública, assinale a alternativa",
+      "materia": "Direito Administrativo",
+      "submateria": "Direito Administrativo",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-administrativo-direito-administrativo-cargo-guarda-municipal-tipo-a-046",
+      "title": "Com base na classificação dos atos administrativos, considere o seguinte: Ato",
+      "materia": "Direito Administrativo",
+      "submateria": "Direito Administrativo",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-administrativo-direito-administrativo-cargo-guarda-municipal-tipo-a-043",
+      "title": "Sabe-se que o Direito Administrativo é ramo do Direito Público correlacionado com a",
+      "materia": "Direito Administrativo",
+      "submateria": "Direito Administrativo",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-administrativo-direito-administrativo-cargo-guarda-municipal-tipo-a-045",
+      "title": "Acerca da prescrição administrativa, assinale a alternativa correta:",
+      "materia": "Direito Administrativo",
+      "submateria": "Direito Administrativo",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-053",
+      "title": "De acordo com o artigo 144 da Constituição Federal, qual é o órgão responsável pelo",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-052",
+      "title": "Tomando por base os princípios fundamentais da Constituição Federal de 1988, assinale a",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-051",
+      "title": "Assinale a alternativa que apresenta um dos objetivos fundamentais da República",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-administrativo-direito-administrativo-cargo-guarda-municipal-tipo-a-047",
+      "title": "Na revogação dos atos administrativos, sabe-se que o administrador, como fundamento, pode",
+      "materia": "Direito Administrativo",
+      "submateria": "Direito Administrativo",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-055",
+      "title": "Lidiane é empregada de determinada empresa, exercendo suas funções como motorista.",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-054",
+      "title": "João, guarda municipal, foi preso em flagrante por ter cometido um crime fora do horário",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-057",
+      "title": "O art. 183 da Constituição Federal apresenta a chamada Usucapião Especial Urbana,",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-059",
+      "title": "Tomando o art. 22 da Constituição Federal, assinale a alternativa que representa uma",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-056",
+      "title": "O artigo 14 da Constituição Federal estabelece as condições de elegibilidade para os",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-058",
+      "title": "É sabido que os Direitos Humanos são divididos em gerações, sendo cada geração destes",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-062",
+      "title": "Consideradas as disposições do Código Penal, é correto afirmar que:",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-constitucional-direito-constitucional-cargo-guarda-municipal-tipo-a-060",
+      "title": "De acordo com o artigo 226 da Constituição Federal, o casamento religioso tem efeito",
+      "materia": "Direito Constitucional",
+      "submateria": "Direito Constitucional",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-064",
+      "title": "À luz das disposições trazidas pelo Código Penal a respeito do poder punitivo, é correto",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-061",
+      "title": "Acerca da causalidade, à luz do Código Penal, é correto afirmar que:",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-065",
+      "title": "Com base no Código Penal, é correto afirmar que:",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-063",
+      "title": "Sobre a tentativa, a desistência voluntária e o arrependimento eficaz, é correto afirmar",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-068",
+      "title": "Ao perceber que a vizinha Maria esquecera a porta de sua casa aberta, Joana adentrou o",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-067",
+      "title": "Carlos, tomado por um ciúme doentio, motivador de constantes brigas com Débora, sua",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-069",
+      "title": "Cláudio e Augusto são gêmeos idênticos e, sendo o primeiro devidamente habilitado à",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-066",
+      "title": "Ana, ex-mulher de Marcos, passou a residir na companhia de Pedro, seu novo companheiro.",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-direito-penal-direito-penal-cargo-guarda-municipal-tipo-a-070",
+      "title": "Lucas, 25 anos, inicia relacionamento amoroso com Caroline, sua vizinha, sabendo que a",
+      "materia": "Direito Penal",
+      "submateria": "Direito Penal",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-001",
+      "title": "Com base na leitura e nas inferências do texto, analise as afirmativas a seguir: I. As",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-002",
+      "title": "A maioria de nós já teve esta experiência: fazer uma trilha",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-005",
+      "title": "Plantas têm uma intrincada relação com a história da humanidade. No livro Plantas e",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-004",
+      "title": "Por “intrincada” (linha 12), só não se pode entender, no texto,",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-003",
+      "title": "Apesar de ter completado o percurso outras vezes, aquele dia foi diferente: o animal",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-006",
+      "title": "Na verdade, quando esse tipo de fotossíntese surgiu na Terra, há cerca de 2 bilhões de",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-008",
+      "title": "Assinale a alternativa em que a palavra indicada, no texto, não tenha sido formada por",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-009",
+      "title": "Plante, e contribua. (linha 52) Assinale a alternativa em que se tenha feito a",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-010",
+      "title": "Como água potável era difícil de armazenar sem ser logo contaminada, consumia-se cerveja",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-historia-historia-cargo-guarda-municipal-tipo-a-007",
+      "title": "Já em Sob o efeito das plantas, Michael Pollan sugere que o café – a cafeína,",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-071",
+      "title": "De acordo com a Lei nº 13.022/2014 (Estatuto Geral das Guardas), as guardas municipais",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-informatica-informatica-cargo-guarda-municipal-tipo-a-020",
+      "title": "No que diz respeito ao hardware dos computadores, existe um dispositivo de saída de dados",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-072",
+      "title": "Por obrigação legal, a Agência Nacional de Telecomunicações (Anatel) tem que destinar",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-074",
+      "title": "Respeitadas as competências dos órgãos federais e estaduais, há diversas competências",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-076",
+      "title": "Considere que Maria é guarda municipal; Paulo é analista tributário da Receita Federal do",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-073",
+      "title": "Para garantir a gestão democrática da cidade, a Lei Orgânica do Município de Fortaleza",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-079",
+      "title": "Silvia foi exonerada após ter completado 03 (três) anos e 06 (seis) meses de exercício em",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-075",
+      "title": "A Lei nº 13.869/2019 definiu os crimes de abuso de autoridade, cometidos por agente",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-078",
+      "title": "Francisco de Assis, guarda municipal, estava conduzindo uma viatura da Guarda Municipal",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-023",
+      "title": "A planilha da figura abaixo foi criada no software Calc da suíte LibreOffice 7.3.22 (x64)",
+      "materia": "Português",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-077",
+      "title": "Considerando o disposto na Lei Orgânica Municipal, assinale abaixo a única alternativa",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-022",
+      "title": "No que se refere aos sistemas operacionais Windows e Linux, dois componentes são",
+      "materia": "Português",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-cargo-guarda-municipal-tipo-a-080",
+      "title": "No serviço público municipal, o servidor, cujo cônjuge ou companheiro tiver sido mandado",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-026",
+      "title": "Segurança da informação é a proteção de dados de propriedade das organizações contra",
+      "materia": "Português",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-011",
+      "title": "Para determinado evento infantil, foram convidados Huguinho, Zezinho e Luisinho. Eles",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-025",
+      "title": "Ao usar os recursos de um browser como o Google Chrome ou o Firefox Mozilla, em ambos é",
+      "materia": "Português",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-portugues-lingua-portuguesa-cargo-guarda-municipal-tipo-a-024",
+      "title": "Google Meet é um aplicativo desenvolvido pelo Google com foco na realização das",
+      "materia": "Português",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-012",
+      "title": "Na tabela a seguir são apresentados os dias da semana em que cada uma das turmas de",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-013",
+      "title": "Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes,",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-014",
+      "title": "Em uma escola de ensino fundamental, a professora questionou cinco crianças sobre o",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-019",
+      "title": "Determinada empresa pretende construir casas em um terreno com área total de 5.700 m².",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-015",
+      "title": "Em determinado concurso de beleza, há quatro mulheres: uma capixaba, uma carioca, uma",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-018",
+      "title": "Bruno desenha em seu caderno três figuras geométricas sobrepostas: um retângulo que ele",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-016",
+      "title": "Huguinho, Zezinho e Luisinho haviam combinado de se encontrar em frente à prefeitura da",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-cargo-guarda-municipal-tipo-a-017",
+      "title": "Em uma determinada cidade, foi realizada uma pesquisa com os moradores sobre seus hábitos",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "IDECAN",
+      "prova": "CARGO: GUARDA MUNICIPAL – TIPO A 2023"
+    },
     {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-026",
       "title": "Nos termos da Constituição Federal, assinale a alterna- tiva correta.",
@@ -11,17 +722,8 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-027",
-      "title": "Nos termos da Constituição Federal, incumbe a apuração das infrações penais contra a",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-009",
-      "title": "Assinale a alternativa em que o termo em destaque expressa ideia de causa.",
+      "id": "q-historia-historia-concurso-publico-011",
+      "title": "Conforme o autor, a obsessão mais ou menos generali- zada pela privacidade",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -47,26 +749,26 @@
       "prova": "concurso público 2022"
     },
     {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-027",
+      "title": "Nos termos da Constituição Federal, incumbe a apuração das infrações penais contra a",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-009",
+      "title": "Assinale a alternativa em que o termo em destaque expressa ideia de causa.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
       "id": "q-historia-historia-concurso-publico-010",
       "title": "Assinale a alternativa em que, na frase redigida a partir do texto, o uso do acento",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-011",
-      "title": "Conforme o autor, a obsessão mais ou menos generali- zada pela privacidade",
-      "materia": "História",
-      "submateria": "História",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-historia-historia-concurso-publico-012",
-      "title": "O termo destacado na frase “... os cônjuges que anti- gamente escondiam zelosamente suas",
       "materia": "História",
       "submateria": "História",
       "dificuldade": "media",
@@ -92,6 +794,15 @@
       "prova": "concurso público 2022"
     },
     {
+      "id": "q-historia-historia-concurso-publico-012",
+      "title": "O termo destacado na frase “... os cônjuges que anti- gamente escondiam zelosamente suas",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
       "id": "q-legislacao-legislacao-concurso-publico-032",
       "title": "Nos termos do Código de Processo Penal, é correto afir- mar que",
       "materia": "Legislação",
@@ -101,8 +812,8 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-037",
-      "title": "Nos termos da Lei no 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a",
+      "id": "q-legislacao-legislacao-concurso-publico-038",
+      "title": "Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar,",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -110,8 +821,8 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-038",
-      "title": "Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar,",
+      "id": "q-legislacao-legislacao-concurso-publico-037",
+      "title": "Nos termos da Lei no 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -137,8 +848,35 @@
       "prova": "concurso público 2022"
     },
     {
+      "id": "q-legislacao-legislacao-concurso-publico-042",
+      "title": "Considere o seguinte caso hipotético: um Policial Militar, no dia 10 de janeiro de 2022,",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
       "id": "q-legislacao-legislacao-concurso-publico-041",
       "title": "É correto afirmar que a conduta de deixar de identificar- -se ao preso por ocasião de sua",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-045",
+      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-047",
+      "title": "Nos termos da Lei complementar no 334 de 27 de dezem- bro de 2017 (Dispõe sobre a",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -164,15 +902,6 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-042",
-      "title": "Considere o seguinte caso hipotético: um Policial Militar, no dia 10 de janeiro de 2022,",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
       "id": "q-legislacao-legislacao-concurso-publico-046",
       "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito),",
       "materia": "Legislação",
@@ -182,44 +911,8 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-legislacao-legislacao-concurso-publico-047",
-      "title": "Nos termos da Lei complementar no 334 de 27 de dezem- bro de 2017 (Dispõe sobre a",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-045",
-      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-048",
-      "title": "Nos termos da Lei complementar no 334 de 27 de de- zembro de 2017 (Dispõe sobre a",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
       "id": "q-legislacao-legislacao-concurso-publico-049",
       "title": "Nos termos da Lei complementar no 129 de 10 de feverei- ro de 2005 (Cria a Corregedoria",
-      "materia": "Legislação",
-      "submateria": "Legislação",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-legislacao-legislacao-concurso-publico-050",
-      "title": "Nos termos da Lei complementar no 129 de 10 de fe- vereiro de 2005 (Cria a Corregedoria",
       "materia": "Legislação",
       "submateria": "Legislação",
       "dificuldade": "media",
@@ -245,8 +938,26 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-004",
-      "title": "Para o autor, a posição defendida por economistas de que a ausência de instituições",
+      "id": "q-legislacao-legislacao-concurso-publico-048",
+      "title": "Nos termos da Lei complementar no 334 de 27 de de- zembro de 2017 (Dispõe sobre a",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-050",
+      "title": "Nos termos da Lei complementar no 129 de 10 de fe- vereiro de 2005 (Cria a Corregedoria",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-003",
+      "title": "A expressão destacada em negrito na passagem do s­egundo parágrafo “A China tem uma",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",
@@ -263,8 +974,8 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-003",
-      "title": "A expressão destacada em negrito na passagem do s­egundo parágrafo “A China tem uma",
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-008",
+      "title": "A frase “O telefone fixo, por sua vez, já é um fóssil paleozoico contemporâneo.” é",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",
@@ -290,8 +1001,8 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-008",
-      "title": "A frase “O telefone fixo, por sua vez, já é um fóssil paleozoico contemporâneo.” é",
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-004",
+      "title": "Para o autor, a posição defendida por economistas de que a ausência de instituições",
       "materia": "Língua Portuguesa",
       "submateria": "Interpretação De Texto",
       "dificuldade": "media",
@@ -301,6 +1012,15 @@
     {
       "id": "q-matematica-matematica-concurso-publico-014",
       "title": "Assinale a alternativa em que a frase redigida a partir do texto atende à norma-padrão de",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-matematica-matematica-concurso-publico-015",
+      "title": "Na frase – Bauman fala de “sociedade confessional que eleva a autoexposição pública à",
       "materia": "Matemática",
       "submateria": "Matemática",
       "dificuldade": "media",
@@ -326,8 +1046,8 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-matematica-matematica-concurso-publico-015",
-      "title": "Na frase – Bauman fala de “sociedade confessional que eleva a autoexposição pública à",
+      "id": "q-matematica-matematica-concurso-publico-020",
+      "title": "No auditório de uma empresa, estão reunidos menos de 80 funcionários, que serão divididos",
       "materia": "Matemática",
       "submateria": "Matemática",
       "dificuldade": "media",
@@ -344,35 +1064,8 @@
       "prova": "concurso público 2022"
     },
     {
-      "id": "q-matematica-matematica-concurso-publico-019",
-      "title": "Para contratar novos funcionários, uma empresa realizou uma prova de seleção para os 80",
-      "materia": "Matemática",
-      "submateria": "Matemática",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-matematica-matematica-concurso-publico-020",
-      "title": "No auditório de uma empresa, estão reunidos menos de 80 funcionários, que serão divididos",
-      "materia": "Matemática",
-      "submateria": "Matemática",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
       "id": "q-matematica-matematica-concurso-publico-021",
       "title": "A distância entre as cidades A e B é 154 km. Entre elas, há um posto da polícia",
-      "materia": "Matemática",
-      "submateria": "Matemática",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-matematica-matematica-concurso-publico-022",
-      "title": "Uma pessoa comprou garrafas de suco e de refrigerante, no total de 15 unidades. Se o",
       "materia": "Matemática",
       "submateria": "Matemática",
       "dificuldade": "media",
@@ -389,35 +1082,26 @@
       "prova": "concurso público 2022"
     },
     {
+      "id": "q-matematica-matematica-concurso-publico-019",
+      "title": "Para contratar novos funcionários, uma empresa realizou uma prova de seleção para os 80",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-matematica-matematica-concurso-publico-022",
+      "title": "Uma pessoa comprou garrafas de suco e de refrigerante, no total de 15 unidades. Se o",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
       "id": "q-matematica-matematica-concurso-publico-025",
       "title": "Uma caixa de papelão, na forma de um prisma reto de base retangular, tem suas medidas",
-      "materia": "Matemática",
-      "submateria": "Matemática",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-matematica-matematica-concurso-publico-024",
-      "title": "Uma sala quadrada, com 36 m2 de área, foi reformada, tornando-se uma sala retangular, de",
-      "materia": "Matemática",
-      "submateria": "Matemática",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-matematica-matematica-concurso-publico-029",
-      "title": "Considere o seguinte caso hipotético: Matífanis induz Kii- temis, criança de 11 anos, a",
-      "materia": "Matemática",
-      "submateria": "Matemática",
-      "dificuldade": "media",
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022"
-    },
-    {
-      "id": "q-matematica-matematica-concurso-publico-030",
-      "title": "Nos termos do Código Penal, assinale a alternativa que corretamente contenha um crime",
       "materia": "Matemática",
       "submateria": "Matemática",
       "dificuldade": "media",
@@ -434,6 +1118,1734 @@
       "prova": "concurso público 2022"
     },
     {
+      "id": "q-matematica-matematica-concurso-publico-024",
+      "title": "Uma sala quadrada, com 36 m2 de área, foi reformada, tornando-se uma sala retangular, de",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-matematica-matematica-concurso-publico-030",
+      "title": "Nos termos do Código Penal, assinale a alternativa que corretamente contenha um crime",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-092",
+      "title": "Observe a fotograﬁ a abaixo. Vista do Centro de Niterói (RJ) – 1957. (Extraído em",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-matematica-matematica-concurso-publico-029",
+      "title": "Considere o seguinte caso hipotético: Matífanis induz Kii- temis, criança de 11 anos, a",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-094",
+      "title": "Baseando-se na Lei Orgânica do Município de Niterói, como consta do Capítulo II (DA",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-095",
+      "title": "Dados divulgados pelo Instituto Brasileiro de Geograﬁ a e Estatística (IBGE), tendo como",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-093",
+      "title": "Nas Disposições Gerais do Título I do Código de Posturas do Município de Niterói, está",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-097",
+      "title": "Dados revelados pelo Instituto Brasileiro de Geograﬁ a e Estatística (IBGE) sobre o Censo",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-098",
+      "title": "Sobre as características da população de Niterói, podemos considerar que a cidade possui:",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-096",
+      "title": "Ainda sobre o crescimento do Produto Interno Bruto (PIB) de Niterói, um dos elementos",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-100",
+      "title": "Devido às potencialidades e às condições geográﬁ cas do município de Niterói, uma",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-001",
+      "title": "Os princípios fundamentais, dispostos no art. 1º, incisos I ao V, da CRFB/88, são a base",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-099",
+      "title": "A estrutura administrativa do poder executivo da Prefeitura de Niterói é caracterizada",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-004",
+      "title": "Os artigos 21 e 22 da CRFB/88 tratam, respectivamente, da competência exclusiva e da",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-002",
+      "title": "O artigo 5º, inciso IV, da CRFB/88, versa sobre a liberdade de manifestação do",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-003",
+      "title": "O inciso XIV do artigo 5º da CRFB/88 versa sobre o livre acesso à informação. Acerca",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-007",
+      "title": "O artigo 37, caput, da CRFB/88 trata dos princípios constitucionais explícitos da",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-005",
+      "title": "No artigo 37 da CRFB/88, estão insculpidas as normas constitucionais referentes à",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-008",
+      "title": "Consoante o disposto no §1º do artigo 144 da CRFB/88, o(s) órgão(s) que se destina(m) a",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-009",
+      "title": "No exercício de suas funções, a administração deve exercer uma gama de atos que são",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-006",
+      "title": "No que se refere às normas concernentes à estabilidade do servidor público, previstas no",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-011",
+      "title": "Entre os atos que visam a disciplinar o funcionamento da Administração e a conduta",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-012",
+      "title": "A atribuição para a aplicação de sanções àqueles que estejam sujeitos à disciplina do",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-010",
+      "title": "Marco histórico no combate aos atos ilícitos na administração pública, a Lei de",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-013",
+      "title": "A reparação pelos prejuízos sofridos, em virtude da conduta estatal, é realizada por meio",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-017",
+      "title": "De acordo com o Decreto Lei nº 2.848, de 07 de dezembro de 1940 (Código Penal),",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-015",
+      "title": "Em regra, é vedada a acumulação remunerada de cargos públicos, empregos e funções em toda",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-018",
+      "title": "“A noção de estado de necessidade remete à ideia de sopesamento de bens diante de uma",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-014",
+      "title": "A acessibilidade aos cargos públicos é um princípio constitucional garantido a todos os",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-016",
+      "title": "A propositura da ação de improbidade administrativa compete ao Ministério Público e deve",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-019",
+      "title": "O Decreto Lei nº 2.848, de 07 de dezembro de 1940 (Código Penal), dispõe no seu art. 327",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-021",
+      "title": "De acordo com o Código Penal Brasileiro (Decreto Lei nº 2.848, de 07 de dezembro de",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-020",
+      "title": "O Código Penal (Decreto Lei nº 2.848, de 07 de dezembro de 1940) elenca, no capítulo II",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-023",
+      "title": "A Lei das Contravenções Penais (Decreto Lei nº 3.688, de 03 de outubro de 1941)",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-027",
+      "title": "De acordo com a previsão contida na Lei n° 8069/90, uma das medidas de proteção à criança",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-022",
+      "title": "“O erro de tipo pode ser dividido em duas espécies: o erro de tipo essencial e o erro de",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-026",
+      "title": "À luz da Lei n° 8069/90, um dos princípios que regem as Medidas Especíﬁ cas de Proteção à",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-025",
+      "title": "De acordo com a Lei n° 8069/90, em relação aos direitos nela reconhecidos que forem",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-028",
+      "title": "Em consonância com a Lei n° 8069/90, o ato infracional é a conduta descrita como:",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-029",
+      "title": "Uma das garantias processuais asseguradas pela Lei n° 8069/90 ao adolescente diz respeito",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-030",
+      "title": "De acordo com a Lei n° 8069/90, quando veriﬁ cada a prática de ato infracional, algumas",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-031",
+      "title": "Dentre os crimes em espécie previstos na Lei n° 8069/90, encontra-se o de “Submeter",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-033",
+      "title": "Em consonância com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-035",
+      "title": "O Sistema Nacional de Trânsito é composto por diferentes órgãos e entidades dentre os",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-034",
+      "title": "À luz da Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL DAS",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-032",
+      "title": "De acordo com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-037",
+      "title": "A aplicação de multa e o recolhimento do certiﬁ cado de registro e do certiﬁ cado de",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-038",
+      "title": "As vias abertas à circulação, de acordo com sua utilização, classiﬁ cam-se em vias",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-036",
+      "title": "É sabido que os órgãos de trânsito do Brasil são os responsáveis por administrar o",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-041",
+      "title": "De acordo com a Lei nº 13.675, de 11 de junho de 2018, são integrantes estratégicos do",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-040",
+      "title": "Sobre a organização e o funcionamento dos órgãos responsáveis pela segurança pública, a",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-039",
+      "title": "O Código de Trânsito Brasileiro estabelece que conduzir um veículo com elementos de",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-042",
+      "title": "A integração e a coordenação dos órgãos integrantes do Susp dar-se-ão nos limites das",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-043",
+      "title": "O § 2º do art. 9º da Lei nº 13.675, de 11 de junho de 2018, apresenta os integrantes",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-045",
+      "title": "A Guarda Municipal é órgão de segurança que desempenha atividades de alcance limitado em",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-046",
+      "title": "Na estrutura da Guarda Civil Municipal, estão estabelecidos os cargos de Inspetor-Geral,",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-044",
+      "title": "A Lei nº 13.675, de 11 de junho de 2018, instituiu o Sistema Integrado de Educação e",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-047",
+      "title": "A Lei Orgânica do Município de Niterói dispõe sobre as regras de funcionamento dos",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-049",
+      "title": "O Código de Posturas do Município de Niterói trata do exercício do poder de polícia da",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-050",
+      "title": "O servidor poderá fazer uso de um período de afastamento temporário de suas funções por",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-048",
+      "title": "No âmbito da Guarda do Município de Niterói, está estabelecido Regime Adicional de",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-052",
+      "title": "No título do texto, a expressão “campo minado”, em seu contexto de uso, signiﬁ ca:",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-051",
+      "title": "De acordo com o texto, o ambiente digital:",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-053",
+      "title": "“Crianças negras, periféricas e meninas estão muito mais sujeitas a essas violências no",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-056",
+      "title": "“E reitera que, quando as plataformas não são pensadas para sobrepor ou superar essas",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-054",
+      "title": "Leia o trecho a seguir, extraído do 1º e 2º parágrafos do texto: \"'A avaliação é do",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-gramatica-concurso-publico-058",
+      "title": "“O pesquisador lamenta a falta de participação das grandes empresas em debates” (5º",
+      "materia": "Língua Portuguesa",
+      "submateria": "Gramática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-055",
+      "title": "“A avaliação é do pesquisador Pedro Hartung, diretor de Políticas e Direitos das Crianças",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-057",
+      "title": "“A internet aumenta as vulnerabilidades que já existem no ambiente oﬄ ine” (2º",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-062",
+      "title": "“Nesta semana, houve uma audiência pública com a participação de pesquisadores e",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-059",
+      "title": "“[...] e o país se vê em desaﬁ os para enfrentar o que ele chama de ‘colonialismo",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-061",
+      "title": "“Como saída, ele identiﬁ ca a necessidade de o Estado aplicar",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-064",
+      "title": "“Lamentavelmente, as empresas e as plataformas digitais que operam no Brasil não",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-060",
+      "title": "“E alerta para o fato de que o afrouxamento da moderação das redes Instagram e Facebook,",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-065",
+      "title": "“Escolheram não estar e contribuir para o debate com a perspectiva delas, com as",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-066",
+      "title": "“O Congresso Nacional já vem trabalhando há alguns anos, na verdade, em projetos de lei",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-063",
+      "title": "“O governo está recolhendo subsídios e argumentos nesse embate com as plataformas",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-068",
+      "title": "“É um verdadeiro campo minado para crianças e adolescentes, de exposição a conteúdos",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-067",
+      "title": "“Agora chegou a vez do Executivo assumir a sua responsabilidade de monitorar e ﬁ scalizar",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-069",
+      "title": "“As crianças já vulnerabilizadas socialmente estão mais suscetíveis a riscos no ambiente",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-072",
+      "title": "No sexto parágrafo do texto, lê-se o seguinte: \"A gente não está falando somente de",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-073",
+      "title": "No texto, lê-se a seguinte pergunta: Quais são os principais riscos que nossas crianças e",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-071",
+      "title": "“Nós estamos falando aqui, por exemplo, de um crescimento de imagens advindas de",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-070",
+      "title": "“Infelizmente, a internet que hoje a gente utiliza não foi a pensada pelos criadores da",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-075",
+      "title": "No texto, lê-se o seguinte: “Lamentavelmente, as empresas",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-074",
+      "title": "“A plataforma sem moderação de conteúdo gera muito mais riscos para a violência contra a",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-077",
+      "title": "A obra utilizada para consultar a graﬁ a correta das palavras é o dicionário. Nesse tipo",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-078",
+      "title": "“A metereologia reivindica seu lugar no campo das ciências, sem privilégios ou",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-079",
+      "title": "A única alternativa em que todas as palavras estão grafadas corretamente, à luz do Novo",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-076",
+      "title": "A única frase em que se veriﬁ ca um par de parônimos é:",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-081",
+      "title": "Uma modalidade de processamento refere-se à capacidade de processar dados",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-083",
+      "title": "Um Guarda Municipal de Niterói está acessando um site cuja URL é",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-crase-concurso-publico-080",
+      "title": "A única alternativa em que o acento grave, indicador de crase, foi empregado",
+      "materia": "Língua Portuguesa",
+      "submateria": "Crase",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-084",
+      "title": "Um diretório do Linux é simplesmente um arquivo, que é distribuído em forma de",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-082",
+      "title": "Atualmente, na operação de microcomputadores",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-085",
+      "title": "No uso dos recursos do Word do pacote 2021 BR, em um notebook Windows 10 BR (x64), um",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-086",
+      "title": "No uso dos recursos do editor Writer da suíte LibreOﬃ ce 24.8.4.2 BR, em um",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-087",
+      "title": "A planilha da ﬁ gura foi montada no Excel do pacote MS Oﬃ ce 2021 BR, em um",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-concurso-publico-088",
+      "title": "Segurança da informação é deﬁ nida como a prática de proteger dados e sistemas contra",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-089",
+      "title": "Atualmente, a internet oferece alguns recursos, permitindo",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-004",
+      "title": "secretarias estaduais de segurança pública ou congêneres. Assinale a alternativa que",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-concurso-publico-090",
+      "title": "O Google, como instituição, disponibilizou diversas ferramentas que representam um",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "CONCURSO PÚBLICO 2025"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-023",
+      "title": "Assinale a alternativa que apresenta corretamente as medidas integradas de prevenção às",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-004",
+      "title": "submeter pessoa a trabalho em condição análoga à de escravo. Assinale a alternativa que",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-022",
+      "title": "No que diz respeito à Declaração Universal dos Direitos Humanos, é correto afirmar:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-021",
+      "title": "São ações para que a pessoa idosa possa adentrar no mercado de trabalho:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-024",
+      "title": "A Declaração Universal dos Direitos Humanos é um documento que determina:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-027",
+      "title": "O Estatuto da Criança e do Adolescente deter­ mina que a colocação em família substituta",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-025",
+      "title": "Assinale a alternativa que apresenta correta­ mente a maneira em que deve ser prestada a",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-031",
+      "title": "Assinale o princípio que as Entidades de Longa Permanência que atendem às demandas das",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-028",
+      "title": "É de responsabilidade do Poder Público assegurar à criança e ao adolescente:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-026",
+      "title": "A inquirição de mulheres em situação de violência doméstica e familiar ou de testemunha",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-029",
+      "title": "Assinale a alternativa que apresenta corretamente uma diretriz da Política de Atendimento",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-032",
+      "title": "Assinale a alternativa correta sobre a Declaração Universal dos Direitos Humanos.",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-030",
+      "title": "Assinale a alternativa que apresenta corretamente as prioridades assinaladas pela Lei nº",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-033",
+      "title": "Assinale a alternativa correta de acordo com o Código Penal.",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-034",
+      "title": "Assinale a alternativa que indica corretamente o crime que consiste em abandonar pessoa",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-035",
+      "title": "Assinale a alternativa correta de acordo com o Código Penal.",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-038",
+      "title": "O estado de necessidade é classificado como:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-042",
+      "title": "Assinale a alternativa correta acerca do registro, posse e comercialização de armas de",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-037",
+      "title": "Assinale a alternativa correta de acordo com o Estatuto Geral das Guardas Municipais.",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-041",
+      "title": "Aquele que der, entregar ou fornecer, ainda que gratuitamente, arma de fogo, acessório,",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-043",
+      "title": "Assinale a alternativa que indica corretamente o órgão responsável pelo registro de armas",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-045",
+      "title": "Sobre os crimes hediondos, é correto afirmar:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-048",
+      "title": "O servidor público condenado pela prática do crime de tortura ficará impedido de exercer",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-044",
+      "title": "A Lei de Crimes Hediondos prevê um rol de cri­ mes cuja tipificação legal abrange os",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-049",
+      "title": "Quando o crime de tortura for cometido por agente público haverá:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-047",
+      "title": "Sobre a Lei de Tortura, é correto afirmar:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-051",
+      "title": "Assinale a alternativa correta com base na Consti­ tuição Federal de 1988.",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-054",
+      "title": "Assinale a alternativa correta sobre a Administra­ ção Pública, de acordo com a",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-053",
+      "title": "Assinale a alternativa correta a respeito dos direi­ tos e deveres individuais e",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-050",
+      "title": "Assinale a alternativa correta a respeito da Segu­ rança Pública, considerando o disposto",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-052",
+      "title": "Assinale a alternativa correta de acordo com a Lei nº 13.869/2019, que dispõe sobre os",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-057",
+      "title": "De acordo com a Lei nº 13.675/2018, que cria a Política Nacional de Segurança Pública e",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-055",
+      "title": "Conforme disposto na Lei nº 13.869/2019, o crime “Submeter o preso a interrogatório",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-065",
+      "title": "Agente da autoridade de Trânsito, em realização de atividade rotineira, aborda um cidadão",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-064",
+      "title": "Os crimes de abuso de autoridade previstos na Lei nº 13.869/2019 são: de ação , sendo",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-068",
+      "title": "De acordo com Código Trânsito Brasileiro e seu Anexo I, vias são superfícies por onde",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-edital-001-2023-061",
+      "title": "Nos termos da Lei nº 13.675/2018, a União insti­ tuirá Plano Nacional de Segurança",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-geografia-geografia-concurso-publico-edital-001-2023-010",
+      "title": "Analise o texto abaixo: Desde 1851, a cidade de São José celebra na Paróquia de São José,",
+      "materia": "Geografia",
+      "submateria": "Geografia",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-geografia-geografia-concurso-publico-edital-001-2023-013",
+      "title": "Foi realizada uma pesquisa a partir de uma entre­ vista aplicada a 1000 universitários",
+      "materia": "Geografia",
+      "submateria": "Geografia",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-geografia-geografia-concurso-publico-edital-001-2023-012",
+      "title": "Considere que 100 alunos receberam senhas numeradas de 1 até 100. Se um Professor sortear",
+      "materia": "Geografia",
+      "submateria": "Geografia",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-001",
+      "title": "Considerando a expressão “mesmo que venha a ser considerada constitucional”, no início do",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-geografia-geografia-concurso-publico-edital-001-2023-014",
+      "title": "Em um Congresso de Segurança, um grupo de oficiais fez um debate sobre segurança pública",
+      "materia": "Geografia",
+      "submateria": "Geografia",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-004",
+      "title": "A cidade é sede do Aeroclube de Santa Cata­ rina desde sua fundação, no ano de 1937.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-004",
+      "title": "Assinale a frase correta quanto à flexão verbal.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-002",
+      "title": "Assinale a pergunta que pode ser respondida com base no texto.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-003",
+      "title": "Assinale a frase correta quanto à concordância verbal e nominal.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-005",
+      "title": "Assinale a alternativa que está de acordo com as normas da língua portuguesa padrão.",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-016",
+      "title": "No sistema operacional Windows é possível rea­ lizar a instalação de diversas",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-008",
+      "title": "Em 1748, começaram a chegar a Santa Catarina os primeiros imigrantes na verdadeira",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-018",
+      "title": "Os modos de espera, hibernação e desativação do Windows descrevem estados de inatividade",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-020",
+      "title": "No sistema operacional Windows, é possível alte­ rar o conteúdo de um arquivo que se",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-historia-historia-concurso-publico-edital-001-2023-006",
+      "title": "Muito benquista pela criançada, é a brincadeira mais cultivada e, por isso mesmo, a mais",
+      "materia": "História",
+      "submateria": "História",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-017",
+      "title": "Um motor de busca ou motor de pesquisa na Internet é um sistema especializado em buscar",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-edital-001-2023-019",
+      "title": "No sistema operacional Windows, um aplicativo bastante útil é o Explorador de Arquivos.",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-edital-001-2023-004",
+      "title": "Maria comprou uma quantidade x de camisetas. Assinale a alternativa que indica todas as",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-edital-001-2023-067",
+      "title": "Analisando as normas gerais de circulação e con­ duta, é correto afirmar:",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-informatica-informatica-guarda-civil-municipal-de-3-003",
+      "title": "Utilitário. ( ) Microsoft Word. ( ) Mozilla Firefox. ( ) Winzip. ( ) Windows (Sistema",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "bancaExaminadora": "",
+      "prova": "GUARDA CIVIL MUNICIPAL DE 3ª 2023"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-edital-001-2023-066",
+      "title": "Dentre os componentes do Sistema Nacional de Trânsito, podemos destacar a Junta",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-concurso-publico-edital-001-2023-070",
+      "title": "No que concerne ao Sistema Nacional de Trânsito, é correto afirmar que são objetivos",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-guarda-civil-municipal-de-3-004",
+      "title": "Via Urbana. ( ) Ruas, avenidas, vielas, ou caminhos e similares abertos à circulação",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "",
+      "prova": "GUARDA CIVIL MUNICIPAL DE 3ª 2023"
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-edital-001-2023-015",
+      "title": "Um grupo com total de 150 pessoas foi entrevis­ tado e, durante a análise das respostas,",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "bancaExaminadora": "FEPESE",
+      "prova": "Concurso Público • Edital 001/2023 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-https-concursos-objetivas-com-br-023",
+      "title": "Durante uma ronda noturna, um vigilante percebe um indivíduo desconhecido tentando forçar",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-https-concursos-objetivas-com-br-025",
+      "title": "As medidas de segurança físicas nas instalações municipais são necessárias para garantir",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-https-concursos-objetivas-com-br-024",
+      "title": "Em situações de gerenciamento de crise, o vigia deve ter como principal objetivo a:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-https-concursos-objetivas-com-br-026",
+      "title": "Com relação à manutenção e conservação dos equipamentos de combate a incêndio, analisar",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-https-concursos-objetivas-com-br-027",
+      "title": "É de extrema importância que, no combate ao fogo, saiba-se identificar a classe do",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-https-concursos-objetivas-com-br-030",
+      "title": "Nas vias, a sinalização tem que ser clara e concisa, sendo essencial para uma boa",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-https-concursos-objetivas-com-br-028",
+      "title": "O que um guarda civil municipal deve fazer se encontrar uma pessoa com comportamento",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-017",
+      "title": "Com base na Constituição Federal, constitui crime inafiançável e imprescritível, sujeito",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-https-concursos-objetivas-com-br-029",
+      "title": "Assinalar a alternativa que apresenta a forma correta de controlar o acesso de materiais",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-020",
+      "title": "No Brasil (e em grande parte dos países do Ocidente), existem eleições pois o regime",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-021",
+      "title": "O nome dado ao aumento dos preços de produtos e serviços, baseado no índice de preços",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-https-concursos-objetivas-com-br-001",
+      "title": "Qual o tema central do poema de Mario Quintana?",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-019",
+      "title": "A imagem abaixo ilustra um equipamento de proteção individual (EPI) essencial para a",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-022",
+      "title": "A respeito dos biomas brasileiros, qual destes é considerado o “pulmão do mundo”, devido",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-legislacao-legislacao-https-concursos-objetivas-com-br-018",
+      "title": "Um servidor público deve sempre agir com imparcialidade. Isso significa que ele deve:",
+      "materia": "Legislação",
+      "submateria": "Legislação",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-https-concursos-objetivas-com-br-002",
+      "title": "O uso de dois-pontos no verso abaixo justifica-se em:",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-https-concursos-objetivas-com-br-004",
+      "title": "Sobre a ortografia das palavras, avaliar se as afirmativas são certas (C) ou erradas (E)",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-https-concursos-objetivas-com-br-005",
+      "title": "Qual alternativa que apresenta CORRETAMENTE um pronome que poderia ser usado para",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-interpretacao-de-texto-https-concursos-objetivas-com-br-003",
+      "title": "No verso abaixo, pode-se dizer que o autor se arrepende. Por quê? Se me fosse dado um",
+      "materia": "Língua Portuguesa",
+      "submateria": "Interpretação De Texto",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-https-concursos-objetivas-com-br-006",
+      "title": "Qual das alternativas apresenta um plural INCORRETO?",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-https-concursos-objetivas-com-br-007",
+      "title": "Em qual das palavras abaixo a letra “m” deve ser inserida para que ela fique correta?",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-matematica-matematica-https-concursos-objetivas-com-br-009",
+      "title": "Guilherme está levando consigo 3 notas de R$ 50,00 e 2 notas de R$ 10,00 e deseja pagar",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-matematica-matematica-https-concursos-objetivas-com-br-011",
+      "title": "O horário marcado em cada relógio abaixo segue uma lógica. Assinalar a alternativa que",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-matematica-matematica-https-concursos-objetivas-com-br-013",
+      "title": "Ao lançar um dado não viciado de seis faces, qual é a probabilidade de se obter um número",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-lingua-portuguesa-lingua-portuguesa-https-concursos-objetivas-com-br-008",
+      "title": "Qual das palavras abaixo é um antônimo de “acabar”?",
+      "materia": "Língua Portuguesa",
+      "submateria": "Língua Portuguesa",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-matematica-matematica-https-concursos-objetivas-com-br-010",
+      "title": "Assinalar a alternativa que corresponde ao perímetro da figura.",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-matematica-matematica-https-concursos-objetivas-com-br-012",
+      "title": "Em um porto, estão alocados diferentes tipos de barcos.",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-matematica-matematica-https-concursos-objetivas-com-br-014",
+      "title": "Após o término do Campeonato Brasileiro, foi feito um gráfico que ilustra a pontuação de",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
+      "id": "q-matematica-matematica-https-concursos-objetivas-com-br-016",
+      "title": "Considerando-se a reta numérica abaixo, assinalar a alternativa que a completa",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
+    },
+    {
       "id": "q-matematica-porcentagem-001",
       "title": "Cálculo básico de porcentagem",
       "materia": "Matematica",
@@ -441,6 +2853,15 @@
       "dificuldade": "facil",
       "bancaExaminadora": "VUNESP",
       "prova": "Guarda Municipal 2021"
+    },
+    {
+      "id": "q-matematica-matematica-https-concursos-objetivas-com-br-015",
+      "title": "Assinalar a alternativa que apresenta a fração correspondente ao número decimal 5,75.",
+      "materia": "Matemática",
+      "submateria": "Matemática",
+      "dificuldade": "media",
+      "bancaExaminadora": "OBJETIVA",
+      "prova": "https://concursos.objetivas.com.br 2024"
     },
     {
       "id": "q-portugues-crase-001",

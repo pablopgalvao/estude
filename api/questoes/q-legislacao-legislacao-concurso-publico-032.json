@@ -1,8 +1,8 @@
 {
   "id": "q-legislacao-legislacao-concurso-publico-032",
-  "title": "Nos termos do Código de Processo Penal, é correto afir- mar que",
+  "title": "De acordo com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL",
   "images": [],
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "dificuldade": "media",
   "materia": "Legislação",
   "submateria": "Legislação",
@@ -15,38 +15,30 @@
   "alternativas": [
     {
       "id": "A",
-      "texto": "a prisão de qualquer pessoa e o local onde se encon- tre serão comunicados imediatamente ao juiz com- petente, ao Ministério Público e à família do preso ou à pessoa por ele indicada."
+      "texto": "uso imediato da força"
     },
     {
       "id": "B",
-      "texto": "em até 48 (quarenta e oito) horas após a realização da prisão, será encaminhado ao juiz competente o auto de prisão em flagrante e, caso o autuado não informe o nome de seu advogado, cópia integral para"
-    },
-    {
-      "id": "A",
-      "texto": "Defensoria Pública."
+      "texto": "uso progressivo da força"
     },
     {
       "id": "C",
-      "texto": "em até 24 (vinte e quatro) horas após a realização da prisão, será encaminhado ao Promotor de Justiça competente o auto de prisão em flagrante e, caso o autuado não informe o nome de seu advogado, cópia integral para a Procuradoria Geral do Estado."
+      "texto": "patrulhamento ostensivo"
     },
     {
       "id": "D",
-      "texto": "a prisão de qualquer pessoa e o local onde se encon- tre serão comunicados em até 48 (quarenta e oito) horas ao Promotor de Justiça competente e à família do preso ou à pessoa por ele indicada."
+      "texto": "compromisso eventual com a evolução social da comunidade"
     },
     {
       "id": "E",
-      "texto": "em até 24 (vinte e quatro) horas após a realização da prisão, será encaminhado ao juiz competente o auto de prisão em flagrante e, caso o autuado não informe o nome de seu advogado, cópia integral para"
-    },
-    {
-      "id": "A",
-      "texto": "Procuradoria Geral do Estado. 11 PMOS2108/001-GuardaCivilMunicipal-3aClasse Confidencial até o momento da aplicação."
+      "texto": "proteção em caráter excepcional dos direitos humanos fundamentais 6 GUARDA CIVIL MUNICIPAL DO MUNICÍPIO DE NITERÓI - RJ SECRETARIA MUNICIPAL DE ORDEM PÚBLICA"
     }
   ],
   "gabarito": "",
-  "bancaExaminadora": "VUNESP",
-  "prova": "concurso público 2022",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
   "explicacao": "",
   "comentarios": [],
-  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos do Código de Processo Penal, é correto afir- mar que</p>\n",
-  "url": "https://pablopgalvao.github.io/2026/03/10/questoes/concurso-publico-2022-legislacao-q032/"
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>De acordo com a Lei nº 13.022, de 08 de agosto de 2014, que dispõe sobre o ESTATUTO GERAL DAS GUARDAS MUNICIPAIS, um dos princípios mínimos de atuação das guardas municipais é o(a):</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-legislacao-q032/"
 }

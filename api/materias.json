@@ -1,7 +1,23 @@
 [
   {
+    "id": "atualidades",
+    "nome": "Atualidades"
+  },
+  {
     "id": "conhecimentos-especificos",
     "nome": "Conhecimentos Específicos"
+  },
+  {
+    "id": "direito-administrativo",
+    "nome": "Direito Administrativo"
+  },
+  {
+    "id": "direito-constitucional",
+    "nome": "Direito Constitucional"
+  },
+  {
+    "id": "direito-penal",
+    "nome": "Direito Penal"
   },
   {
     "id": "historia",
@@ -12,6 +28,18 @@
     "nome": "Legislação"
   },
   {
+    "id": "informatica",
+    "nome": "Informática"
+  },
+  {
+    "id": "portugues",
+    "nome": "Português"
+  },
+  {
+    "id": "raciocinio-logico",
+    "nome": "Raciocínio Lógico"
+  },
+  {
     "id": "lingua-portuguesa",
     "nome": "Língua Portuguesa"
   },
@@ -20,7 +48,7 @@
     "nome": "Matemática"
   },
   {
-    "id": "portugues",
-    "nome": "Portugues"
+    "id": "geografia",
+    "nome": "Geografia"
   }
 ]

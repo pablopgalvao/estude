@@ -1,0 +1,44 @@
+{
+  "id": "q-informatica-informatica-concurso-publico-edital-001-2023-016",
+  "title": "No sistema operacional Windows é possível rea­ lizar a instalação de diversas",
+  "images": [],
+  "date": "2026-03-11",
+  "dificuldade": "media",
+  "materia": "Informática",
+  "submateria": "Informática",
+  "categorias": [
+    "Informática",
+    "Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "SQUARE Todos os documentos direcionados para esta impressora serão impressos em modo texto, conforme definido pelo padrão IBM-PC: Arial 11 sem formatação."
+    },
+    {
+      "id": "B",
+      "texto": "SQUARE Ao se pressionar a combinação de teclas CTRL + P, o documento ou arquivo aberto será auto­ maticamente impresso, sendo consideradas as configurações da impressora padrão."
+    },
+    {
+      "id": "C",
+      "texto": "SQUARE Todas as configurações da impressora padrão serão adotadas para as demais impressoras, tais como tamanho do papel, orientação, número de cópias, qualidade, etc."
+    },
+    {
+      "id": "D",
+      "texto": "Check-square Ao se escolher a ação de imprimir, a impressora padrão será automaticamente selecionada, na lista de impressoras disponíveis, para que a impressão seja direcionada para ela."
+    },
+    {
+      "id": "E",
+      "texto": "SQUARE O driver de impressão utilizado passa a ser o driver padrão do Windows e poderão ser uti­ lizados alguns recursos avançados tais como: imprimir em ambos os lados do papel, imprimir em ordem inversa, entre outros."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "FEPESE",
+  "prova": "Concurso Público • Edital 001/2023 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No sistema operacional Windows é possível rea­ lizar a instalação de diversas impressoras. Assim que devidamente instaladas, é possível escolher uma des­ tas impressoras e defini-la como impressora padrão. Assinale a alternativa que apresenta corretamente o comportamento a ser adotado pelo sistema operacio­ nal após essa ação.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-edital-001-2023-2024-informatica-q016/"
+}

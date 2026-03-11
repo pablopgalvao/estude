@@ -1,8 +1,8 @@
 {
   "id": "q-legislacao-legislacao-concurso-publico-039",
-  "title": "Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a conduta de",
+  "title": "O Código de Trânsito Brasileiro estabelece que conduzir um veículo com elementos de",
   "images": [],
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "dificuldade": "media",
   "materia": "Legislação",
   "submateria": "Legislação",
@@ -15,30 +15,34 @@
   "alternativas": [
     {
       "id": "A",
-      "texto": "física."
+      "texto": "os veículos de duas ou três rodas devem apresentar placa dianteira, sendo dispensados da utilização de placa traseira"
     },
     {
       "id": "B",
-      "texto": "sexual."
+      "texto": "o veículo será identiﬁ cado internamente por meio de placas dianteira e traseira, dotadas de caracteres individualizados para cada veículo"
     },
     {
       "id": "C",
-      "texto": "patrimonial."
+      "texto": "o veículo será identiﬁ cado obrigatoriamente por caracteres gravados no chassi ou no monobloco mediante gravação realizada pelo montador ou pela concessionária"
     },
     {
       "id": "D",
-      "texto": "moral."
+      "texto": "as placas com as cores verde e amarela da Bandeira Nacional serão usadas no âmbito municipal somente pelos veículos de representação pessoal do prefeito"
     },
     {
       "id": "E",
-      "texto": "psicológica."
+      "texto": "os veículos de transporte de carga e os coletivos de passageiros deverão conter, em local facilmente visível, a inscrição indicativa de sua tara, do peso bruto total, do peso bruto total combinado ou da capacidade máxima de tração"
+    },
+    {
+      "id": "E",
+      "texto": "de sua lotação"
     }
   ],
   "gabarito": "",
-  "bancaExaminadora": "VUNESP",
-  "prova": "concurso público 2022",
+  "bancaExaminadora": "OBJETIVA",
+  "prova": "CONCURSO PÚBLICO 2025",
   "explicacao": "",
   "comentarios": [],
-  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a conduta de impedir a mulher de usar qualquer método contraceptivo é considerada uma forma de violência</p>\n",
-  "url": "https://pablopgalvao.github.io/2026/03/10/questoes/concurso-publico-2022-legislacao-q039/"
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>O Código de Trânsito Brasileiro estabelece que conduzir um veículo com elementos de identiﬁ cação violados ou falsiﬁ cados é uma infração gravíssima. Além disso, de acordo com a lei citada, é necessário observar que:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/11/questoes/concurso-publico-2025-legislacao-q039/"
 }
