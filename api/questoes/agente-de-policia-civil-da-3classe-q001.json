@@ -3,6 +3,7 @@
   "title": "Sobre o tema discutido no texto, é CORRETO afirmar que o posicionamento do autor é de que",
   "images": [],
   "date": "2026-03-12",
+  "year": 2018,
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -54,6 +55,7 @@
       "texto": "A recepção de estrangeiros com dois pesos, duas medidas não é novidade na história brasileira. POLÍCIA CIVIL DE 3ª CLASSE – PROVA TIPO “A”"
     }
   ],
+  "text": "TEXTO I (Para as questões de 01 a 06). Um povo O clichê patriótico de que o Brasil é aberto um desses imigrantes que aportaram no país nos estrangeiros - que também existe, é claro - e sentimento negativo é o que mais pesa no Brasil de Xenofobia é o medo, a antipatia ou a desconfiança A xenofobia à brasileira, no entanto, tem peculiaridades nações, não há, por aqui, pichações nos muros partidos políticos que incluam isso em seus programas são raros e, quando ocorrem, (...) quase nunca esporádicas, fugazes e desorganizadas. Estão em percebem. Tudo isso decorre de uma vantagem questão étnica tem na sociedade. (...). Talvez por isso a hospitalidade brasileira maior em relação a pessoas de países pobres ou têm boa qualificação profissional e competem por forte. (...) Por outro lado, quando os estrangeiros bons salários, ganham a alcunha de \"expatriados\" A recepção de estrangeiros com dois pesos, Ela apenas foi exacerbada pelas novas ondas migratórias, depois do terremoto que destruiu o Haiti. (...). Com reportagem de Luisa Publicado em VEJA de 21 Site: https://veja.abril.com.br/revista-veja/um-povo-queacolhe-e-rejeita/",
   "gabarito": "",
   "bancaExaminadora": "NUCEPE",
   "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
@@ -61,5 +63,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Sobre o tema discutido no texto, é CORRETO afirmar que o posicionamento do autor é de que</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q001/",
-  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/26474368/de48b10426c7/agente_de_policia_civil_da_3classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/26474368/0d5cedec3581/gabarito.pdf"
 }

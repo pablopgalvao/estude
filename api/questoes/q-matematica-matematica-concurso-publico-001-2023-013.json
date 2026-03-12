@@ -3,6 +3,7 @@
   "title": ". Maria possui um empreendimento de prestação de serviços, onde o lucro 𝑳 dado por 𝑳(𝒙) = 𝟕, 𝟓𝒙 e",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Matemática",
   "submateria": "Matemática",
@@ -11,7 +12,7 @@
     "Matemática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "41."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDESG",
   "prova": "concurso público 001/2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Maria possui um empreendimento de prestação de serviços, onde o lucro 𝑳 dado por 𝑳(𝒙) &#x3D; 𝟕, 𝟓𝒙 e o custo total 𝑪 dado por 𝑪(𝒙) &#x3D; 𝟏𝟐𝟎+ 𝟕𝒙 𝟐 variam com base no número 𝒙 de clientes. Qual é o número mínimo de clientes necessário para que o seu lucro supere os custos dessa empresa?</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-matematica-matematica-concurso-publico-001-2023-013/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
+  "fonte_pdf": "",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
 }

@@ -3,6 +3,7 @@
   "title": "12 funcionários de uma empresa de construção realizaram dois quintos de um serviço. Essa parte do serviço demandou um to",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "7 dias e 12 minutos. Guarda Civil Metropolitano - 3ª Classe IBADE acordou atrasado e, ao verificar o relógio, que o tempo decorrido do dia era igual a dois do tempo até o final do dia. O horário, em que Leonardo acordou foi: 17h e 9min. 6h e 51min. 15h e 33min. 6h e 22min. 9h e 10min. ao entrar em uma loja de computadores, avistou anúncio informando que toda a loja tinha 10% de nas compras à vista. Rômulo foi procurar um para seu computador e, ao achá-lo, ficou surpreso ao que havia um desconto adicional de 8% no item. que o preço original do item era R$100,00 e Rômulo pagou à vista, o preço final que ele pagou foi: R$ 82,00. R$ 82,40. R$ 82,80. R$ 83,20. R$ 83,40. união de conjuntos é dada quando há a junção dos dos mesmos. Considere um conjunto X com 55 e um conjunto Y com 30 elementos. O menor de elementos da união do conjunto X com o Y é: 85. 55. 30. 20. 15. que em uma sala de aula há N alunos. O afirma aos alunos que há, pelo menos, 4 alunos fazendo aniversário no mesmo mês. Para tornar afirmação obrigatoriamente verdadeira, o valor de N é: 4. 12. 48. 25. 37. Guarda Civil Metropolitano - 3ª Classe Conhecimentos Gerais - Realidades Municipais"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IBADE",
   "prova": "Guarda Civil Metropolitano - 3ª Classe 2022",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>12 funcionários de uma empresa de construção realizaram dois quintos de um serviço. Essa parte do serviço demandou um total de 5 dias, nos quais os funcionários trabalharam 8 horas diárias. Para o restante do serviço, que deverá ser concluído em 10 dias, 10 funcionários irão trabalhar. Sabendo que os 10 funcionários irão trabalhar um mesmo número de horas por dia, o total de horas trabalhadas por cada funcionário é de:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda_civil_metropolitano_3_classe/guarda-civil-metropolitano-3-classe-q016/",
-  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/28851825/97eb92fde792/guarda_civil_metropolitano_3_classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf"
 }

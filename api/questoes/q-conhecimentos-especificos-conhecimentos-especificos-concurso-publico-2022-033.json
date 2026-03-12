@@ -3,6 +3,7 @@
   "title": "Nos termos da Lei no 8.069, de 13 de julho de 1990 (Es- tatuto Da Criança e Do Adolescente), o",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -114,6 +115,7 @@
       "texto": "em até 24 (vinte e quatro) horas após a realização da prisão, será encaminhado ao juiz competente o auto de prisão em flagrante e, caso o autuado não informe o nome de seu advogado, cópia integral para a Procuradoria Geral do Estado."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "concurso público 2022",
@@ -121,5 +123,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei no 8.069, de 13 de julho de 1990 (Es- tatuto Da Criança e Do Adolescente), o adolescente civil- mente identificado</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-033/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

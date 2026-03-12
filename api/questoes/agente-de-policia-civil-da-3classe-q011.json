@@ -3,6 +3,7 @@
   "title": "Marque a alternativa CORRETA em relação às afirmativas abaixo, que tratam dos componentes de um computador. I – Os dispo",
   "images": [],
   "date": "2026-03-12",
+  "year": 2018,
   "dificuldade": "media",
   "materia": "Noções de Informática",
   "submateria": "Noções de Informática",
@@ -11,7 +12,7 @@
     "Noções de Informática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -74,6 +75,7 @@
       "texto": "O destinatário do e-mail pedro@email.com.br poderá visualizar o e- mail dos destinatários antonia@email.com.br jose@email.com.br."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "NUCEPE",
   "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
@@ -81,5 +83,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Marque a alternativa CORRETA em relação às afirmativas abaixo, que tratam dos componentes de um computador. I – Os dispositivos de entrada e saída permitem a comunicação do usuário com computador. Os teclados e monitores são exemplos, respectivamente, de dispositivos de entrada e dispositivos de saída. II – O processador é o componente do computador utilizado para interpretar executar uma operação definida por uma instrução de máquina. CONCURSO PÚBLICO – POLÍCIA CIVIL 2018 – AGENTE III – As portas USB (Universal Serial Bus) do computador são utilizadas para a conexão de HDs externos, pendrives, mouses, teclados, impressoras e outros dispositivos periféricos compatíveis com o padrão USB.</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q011/",
-  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/26474368/de48b10426c7/agente_de_policia_civil_da_3classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/26474368/0d5cedec3581/gabarito.pdf"
 }

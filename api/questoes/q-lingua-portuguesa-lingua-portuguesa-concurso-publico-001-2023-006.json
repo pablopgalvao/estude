@@ -3,6 +3,7 @@
   "title": ". De acordo com o texto, qual é a tendência observada na porcentagem de espécies ameaçadas na Mata Atlântica entre",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "A porcentagem variou, mas sem uma tendência clara. PREFEITURA MUNICIPAL DE VARRE-SAI/RJ Concurso Público nº 001/2023 Edital nº 001/2023"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDESG",
   "prova": "concurso público 001/2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. De acordo com o texto, qual é a tendência observada na porcentagem de espécies ameaçadas na Mata Atlântica entre 2014 e 2022?</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-lingua-portuguesa-lingua-portuguesa-concurso-publico-001-2023-006/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
+  "fonte_pdf": "",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
 }

@@ -3,6 +3,7 @@
   "title": "Acerca do regime jurídico dos Servidores Públicos Civis do Estado do Piauí, marque alternativa CORRETA:",
   "images": [],
   "date": "2026-03-12",
+  "year": 2018,
   "dificuldade": "media",
   "materia": "Legislação Estadual",
   "submateria": "Legislação Estadual",
@@ -11,7 +12,7 @@
     "Legislação Estadual"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -74,6 +75,7 @@
       "texto": "Preso provisoriamente, o policial civil, enquanto não perder a condição de servidor, permanecerá em prisão especial, durante o curso da ação penal e até que a sentença transite em julgado. POLÍCIA CIVIL DE 3ª CLASSE – PROVA TIPO “A”"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "NUCEPE",
   "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
@@ -81,5 +83,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Acerca do regime jurídico dos Servidores Públicos Civis do Estado do Piauí, marque alternativa CORRETA:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q058/",
-  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/26474368/de48b10426c7/agente_de_policia_civil_da_3classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/26474368/0d5cedec3581/gabarito.pdf"
 }

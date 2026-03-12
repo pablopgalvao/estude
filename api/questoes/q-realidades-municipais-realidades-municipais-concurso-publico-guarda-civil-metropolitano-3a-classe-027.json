@@ -3,6 +3,7 @@
   "title": "No seu fluxo de expansão urbana, a cidade de São Paulo passou a oferecer diversas atrações culturais, que se converteram",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Realidades Municipais",
   "submateria": "Realidades Municipais",
@@ -11,7 +12,7 @@
     "Realidades Municipais"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "Santuário Dom Bosco."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IBADE",
   "prova": "concurso público guarda civil metropolitano 3ª classe",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No seu fluxo de expansão urbana, a cidade de São Paulo passou a oferecer diversas atrações culturais, que se converteram em uma forte característica sua. Assim, quem visita São Paulo não pode deixar de fazer um passeio cultural. Nesse contexto, dentre os equipamentos culturais paulistanos abertos à visitação pública, destaca(m)-se o(a)(s):</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-metropolitano-3-classe/q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-027/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

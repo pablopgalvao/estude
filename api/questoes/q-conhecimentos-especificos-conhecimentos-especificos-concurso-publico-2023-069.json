@@ -3,6 +3,7 @@
   "title": "Cláudio e Augusto são gêmeos idênticos e, sendo o primeiro devidamente habilitado à direção de veículo automotor, cedeu ao irmão",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "Praticou, assim como seu irmão, crime de falsa identidade."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Cláudio e Augusto são gêmeos idênticos e, sendo o primeiro devidamente habilitado à direção de veículo automotor, cedeu ao irmão sua CNH, para que dela se utilizasse por ocasião de viagem rodoviária. Nestas circunstâncias, conduzindo veículo automotor e levando consigo a carteira de Cláudio, Augusto foi abordado por policiais. Na ocasião, apresentou-se como Cláudio, exibindo o documento. Neste caso, Augusto:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-069/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

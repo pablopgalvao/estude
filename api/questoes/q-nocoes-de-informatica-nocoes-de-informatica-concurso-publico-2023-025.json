@@ -3,6 +3,7 @@
   "title": "Ao usar os recursos de um browser como o Google Chrome ou o Firefox Mozilla, em ambos é possível realizar",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Noções de Informática",
   "submateria": "Noções de Informática",
@@ -11,7 +12,7 @@
     "Noções de Informática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": ",  + D e  + P"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Ao usar os recursos de um browser como o Google Chrome ou o Firefox Mozilla, em ambos é possível realizar três procedimentos, caracterizados a seguir. I. navegar em sites na modalidade tela cheia, a partir do acionamento de uma tecla de função. II. verificar o andamento dos downloads em execução ou já concluídos, por meio do acionamento de um atalho de teclado; III. fazer a procura de uma palavra ou frase na homepage de um site exibida naquele momento, por meio de uma janela de diálogo, como exemplificado na figura , mostrada na tela do monitor de vídeo do Firefox Mozilla 112.0.2 (64-bits) em português, resultado da execução de um atalho de teclado. A tecla de função em I e os atalhos de teclado em II e em III são, respectivamente:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-025/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

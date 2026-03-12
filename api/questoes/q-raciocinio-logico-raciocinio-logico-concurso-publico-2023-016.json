@@ -3,6 +3,7 @@
   "title": "Huguinho, Zezinho e Luisinho haviam combinado de se encontrar em frente à prefeitura da cidade às 16 horas para andar",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Raciocínio Lógico",
   "submateria": "Raciocínio Lógico",
@@ -11,7 +12,7 @@
     "Raciocínio Lógico"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "Huguinho chegou às 16h25min."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Huguinho, Zezinho e Luisinho haviam combinado de se encontrar em frente à prefeitura da cidade às 16 horas para andar de bicicleta no parque. Zezinho, que chegou 10 minutos antes do horário marcado, teve que esperar por 25 minutos até a chegada de Huguinho. Huguinho, por sua vez, chegou 5 minutos depois de Luisinho. Sendo assim, pode-se concluir que:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-016/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

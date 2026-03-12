@@ -3,6 +3,7 @@
   "title": "Sabe-se que 50% das questões de uma determinada prova de vestibular são referentes ao conteúdo de português, 25% são de",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Matemática e Raciocínio Lógico",
   "submateria": "Matemática e Raciocínio Lógico",
@@ -11,7 +12,7 @@
     "Matemática e Raciocínio Lógico"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "71,0%."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "AVANÇA SP",
   "prova": "concurso público 02/2024",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Sabe-se que 50% das questões de uma determinada prova de vestibular são referentes ao conteúdo de português, 25% são de matemática e os outros 25% são de inglês. Um candidato acertou 80% da prova de português, 70% da prova de matemática, e 60% da prova de inglês. Quantos por cento das questões totais do exame o candidato acertou?</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-municipal-3-classe-feminino/q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-011/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/32278749/6f961a22b6a8/gabarito_preliminar.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/32278749/6f961a22b6a8/gabarito_preliminar.pdf",
+  "fonte_gabarito": ""
 }

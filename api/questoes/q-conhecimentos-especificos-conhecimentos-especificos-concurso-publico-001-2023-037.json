@@ -3,6 +3,7 @@
   "title": ". Acerca das competências exclusivas dos Guardas Municipais, analisar as afirmações a seguir: I. Cabe aos guardas municipais zelar pelos",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "Todos os itens."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDESG",
   "prova": "concurso público 001/2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Acerca das competências exclusivas dos Guardas Municipais, analisar as afirmações a seguir: I. Cabe aos guardas municipais zelar pelos bens, equipamentos e prédios públicos do Município. II. Atuar, preventiva e permanentemente, no território do Município, para a proteção sistêmica da população que utiliza os bens, serviços e instalações municipais é uma das atribuições do guarda municipal. III. A proteção do patrimônio ecológico é vinculada exclusivamente a polícia florestal, sendo vedada a ação do guarda municipal nessa esfera da segurança. Está(ão) Correto(s):</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-037/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
+  "fonte_pdf": "",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
 }

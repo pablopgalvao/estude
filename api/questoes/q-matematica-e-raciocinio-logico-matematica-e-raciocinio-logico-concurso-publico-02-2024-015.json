@@ -3,6 +3,7 @@
   "title": "Um determinado retângulo tem razão entre seus lados de 7/2, e seu perímetro é 27 cm. Indique a sua área,",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Matemática e Raciocínio Lógico",
   "submateria": "Matemática e Raciocínio Lógico",
@@ -11,7 +12,7 @@
     "Matemática e Raciocínio Lógico"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "31,5."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "AVANÇA SP",
   "prova": "concurso público 02/2024",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Um determinado retângulo tem razão entre seus lados de 7&#x2F;2, e seu perímetro é 27 cm. Indique a sua área, em centímetros quadrados:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-municipal-3-classe-feminino/q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-015/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/32278749/6f961a22b6a8/gabarito_preliminar.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/32278749/6f961a22b6a8/gabarito_preliminar.pdf",
+  "fonte_gabarito": ""
 }

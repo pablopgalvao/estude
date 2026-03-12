@@ -3,6 +3,7 @@
   "title": "Considere o seguinte caso hipotético: um Policial Militar, no dia 10 de janeiro de 2022, às 22 horas, cumprindo mandado",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "não cometeu qualquer crime, pois a legislação auto- riza o ingresso a qualquer hora para o cumprimento de determinação judicial."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Considere o seguinte caso hipotético: um Policial Militar, no dia 10 de janeiro de 2022, às 22 horas, cumprindo mandado de busca e apreensão domiciliar, adentra um imóvel alheio, à revelia da vontade do ocupante. Diante desta situação e nos termos da Lei no 13.869, 5 de setembro de 2019 (Lei de Abuso de Autoridade), correto afirmar que o Policial Militar</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q042/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

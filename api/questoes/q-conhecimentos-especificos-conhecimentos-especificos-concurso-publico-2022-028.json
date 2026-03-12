@@ -3,6 +3,7 @@
   "title": "Considere o seguinte caso hipotético: Kantiferes, no dia 20 de outubro de 2020, no município de São Paulo, utilizando-se de",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -114,6 +115,7 @@
       "texto": "penal da União."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "concurso público 2022",
@@ -121,5 +123,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Considere o seguinte caso hipotético: Kantiferes, no dia 20 de outubro de 2020, no município de São Paulo, utilizando-se de um revólver Calibre .38, ameaça matar Artêmios e o obriga a lhe entregar seu relógio. Após con- seguir o objeto, Kantiferes foge, sendo capturado, antes do oferecimento da denúncia, no município de Guaru- lhos, ainda na posse do armamento e do relógio. Diante desta situação e nos termos do Código Penal, é correto afirmar que:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-028/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

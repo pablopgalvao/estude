@@ -3,6 +3,7 @@
   "title": "A opção em que, segundo a norma culta, ambas as formas verbais entre parênteses podem ser empregadas é:",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "Não queria que Pedro e Raquel o (visse/vissem) na rua."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IBADE",
   "prova": "concurso público guarda civil metropolitano 3ª classe",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>A opção em que, segundo a norma culta, ambas as formas verbais entre parênteses podem ser empregadas é:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-metropolitano-3-classe/q-lingua-portuguesa-lingua-portuguesa-concurso-publico-guarda-civil-metropolitano-3a-classe-009/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

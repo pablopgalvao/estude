@@ -8,12 +8,12 @@
     "nome": "Noções de Informática"
   },
   {
-    "id": "conhecimentos-gerais",
-    "nome": "Conhecimentos Gerais"
-  },
-  {
     "id": "nocoes-de-direito",
     "nome": "Noções de Direito"
+  },
+  {
+    "id": "conhecimentos-gerais",
+    "nome": "Conhecimentos Gerais"
   },
   {
     "id": "legislacao-especial",

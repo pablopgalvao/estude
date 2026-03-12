@@ -3,6 +3,7 @@
   "title": ". Cláudia olhou para o relógio de ponteiros exatamente as 01:45. Qual é o menor ângulo formado pelos ponteiros nesse",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Matemática",
   "submateria": "Matemática",
@@ -11,7 +12,7 @@
     "Matemática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "217,0º’. PREFEITURA MUNICIPAL DE VARRE-SAI/RJ Concurso Público nº 001/2023 Edital nº 001/2023"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDESG",
   "prova": "concurso público 001/2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Cláudia olhou para o relógio de ponteiros exatamente as 01:45. Qual é o menor ângulo formado pelos ponteiros nesse momento?</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-matematica-matematica-concurso-publico-001-2023-016/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
+  "fonte_pdf": "",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
 }

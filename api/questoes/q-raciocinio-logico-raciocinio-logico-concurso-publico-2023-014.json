@@ -3,6 +3,7 @@
   "title": "Em uma escola de ensino fundamental, a professora questionou cinco crianças sobre o sumiço do livro de um dos colegas.",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Raciocínio Lógico",
   "submateria": "Raciocínio Lógico",
@@ -11,7 +12,7 @@
     "Raciocínio Lógico"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "a criança E."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Em uma escola de ensino fundamental, a professora questionou cinco crianças sobre o sumiço do livro de um dos colegas. Quando foram questionadas, as crianças responderam: - Foi a criança E, respondeu a criança A. - Não fui eu, respondeu a criança B. - A criança B está falando a verdade, respondeu a criança C. - Foi a criança A, respondeu a criança D. - A criança D está mentindo, respondeu a criança E. Sabe-se que foi uma destas cinco crianças que escondeu o livro do colega e que uma delas está mentindo. Sendo assim, quem escondeu o livro do colega foi:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-014/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

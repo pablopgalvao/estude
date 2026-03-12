@@ -10,14 +10,14 @@
     "materiaId": "nocoes-de-informatica"
   },
   {
-    "id": "conhecimentos-gerais",
-    "nome": "Conhecimentos Gerais",
-    "materiaId": "conhecimentos-gerais"
-  },
-  {
     "id": "nocoes-de-direito",
     "nome": "Noções de Direito",
     "materiaId": "nocoes-de-direito"
+  },
+  {
+    "id": "conhecimentos-gerais",
+    "nome": "Conhecimentos Gerais",
+    "materiaId": "conhecimentos-gerais"
   },
   {
     "id": "legislacao-especial",

@@ -3,6 +3,7 @@
   "title": "Paulo deseja adquirir autorização para compra de arma de fogo após declarar efetiva necessidade e atender a todos os requisitos",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "A expedição da autorização será concedida, ou recusada com a devida fundamentação, no prazo de 45 (quarenta e cinco) dias úteis, a contar da data do requerimento do interessado. (E )A expedição da autorização será concedida, ou recusada com a devida fundamentação, no prazo de 30 (trinta) dias úteis, a contar da data do requerimento do interessado."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "AVANÇA SP",
   "prova": "concurso público 02/2024",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Paulo deseja adquirir autorização para compra de arma de fogo após declarar efetiva necessidade e atender a todos os requisitos estabelecidos. Após aguardar 30 dias, o Sinarm não expediu a autorização para Paulo. Diante dessa situação, assinale a alternativa correta.</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-municipal-3-classe-feminino/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-035/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/32278749/6f961a22b6a8/gabarito_preliminar.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/32278749/6f961a22b6a8/gabarito_preliminar.pdf",
+  "fonte_gabarito": ""
 }

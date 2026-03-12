@@ -10,18 +10,7 @@
       "tags": [],
       "bancaExaminadora": "NUCEPE",
       "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
-      "questao": ""
-    },
-    {
-      "id": "agente-de-policia-civil-da-3classe-q050",
-      "title": "NÃO se constitui abuso de autoridade:",
-      "materia": "Legislação Especial",
-      "submateria": "Legislação Especial",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "NUCEPE",
-      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
-      "questao": ""
+      "question": ""
     },
     {
       "id": "agente-de-policia-civil-da-3classe-q053",
@@ -32,7 +21,7 @@
       "tags": [],
       "bancaExaminadora": "NUCEPE",
       "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
-      "questao": ""
+      "question": ""
     },
     {
       "id": "agente-de-policia-civil-da-3classe-q054",
@@ -43,7 +32,18 @@
       "tags": [],
       "bancaExaminadora": "NUCEPE",
       "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
-      "questao": ""
+      "question": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q050",
+      "title": "NÃO se constitui abuso de autoridade:",
+      "materia": "Legislação Especial",
+      "submateria": "Legislação Especial",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "question": ""
     }
   ]
 }

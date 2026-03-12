@@ -3,6 +3,7 @@
   "title": "Uma sala quadrada, com 36 m2 de área, foi reformada, tornando-se uma sala retangular, de modo que sua lar- gura permanec",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Matemática",
   "submateria": "Matemática",
@@ -11,7 +12,7 @@
     "Matemática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -54,6 +55,7 @@
       "texto": "20. r a s c u n Ho"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
@@ -61,5 +63,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Uma sala quadrada, com 36 m2 de área, foi reformada, tornando-se uma sala retangular, de modo que sua lar- gura permaneceu a mesma, mas seu comprimento aumentado, conforme mostra a figura. Se após a reforma o perímetro da sala aumentou 4 então sua área aumentou</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q024/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

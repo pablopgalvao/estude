@@ -3,6 +3,7 @@
   "title": "De acordo com a Constituição Federal, a segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "polícias militares e corpos de bombeiros militares"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "AVANÇA SP",
   "prova": "concurso público 02/2024",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>De acordo com a Constituição Federal, a segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos: exceto.</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-municipal-3-classe-feminino/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-048/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/32278749/6f961a22b6a8/gabarito_preliminar.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/32278749/6f961a22b6a8/gabarito_preliminar.pdf",
+  "fonte_gabarito": ""
 }

@@ -3,6 +3,7 @@
   "title": "Sistema Único de Segurança Pública (SUSP) – Metas e Avaliação Qual é o propósito das metas de acompanhamento e avaliação",
   "images": [],
   "date": "2026-03-12",
+  "year": 2024,
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "Fixar metas inalcançáveis para justificar o aumento do orçamento destinado à segurança pública."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "FACET",
   "prova": "Prefeitura Municipal de Mamanguape PB - Guarda Civil Metropolitano 2024",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Sistema Único de Segurança Pública (SUSP) – Metas e Avaliação Qual é o propósito das metas de acompanhamento e avaliação estabelecidas pelo Sistema Único de Segurança Pública (SUSP) em Mamanguape?</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda_civil_metropolitano/guarda-civil-metropolitano-q012/",
-  "fontePdf": "guarda_civil_metropolitano.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33792199/2839a862ff65/guarda_civil_metropolitano.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/33792199/6b108ac5cc47/gabarito_oficial.pdf"
 }

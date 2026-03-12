@@ -3,6 +3,7 @@
   "title": "João, Felipe, Ana, Carla e Eduardo são cinco amigos que moram com seus avós viúvos: Antônio, Juvenal, Lucas, José e Mari",
   "images": [],
   "date": "2026-03-12",
+  "year": 2018,
   "dificuldade": "media",
   "materia": "Noções de Informática",
   "submateria": "Noções de Informática",
@@ -11,7 +12,7 @@
     "Noções de Informática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "Eduardo mora em Teresina e José mora em Parnaíba."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "NUCEPE",
   "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>João, Felipe, Ana, Carla e Eduardo são cinco amigos que moram com seus avós viúvos: Antônio, Juvenal, Lucas, José e Maria, nas cidades de Teresina, Altos, Campo Maior, Timon e Parnaíba, não necessariamente nesta ordem. Além disso, sabe-se que:  Felipe não é neto de Antônio, Ana mora em Altos com sua avó e João não mora em Campo Maior.  Quem mora em Teresina é neto de Juvenal, e quem mora em Campo Maior é neto de Antônio.  Carla nunca foi em Parnaíba, mas conhece Teresina. Além disso, João não mora em Teresina. CONCURSO PÚBLICO – POLÍCIA CIVIL 2018 – AGENTE  Por fim, a neta de Lucas toca violão e tem amigos em Campo Maior e Teresina. Pode-se afirmar, com certeza, baseado nas informações acima, que:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q024/",
-  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/26474368/de48b10426c7/agente_de_policia_civil_da_3classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/26474368/0d5cedec3581/gabarito.pdf"
 }

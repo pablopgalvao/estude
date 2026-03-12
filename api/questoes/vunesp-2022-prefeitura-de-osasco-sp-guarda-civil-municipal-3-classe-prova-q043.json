@@ -3,6 +3,7 @@
   "title": "Nos termos da Lei no 13.022, de 08 de agosto de 2014 (Estatuto Geral das Guardas Municipais), é correto afir- mar que",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -74,6 +75,7 @@
       "texto": "de dispositivos de sinalização auxiliar, luminosos, so- noros, de atenção, de advertência, de parada e de estacionamento."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
@@ -81,5 +83,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei no 13.022, de 08 de agosto de 2014 (Estatuto Geral das Guardas Municipais), é correto afir- mar que</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q043/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

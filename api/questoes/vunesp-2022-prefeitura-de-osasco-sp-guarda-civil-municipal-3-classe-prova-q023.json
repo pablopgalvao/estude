@@ -3,6 +3,7 @@
   "title": "Uma família comprou determinado número de litros álcool gel nos 5 primeiros meses do ano de 2020. O gráfi- co mostra alg",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Matemática",
   "submateria": "Matemática",
@@ -11,7 +12,7 @@
     "Matemática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "3 litros."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Uma família comprou determinado número de litros álcool gel nos 5 primeiros meses do ano de 2020. O gráfi- co mostra algumas informações sobre o número de litros comprados por mês. Na média, foram comprados 8 litros por mês. O número de litros comprados em abril superou o número de litros comprados em fevereiro em</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q023/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

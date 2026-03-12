@@ -3,6 +3,7 @@
   "title": "Suponha que Gabriel tenha elaborado uma apresentação no MS PowerPoint 2010 e queira mostrar todos os seus slides em uma",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "modo de exibição de leitura. Guarda Civil Metropolitano - 3ª Classe IBADE está preparando uma apresentação no MS 2010 para sua equipe e deparou com que gostaria de inserir para que ficassem e sincronizadas com a internet de forma online, o intuito de mostrá-las quando fosse clicada no texto pública, conforme a figura 2. 2: slide apresentado por Bárbara Autoria própria caso, Bárbara utilizou o recurso: instantâneo. smartart. painel de animação. anotações; hiperlink. precisa enviar um arquivo do Word por meio do eletrônico para que as pessoas pertencentes a um já criado por ele no seu correio eletrônico, recebam informação, contudo ele não quer que nenhum membro grupo saiba quem está recebendo o arquivo, se aparecer Bernardo como origem ou no endereçamento. O arquivo a ser enviado em seu computador com as permissões de segurança e ele pretende enviá-lo sem ter que alterar tipo de permissão por meio do correio eletrônico. caso, o endereçamento no e-mail deve ser: do grupo para Bernardo com cópia oculta para o grupo e anexando o arquivo. de Bernardo para um elemento do grupo com cópia oculta para o grupo e anexando o arquivo. do grupo para Bernardo com cópia oculta para Bernardo e anexando o arquivo. de Bernardo para Bernardo com cópia oculta para o grupo e anexando o arquivo. de Bernardo para Bernardo com cópia para o grupo e anexando o arquivo. Guarda Civil Metropolitano - 3ª Classe Conhecimentos Específicos"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IBADE",
   "prova": "Guarda Civil Metropolitano - 3ª Classe 2022",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Suponha que Gabriel tenha elaborado uma apresentação no MS PowerPoint 2010 e queira mostrar todos os seus slides em uma única tela. Gabriel acessou o PowerPoint colocou seus slides no modo de exibição desejado por ele, conforme a figura 1. Figura 1: Slides apresentados pelo Gabriel Fonte: Autoria própria Neste caso, o modo de exibição utilizado é:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda_civil_metropolitano_3_classe/guarda-civil-metropolitano-3-classe-q038/",
-  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/28851825/97eb92fde792/guarda_civil_metropolitano_3_classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf"
 }

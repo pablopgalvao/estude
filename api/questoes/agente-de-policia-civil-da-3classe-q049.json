@@ -3,6 +3,7 @@
   "title": "A lei denominada Maria da Penha cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher.",
   "images": [],
   "date": "2026-03-12",
+  "year": 2018,
   "dificuldade": "media",
   "materia": "Legislação Especial",
   "submateria": "Legislação Especial",
@@ -11,7 +12,7 @@
     "Legislação Especial"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "Os Juizados de Violência Doméstica Familiar contra a Mulher que vierem a ser criados deverão contar apenas com profissionais da área jurídica."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "NUCEPE",
   "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>A lei denominada Maria da Penha cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher. Com base na referida lei, marque a alternativa CORRETA.</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q049/",
-  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/26474368/de48b10426c7/agente_de_policia_civil_da_3classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/26474368/0d5cedec3581/gabarito.pdf"
 }

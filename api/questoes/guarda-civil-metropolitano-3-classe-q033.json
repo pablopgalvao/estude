@@ -3,6 +3,7 @@
   "title": "João é um agente da guarda metropolitana de São Paulo encontra-se trabalhando fora da rede local com seu notebook instal",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "compartilhamento. Guarda Civil Metropolitano - 3ª Classe IBADE é um agente da guarda metropolitana de São Paulo está trabalhando com um texto no Microsoft Word 2010 elaborar um relatório de rotina. Em um momento, seu cursor está posicionado no meio de uma palavra digitada em uma de um determinado parágrafo. Nesse instante, Breno as teclas CTRL + N (juntas) e verifica que: apenas a letra antes do cursor passa para o formato negrito. apenas a palavra onde o cursor se encontra passa para o formato negrito. toda a linha onde a palavra que o cursor está posicionado passa para o formato negrito. todo o parágrafo onde a palavra que o cursor está posicionado passa para o formato negrito. apenas a letra após o cursor passa para o formato negrito. está trabalhando em um relatório da Guarda de São Paulo e utilizou os cabeçalhos e Em determinado momento Dilma deseja explorar documento em um modo de exibição que permita o cabeçalho e o rodapé. Neste caso o modo que precisa acionar é: estrutura de tópicos. layout da web. leitura em tela inteira. rascunho. layout de impressão. recebeu de seu colega da Guarda Metropolitana São Paulo um arquivo do Excel denominado multas, ser trabalhado como um modelo do Excel para ela seus dados. Neste caso, após inserir seus dados, deve salvar o arquivo no seguinte formato considerando que ambos utilizam o MS Excel multas.xltx. multas.xlam. multas.xlsb. multas.dbf. multas. wmf. Guarda Civil Metropolitano - 3ª Classe"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IBADE",
   "prova": "Guarda Civil Metropolitano - 3ª Classe 2022",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>João é um agente da guarda metropolitana de São Paulo encontra-se trabalhando fora da rede local com seu notebook instalado com o Windows 7 na configuração padrão, quando visualiza na rua uma manifestação. Ele deseja enviar a foto capturada pela câmera do seu notebook para o seu chefe. Neste caso, após visualizar foto tirada com a câmera, João digita a tecla PRINT SCREEN, abre o aplicativo Paint e digita a tecla CTRL junto com a tecla V. Em seguida ele salva o arquivo com formato BMP e envia por e-mail ao seu chefe. Quando João executou os comandos supracitados, o Windows utilizou o recurso:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda_civil_metropolitano_3_classe/guarda-civil-metropolitano-3-classe-q033/",
-  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/28851825/97eb92fde792/guarda_civil_metropolitano_3_classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf"
 }

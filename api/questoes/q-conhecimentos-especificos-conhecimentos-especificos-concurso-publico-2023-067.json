@@ -3,6 +3,7 @@
   "title": "Carlos, tomado por um ciúme doentio, motivador de constantes brigas com Débora, sua esposa, decidiu que a mataria. Certo dia,",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "Carlos é isento de pena, incidindo, na hipótese, uma excludente de ilicitude. GUARDA MUNICIPAL – TIPO A"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Carlos, tomado por um ciúme doentio, motivador de constantes brigas com Débora, sua esposa, decidiu que a mataria. Certo dia, ao chegar em casa, viu que uma pessoa dormia no sofá e, julgando tratar-se de Débora, contra ela disparou, causando-lhe a morte. Ao aproximar-se do corpo, constatou que matara a própria filha, a quem muito amava. Nesse caso, à luz das disposições trazidas pelo Código Penal, é correto afirmar que:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-067/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

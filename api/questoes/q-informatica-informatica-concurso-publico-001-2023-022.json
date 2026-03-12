@@ -3,6 +3,7 @@
   "title": ". Qual é a finalidade da função ˜Controlar alterações” no Word 2016 (Pt-Br)?",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Informática",
   "submateria": "Informática",
@@ -11,7 +12,7 @@
     "Informática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "Desativar a capacidade de realizar alterações no documento."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDESG",
   "prova": "concurso público 001/2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Qual é a finalidade da função ˜Controlar alterações” no Word 2016 (Pt-Br)?</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-informatica-informatica-concurso-publico-001-2023-022/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
+  "fonte_pdf": "",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/31761887/65d324771ae6/gabaritos_preliminares.pdf"
 }

@@ -3,6 +3,7 @@
   "title": "Já em Sob o efeito das plantas, Michael Pollan sugere que o café – a cafeína, especificamente, nosso vício quase",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "Já em Sob o efeito das plantas Michael Pollan sugere que o café – a cafeína – especificamente, nosso vício quase universal pode ter acelerado o Iluminismo e o desenvolvimento da ciência moderna."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Já em Sob o efeito das plantas, Michael Pollan sugere que o café – a cafeína, especificamente, nosso vício quase universal – pode ter acelerado o Iluminismo e o desenvolvimento da ciência moderna. (linhas 19 e 20) Assinale a alternativa em que a alteração da pontuação do período acima tenha sido feita obedecendo à norma culta.</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-lingua-portuguesa-lingua-portuguesa-concurso-publico-2023-007/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

@@ -3,6 +3,7 @@
   "title": "No auditório de uma empresa, estão reunidos menos de r a s c u n Ho 80 funcionários, que serão divididos em grupos, de m",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Matemática",
   "submateria": "Matemática",
@@ -11,7 +12,7 @@
     "Matemática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "50."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No auditório de uma empresa, estão reunidos menos de r a s c u n Ho 80 funcionários, que serão divididos em grupos, de modo que cada grupo fique com o mesmo número de funcio- nários e que nenhum funcionário fique fora dos grupos. Nessas condições, é possível formar grupos com 4 fun- cionários em cada um deles, ou com 5 funcionários em cada um, ou com 6 funcionários em cada um. O número de funcionários presentes nesse auditório é</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q020/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

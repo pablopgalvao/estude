@@ -3,6 +3,7 @@
   "title": "Segundo a Lei Municipal nº 13.396/2002, a coordenação da política de segurança urbana do Município de São Paulo compete ao:",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "Ministro da Justiça e da Segurança Pública."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IBADE",
   "prova": "concurso público guarda civil metropolitano 3ª classe",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Segundo a Lei Municipal nº 13.396&#x2F;2002, a coordenação da política de segurança urbana do Município de São Paulo compete ao:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-metropolitano-3-classe/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-058/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

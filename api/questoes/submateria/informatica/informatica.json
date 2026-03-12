@@ -10,29 +10,7 @@
       "tags": [],
       "bancaExaminadora": "IDESG",
       "prova": "concurso público 001/2023",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-001-2023-022",
-      "title": ". Qual é a finalidade da função ˜Controlar alterações” no Word 2016 (Pt-Br)?",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDESG",
-      "prova": "concurso público 001/2023",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-001-2023-025",
-      "title": ". Quais as teclas de atalho devem ser pressionadas, simultaneamente, por um usuário que deseje mostrar ou ocultar a grade",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDESG",
-      "prova": "concurso público 001/2023",
-      "questao": ""
+      "question": ""
     },
     {
       "id": "q-informatica-informatica-concurso-publico-001-2023-023",
@@ -43,18 +21,7 @@
       "tags": [],
       "bancaExaminadora": "IDESG",
       "prova": "concurso público 001/2023",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-001-2023-026",
-      "title": ". Qual é a função da ferramenta “Slide Mestre” no PowerPoint 2016 (Pt-Br)?",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDESG",
-      "prova": "concurso público 001/2023",
-      "questao": ""
+      "question": ""
     },
     {
       "id": "q-informatica-informatica-concurso-publico-001-2023-024",
@@ -65,7 +32,40 @@
       "tags": [],
       "bancaExaminadora": "IDESG",
       "prova": "concurso público 001/2023",
-      "questao": ""
+      "question": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-001-2023-026",
+      "title": ". Qual é a função da ferramenta “Slide Mestre” no PowerPoint 2016 (Pt-Br)?",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDESG",
+      "prova": "concurso público 001/2023",
+      "question": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-001-2023-022",
+      "title": ". Qual é a finalidade da função ˜Controlar alterações” no Word 2016 (Pt-Br)?",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDESG",
+      "prova": "concurso público 001/2023",
+      "question": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-001-2023-025",
+      "title": ". Quais as teclas de atalho devem ser pressionadas, simultaneamente, por um usuário que deseje mostrar ou ocultar a grade",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDESG",
+      "prova": "concurso público 001/2023",
+      "question": ""
     },
     {
       "id": "q-informatica-informatica-concurso-publico-001-2023-027",
@@ -76,18 +76,7 @@
       "tags": [],
       "bancaExaminadora": "IDESG",
       "prova": "concurso público 001/2023",
-      "questao": ""
-    },
-    {
-      "id": "q-informatica-informatica-concurso-publico-001-2023-029",
-      "title": ". Qual é a função do recurso “Modo de Leitura” em alguns navegadores?",
-      "materia": "Informática",
-      "submateria": "Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDESG",
-      "prova": "concurso público 001/2023",
-      "questao": ""
+      "question": ""
     },
     {
       "id": "q-informatica-informatica-concurso-publico-001-2023-028",
@@ -98,7 +87,7 @@
       "tags": [],
       "bancaExaminadora": "IDESG",
       "prova": "concurso público 001/2023",
-      "questao": ""
+      "question": ""
     },
     {
       "id": "q-informatica-informatica-concurso-publico-001-2023-030",
@@ -109,7 +98,18 @@
       "tags": [],
       "bancaExaminadora": "IDESG",
       "prova": "concurso público 001/2023",
-      "questao": ""
+      "question": ""
+    },
+    {
+      "id": "q-informatica-informatica-concurso-publico-001-2023-029",
+      "title": ". Qual é a função do recurso “Modo de Leitura” em alguns navegadores?",
+      "materia": "Informática",
+      "submateria": "Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDESG",
+      "prova": "concurso público 001/2023",
+      "question": ""
     }
   ]
 }

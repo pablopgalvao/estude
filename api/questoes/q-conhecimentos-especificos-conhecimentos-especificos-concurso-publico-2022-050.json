@@ -3,6 +3,7 @@
   "title": "Nos termos da Lei complementar no 129 de 10 de fe- vereiro de 2005 (Cria a Corregedoria Geral da Guarda",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "Negar-se a receber uniforme, equipamentos ou ou- tros objetos que lhe sejam destinados ou devam ficar em seu poder."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "concurso público 2022",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei complementar no 129 de 10 de fe- vereiro de 2005 (Cria a Corregedoria Geral da Guarda Civil de Osasco, institui o regulamento disciplinar dos servidores do quadro dos profissionais da Guarda Civil Municipal de Osasco e dá outras providências), assinale a alternativa que contenha uma infração disciplinar de natureza média.</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-050/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

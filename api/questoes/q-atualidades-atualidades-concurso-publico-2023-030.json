@@ -3,6 +3,7 @@
   "title": "No Brasil, assim como o Ministério da Saúde, o Ministério da Educação é bastante conhecido pela população, sendo o responsável",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Atualidades",
   "submateria": "Atualidades",
@@ -11,7 +12,7 @@
     "Atualidades"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "paulista Fernando Haddad, economista."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No Brasil, assim como o Ministério da Saúde, o Ministério da Educação é bastante conhecido pela população, sendo o responsável para tratar da educação em geral, a qual abrange, dentre outras áreas, o ensino fundamental, o médio, o superior e a educação de jovens e adultos. Atualmente, o cargo de Ministro da Educação é ocupado pelo(a):</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-atualidades-atualidades-concurso-publico-2023-030/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

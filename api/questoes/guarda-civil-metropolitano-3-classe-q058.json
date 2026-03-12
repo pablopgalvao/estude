@@ -3,6 +3,7 @@
   "title": "Segundo a Lei Municipal nº 13.396/2002, a coordenação da política de segurança urbana do Município de São Paulo compete",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Língua Portuguesa",
   "submateria": "Língua Portuguesa",
@@ -11,7 +12,7 @@
     "Língua Portuguesa"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -34,6 +35,7 @@
       "texto": "Ministro da Justiça e da Segurança Pública. Guarda Civil Metropolitano - 3ª Classe IBADE as normas de fiscalização do comércio ambulante realizada Guarda Civil Metropolitana de São Paulo, objeto da Lei nº 13.866/2004, é correto afirmar que: os vendedores ou prestadores de serviços nas vias e logradouros públicos, quando irregulares, sujeitar-se-ão à penalidade de prisão simples, de 15 (quinze) a 60 (sessenta) dias, em carceragem própria existente na base da Guarda Civil Metropolitana. todo material apreendido pela Guarda Civil Metropolitana deverá ser acondicionado, por servidor ocupante de cargo ou função de agente de apoio, em saco apropriado, sendo este fechado por lacre e imediatamente recolhido às dependências da Subprefeitura. as mercadorias perecíveis que forem objeto de apreensão serão devolvidas aos respectivos donos dentro do prazo máximo de 7 (sete) dias. em nenhuma hipótese as mercadorias apreendidas serão devolvidas aos seus proprietários. os guardas civis poderão lavrar autos de apreensão, mas não notificações. a Lei Municipal nº 16.239/2015, que dispõe sobre o Técnico dos Profissionais da Guarda Civil Metropolitana São Paulo, o servidor que não for aprovado no estágio será, na forma da legislação específica: expulso. promovido. demitido. condecorado. exonerado."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IBADE",
   "prova": "Guarda Civil Metropolitano - 3ª Classe 2022",
@@ -41,5 +43,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Segundo a Lei Municipal nº 13.396&#x2F;2002, a coordenação da política de segurança urbana do Município de São Paulo compete ao:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda_civil_metropolitano_3_classe/guarda-civil-metropolitano-3-classe-q058/",
-  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/28851825/97eb92fde792/guarda_civil_metropolitano_3_classe.pdf",
+  "fonte_gabarito": "https://www.pciconcursos.com.br/provas/28851825/afaf6fbc5331/gabarito_definitivo.pdf"
 }

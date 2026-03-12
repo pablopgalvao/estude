@@ -3,6 +3,7 @@
   "title": "Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar, portando arma de fogo, uso permi",
   "images": [],
   "date": "2026-03-12",
+  "year": 2022,
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -94,6 +95,7 @@
       "texto": "crime de abuso de autoridade previsto no Código Penal."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
@@ -101,5 +103,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar, portando arma de fogo, uso permitido, sem autorização e em desacordo com de- terminação legal ou regulamentar. Astrômio é reincidente específico neste crime. Diante desta situação e nos termos da Lei no 10.826, 22 de dezembro de 2003 (Estatuto do Desarmamento), correto afirmar que Astrômio cometeu</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q038/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }

@@ -3,6 +3,7 @@
   "title": "Do ponto de vista histórico, o nome da cidade de Fortaleza faz referência:",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos sobre Fortaleza",
   "submateria": "Conhecimentos sobre Fortaleza",
@@ -11,7 +12,7 @@
     "Conhecimentos sobre Fortaleza"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "ao Forte Schoonenborch, resultante do domínio holandês sobre a região."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Do ponto de vista histórico, o nome da cidade de Fortaleza faz referência:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-conhecimentos-sobre-fortaleza-conhecimentos-sobre-fortaleza-concurso-publico-2023-038/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

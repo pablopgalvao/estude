@@ -2,6 +2,17 @@
   "total": 10,
   "items": [
     {
+      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-011",
+      "title": "Sabe-se que 50% das questões de uma determinada prova de vestibular são referentes ao conteúdo de português, 25% são de",
+      "materia": "Matemática e Raciocínio Lógico",
+      "submateria": "Matemática e Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
       "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-012",
       "title": "A média aritmética simples das idades dos 10 alunos de uma turma é 25 anos. Se excluirmos o mais velho",
       "materia": "Matemática e Raciocínio Lógico",
@@ -10,7 +21,7 @@
       "tags": [],
       "bancaExaminadora": "AVANÇA SP",
       "prova": "concurso público 02/2024",
-      "questao": ""
+      "question": ""
     },
     {
       "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-013",
@@ -21,73 +32,7 @@
       "tags": [],
       "bancaExaminadora": "AVANÇA SP",
       "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-016",
-      "title": "Cada um dos cientistas Alberto, Breno, Carlos e Damásio, visitou um estado diferente da região Norte do país. Eles visitaram",
-      "materia": "Matemática e Raciocínio Lógico",
-      "submateria": "Matemática e Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-014",
-      "title": "Uma máquina perfuratriz é utilizada para fazer um furo no solo para que geólogos possam estudar sua composição. Suponha que",
-      "materia": "Matemática e Raciocínio Lógico",
-      "submateria": "Matemática e Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-015",
-      "title": "Um determinado retângulo tem razão entre seus lados de 7/2, e seu perímetro é 27 cm. Indique a sua área,",
-      "materia": "Matemática e Raciocínio Lógico",
-      "submateria": "Matemática e Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-011",
-      "title": "Sabe-se que 50% das questões de uma determinada prova de vestibular são referentes ao conteúdo de português, 25% são de",
-      "materia": "Matemática e Raciocínio Lógico",
-      "submateria": "Matemática e Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-020",
-      "title": "Pentágono, Heptágono e Eneágono são polígonos regulares que têm o número de lados respectivamente igual a:",
-      "materia": "Matemática e Raciocínio Lógico",
-      "submateria": "Matemática e Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-018",
-      "title": "Observe a seguinte sequência figural: De acordo com as correspondências abaixo, indique o elemento que deve ocupar o lugar da",
-      "materia": "Matemática e Raciocínio Lógico",
-      "submateria": "Matemática e Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
+      "question": ""
     },
     {
       "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-017",
@@ -98,7 +43,62 @@
       "tags": [],
       "bancaExaminadora": "AVANÇA SP",
       "prova": "concurso público 02/2024",
-      "questao": ""
+      "question": ""
+    },
+    {
+      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-014",
+      "title": "Uma máquina perfuratriz é utilizada para fazer um furo no solo para que geólogos possam estudar sua composição. Suponha que",
+      "materia": "Matemática e Raciocínio Lógico",
+      "submateria": "Matemática e Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
+      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-016",
+      "title": "Cada um dos cientistas Alberto, Breno, Carlos e Damásio, visitou um estado diferente da região Norte do país. Eles visitaram",
+      "materia": "Matemática e Raciocínio Lógico",
+      "submateria": "Matemática e Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
+      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-020",
+      "title": "Pentágono, Heptágono e Eneágono são polígonos regulares que têm o número de lados respectivamente igual a:",
+      "materia": "Matemática e Raciocínio Lógico",
+      "submateria": "Matemática e Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
+      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-018",
+      "title": "Observe a seguinte sequência figural: De acordo com as correspondências abaixo, indique o elemento que deve ocupar o lugar da",
+      "materia": "Matemática e Raciocínio Lógico",
+      "submateria": "Matemática e Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
+      "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-015",
+      "title": "Um determinado retângulo tem razão entre seus lados de 7/2, e seu perímetro é 27 cm. Indique a sua área,",
+      "materia": "Matemática e Raciocínio Lógico",
+      "submateria": "Matemática e Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
     },
     {
       "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-019",
@@ -109,7 +109,7 @@
       "tags": [],
       "bancaExaminadora": "AVANÇA SP",
       "prova": "concurso público 02/2024",
-      "questao": ""
+      "question": ""
     }
   ]
 }

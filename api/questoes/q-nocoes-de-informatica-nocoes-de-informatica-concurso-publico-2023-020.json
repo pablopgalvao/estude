@@ -3,6 +3,7 @@
   "title": "No que diz respeito ao hardware dos computadores, existe um dispositivo de saída de dados que representa uma categoria de",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Noções de Informática",
   "submateria": "Noções de Informática",
@@ -11,7 +12,7 @@
     "Noções de Informática"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -30,6 +31,7 @@
       "texto": "plotter"
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "IDECAN",
   "prova": "concurso público 2023",
@@ -37,5 +39,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No que diz respeito ao hardware dos computadores, existe um dispositivo de saída de dados que representa uma categoria de periférico que oferece a forma mais rápida de impressão em grande formato, para produzir com eficiência desenhos muito grandes ou ilustrações coloridas baseadas em vetor de alta resolução. Esta impressora de grande formato também é adequada para produzir cortes de alta precisão numa ampla variedade de tamanhos, possibilitando a impressão de pôsteres, planos, anúncios, embalagens, fotos, brindes personalizados, merchandising e muito mais. Esse dispositivo é conhecido por:</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-020/",
-  "fontePdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf"
+  "fonte_pdf": "https://www.pciconcursos.com.br/provas/33025005/e211f04d6a90/gabarito_definitivo.pdf",
+  "fonte_gabarito": ""
 }

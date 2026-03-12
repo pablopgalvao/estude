@@ -3,6 +3,7 @@
   "title": "Nos termos da Lei complementar no 334 de 27 de de- zembro de 2017 (Dispõe sobre a reorganização do quadro",
   "images": [],
   "date": "2026-03-12",
+  "year": "2026",
   "dificuldade": "media",
   "materia": "Conhecimentos Específicos",
   "submateria": "Conhecimentos Específicos",
@@ -11,7 +12,7 @@
     "Conhecimentos Específicos"
   ],
   "tags": [],
-  "questao": "",
+  "question": "",
   "alternativas": [
     {
       "id": "A",
@@ -94,6 +95,7 @@
       "texto": "O ingresso na Carreira dar-se-á mediante concur- so público para o cargo de Guarda Civil Municipal a Classe sob regime estatutário."
     }
   ],
+  "text": "",
   "gabarito": "",
   "bancaExaminadora": "VUNESP",
   "prova": "concurso público 2022",
@@ -101,5 +103,6 @@
   "comentarios": [],
   "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Nos termos da Lei complementar no 334 de 27 de de- zembro de 2017 (Dispõe sobre a reorganização do quadro da Guarda Civil Municipal de Osasco, altera o Plano de Carreira, cria novas escalas de vencimento e dá outras providências), é correto afirmar que o horário de trabalho do Guarda Civil Municipal será fixado pelo Comandante Geral, de acordo com a natureza e neces- sidade do serviço, e</p>\n",
   "url": "https://pablopgalvao.github.io/2026/03/12/questoes/vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova/q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-048/",
-  "fontePdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf"
+  "fonte_pdf": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova.pdf",
+  "fonte_gabarito": ""
 }
