@@ -8,12 +8,12 @@
     "nome": "Noções de Informática"
   },
   {
-    "id": "nocoes-de-direito",
-    "nome": "Noções de Direito"
-  },
-  {
     "id": "conhecimentos-gerais",
     "nome": "Conhecimentos Gerais"
+  },
+  {
+    "id": "nocoes-de-direito",
+    "nome": "Noções de Direito"
   },
   {
     "id": "legislacao-especial",
@@ -28,16 +28,16 @@
     "nome": "Conhecimentos Específicos"
   },
   {
+    "id": "matematica-e-raciocinio-logico",
+    "nome": "Matemática e Raciocínio Lógico"
+  },
+  {
     "id": "raciocinio-logico-quantitativo",
     "nome": "Raciocínio Lógico Quantitativo"
   },
   {
     "id": "realidades-municipais",
     "nome": "Realidades Municipais"
-  },
-  {
-    "id": "matematica-e-raciocinio-logico",
-    "nome": "Matemática e Raciocínio Lógico"
   },
   {
     "id": "atualidades",

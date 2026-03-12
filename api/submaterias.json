@@ -10,14 +10,14 @@
     "materiaId": "nocoes-de-informatica"
   },
   {
-    "id": "nocoes-de-direito",
-    "nome": "Noções de Direito",
-    "materiaId": "nocoes-de-direito"
-  },
-  {
     "id": "conhecimentos-gerais",
     "nome": "Conhecimentos Gerais",
     "materiaId": "conhecimentos-gerais"
+  },
+  {
+    "id": "nocoes-de-direito",
+    "nome": "Noções de Direito",
+    "materiaId": "nocoes-de-direito"
   },
   {
     "id": "legislacao-especial",
@@ -35,6 +35,11 @@
     "materiaId": "conhecimentos-especificos"
   },
   {
+    "id": "matematica-e-raciocinio-logico",
+    "nome": "Matemática e Raciocínio Lógico",
+    "materiaId": "matematica-e-raciocinio-logico"
+  },
+  {
     "id": "raciocinio-logico-quantitativo",
     "nome": "Raciocínio Lógico Quantitativo",
     "materiaId": "raciocinio-logico-quantitativo"
@@ -43,11 +48,6 @@
     "id": "realidades-municipais",
     "nome": "Realidades Municipais",
     "materiaId": "realidades-municipais"
-  },
-  {
-    "id": "matematica-e-raciocinio-logico",
-    "nome": "Matemática e Raciocínio Lógico",
-    "materiaId": "matematica-e-raciocinio-logico"
   },
   {
     "id": "atualidades",

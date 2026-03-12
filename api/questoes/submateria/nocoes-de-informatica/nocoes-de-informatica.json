@@ -2,30 +2,8 @@
   "total": 29,
   "items": [
     {
-      "id": "agente-de-policia-civil-da-3classe-q011",
-      "title": "Marque a alternativa CORRETA em relação às afirmativas abaixo, que tratam dos componentes de um computador. I – Os dispo",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "NUCEPE",
-      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
-      "question": ""
-    },
-    {
-      "id": "agente-de-policia-civil-da-3classe-q019",
-      "title": "Participaram das Olimpíadas Estudantis de 2017, com duração de 2 semanas, cinco estudantes: Maria, Elisa, Paula, Aline V",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "NUCEPE",
-      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
-      "question": ""
-    },
-    {
-      "id": "agente-de-policia-civil-da-3classe-q023",
-      "title": "Uma empresa sorteia entre seus vários funcionários 7 viagens, com translado hospedagem. Para facilitar, o sorteio realiz",
+      "id": "agente-de-policia-civil-da-3classe-q014",
+      "title": "Com base no editor de texto Microsoft Word 2013, marque a alternativa CORRETA em relação às afirmativas abaixo. I – Os c",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -46,8 +24,41 @@
       "question": ""
     },
     {
+      "id": "agente-de-policia-civil-da-3classe-q023",
+      "title": "Uma empresa sorteia entre seus vários funcionários 7 viagens, com translado hospedagem. Para facilitar, o sorteio realiz",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "question": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q011",
+      "title": "Marque a alternativa CORRETA em relação às afirmativas abaixo, que tratam dos componentes de um computador. I – Os dispo",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "question": ""
+    },
+    {
       "id": "agente-de-policia-civil-da-3classe-q020",
       "title": "Considerando um sistema composto de planetas F, G e H (podendo haver mais de um planeta F, G e H), a negação da frase: P",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "question": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q019",
+      "title": "Participaram das Olimpíadas Estudantis de 2017, com duração de 2 semanas, cinco estudantes: Maria, Elisa, Paula, Aline V",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -68,19 +79,63 @@
       "question": ""
     },
     {
-      "id": "agente-de-policia-civil-da-3classe-q014",
-      "title": "Com base no editor de texto Microsoft Word 2013, marque a alternativa CORRETA em relação às afirmativas abaixo. I – Os c",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-021",
+      "title": "Ao digitar uma redação no Microsoft Word 2016 e clicar na tecla de atalho Ctrl+E, o resultado será:",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "NUCEPE",
-      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
       "question": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-031",
-      "title": "Cleiton acessou o menu iniciar após a instalação padrão do Windows 7 e clicou duas vezes seguidas com o botão",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-024",
+      "title": "No Microsoft Excel 2016, a opção para inserir gráficos está acessível na guia:",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-022",
+      "title": "No Microsoft Excel 2016 a Função SE é uma das funções mais populares do Excel e permite que o usuário:",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-025",
+      "title": "Utilizando o Microsoft Excel 2016 e acionando as teclas de atalho Ctrl+W o resultado será:",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-023",
+      "title": "Para localizar conteúdo em uma tabela ou um intervalo por linha utilizando o Microsoft Excel 2016, o responsável pela extração",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "question": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-032",
+      "title": "Karina está utilizando o Windows 7 e deseja renomear um arquivo existente em uma pasta no seu computador. Neste caso,",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -90,8 +145,8 @@
       "question": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-032",
-      "title": "Karina está utilizando o Windows 7 e deseja renomear um arquivo existente em uma pasta no seu computador. Neste caso,",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-031",
+      "title": "Cleiton acessou o menu iniciar após a instalação padrão do Windows 7 e clicou duas vezes seguidas com o botão",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -134,8 +189,8 @@
       "question": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-037",
-      "title": "Jonatas está trabalhando em uma tabela no MS Excel 2010 que resume os tempos, em minutos, que carros ficaram estacionados",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-036",
+      "title": "Samanta recebeu de seu colega da Guarda Metropolitana de São Paulo um arquivo do Excel denominado multas, para ser trabalhado",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -145,8 +200,19 @@
       "question": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-036",
-      "title": "Samanta recebeu de seu colega da Guarda Metropolitana de São Paulo um arquivo do Excel denominado multas, para ser trabalhado",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-038",
+      "title": "Suponha que Gabriel tenha elaborado uma apresentação no MS PowerPoint 2010 e queira mostrar todos os seus slides em uma",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "question": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-037",
+      "title": "Jonatas está trabalhando em uma tabela no MS Excel 2010 que resume os tempos, em minutos, que carros ficaram estacionados",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -178,74 +244,30 @@
       "question": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-038",
-      "title": "Suponha que Gabriel tenha elaborado uma apresentação no MS PowerPoint 2010 e queira mostrar todos os seus slides em uma",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "question": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-023",
-      "title": "Para localizar conteúdo em uma tabela ou um intervalo por linha utilizando o Microsoft Excel 2016, o responsável pela extração",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "question": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-024",
-      "title": "No Microsoft Excel 2016, a opção para inserir gráficos está acessível na guia:",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "question": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-021",
-      "title": "Ao digitar uma redação no Microsoft Word 2016 e clicar na tecla de atalho Ctrl+E, o resultado será:",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "question": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-025",
-      "title": "Utilizando o Microsoft Excel 2016 e acionando as teclas de atalho Ctrl+W o resultado será:",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "question": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-022",
-      "title": "No Microsoft Excel 2016 a Função SE é uma das funções mais populares do Excel e permite que o usuário:",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "question": ""
-    },
-    {
       "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-020",
       "title": "No que diz respeito ao hardware dos computadores, existe um dispositivo de saída de dados que representa uma categoria de",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "question": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-023",
+      "title": "A planilha da figura abaixo foi criada no software Calc da suíte LibreOffice 7.3.22 (x64) em português, tendo sido realizados",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "question": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-022",
+      "title": "No que se refere aos sistemas operacionais Windows e Linux, dois componentes são caraterizados a seguir. I. Há um programa",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -277,30 +299,8 @@
       "question": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-023",
-      "title": "A planilha da figura abaixo foi criada no software Calc da suíte LibreOffice 7.3.22 (x64) em português, tendo sido realizados",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "question": ""
-    },
-    {
       "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-024",
       "title": "Google Meet é um aplicativo desenvolvido pelo Google com foco na realização das videoconferências, possibilitando a realização de reuniões a",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "question": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-022",
-      "title": "No que se refere aos sistemas operacionais Windows e Linux, dois componentes são caraterizados a seguir. I. Há um programa",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",

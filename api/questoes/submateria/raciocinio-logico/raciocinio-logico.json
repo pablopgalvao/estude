@@ -2,8 +2,8 @@
   "total": 9,
   "items": [
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-012",
-      "title": "Na tabela a seguir são apresentados os dias da semana em que cada uma das turmas de determinado curso tem",
+      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-014",
+      "title": "Em uma escola de ensino fundamental, a professora questionou cinco crianças sobre o sumiço do livro de um dos colegas.",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -13,8 +13,8 @@
       "question": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-013",
-      "title": "Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes, sentaram-se em torno de uma mesa quadrangular, ocupando, cada",
+      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-012",
+      "title": "Na tabela a seguir são apresentados os dias da semana em que cada uma das turmas de determinado curso tem",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -46,8 +46,8 @@
       "question": ""
     },
     {
-      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-014",
-      "title": "Em uma escola de ensino fundamental, a professora questionou cinco crianças sobre o sumiço do livro de um dos colegas.",
+      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-017",
+      "title": "Em uma determinada cidade, foi realizada uma pesquisa com os moradores sobre seus hábitos de consumo em relação a produtos",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -59,17 +59,6 @@
     {
       "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-018",
       "title": "Bruno desenha em seu caderno três figuras geométricas sobrepostas: um retângulo que ele chamou de A, um triângulo que ele",
-      "materia": "Raciocínio Lógico",
-      "submateria": "Raciocínio Lógico",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "question": ""
-    },
-    {
-      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-017",
-      "title": "Em uma determinada cidade, foi realizada uma pesquisa com os moradores sobre seus hábitos de consumo em relação a produtos",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
@@ -92,6 +81,17 @@
     {
       "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-019",
       "title": "Determinada empresa pretende construir casas em um terreno com área total de 5.700 m². Para isso, ela irá dividir o",
+      "materia": "Raciocínio Lógico",
+      "submateria": "Raciocínio Lógico",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "question": ""
+    },
+    {
+      "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-013",
+      "title": "Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes, sentaram-se em torno de uma mesa quadrangular, ocupando, cada",
       "materia": "Raciocínio Lógico",
       "submateria": "Raciocínio Lógico",
       "dificuldade": "media",
