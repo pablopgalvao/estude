@@ -1,0 +1,45 @@
+{
+  "id": "guarda-civil-metropolitano-3-classe-q014",
+  "title": "Notação científica é uma maneira de escrever números muito grandes ou pequenos. Um número está escrito em notação cientí",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Língua Portuguesa",
+  "submateria": "Língua Portuguesa",
+  "categorias": [
+    "Língua Portuguesa",
+    "Língua Portuguesa"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "6.10-8"
+    },
+    {
+      "id": "B",
+      "texto": "3.108"
+    },
+    {
+      "id": "C",
+      "texto": "6.1010"
+    },
+    {
+      "id": "D",
+      "texto": "6.10-10"
+    },
+    {
+      "id": "E",
+      "texto": "6.108"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IBADE",
+  "prova": "Guarda Civil Metropolitano - 3ª Classe 2022",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Notação científica é uma maneira de escrever números muito grandes ou pequenos. Um número está escrito em notação científica quando temos um número entre 1 e 10 multiplicado por uma potência de 10. Por exemplo: número 67.200.000 pode ser escrito na notação científica como 6,72.10^7 e o número 0,0023 pode ser escrito como 2,3.10^-3. Considere a seguinte equação: (cid:11),(cid:11)(cid:11)(cid:11)(cid:11)(cid:13)(cid:14)× (cid:16)(cid:17)(cid:11)(cid:11)(cid:11)(cid:11)(cid:11) (cid:11),(cid:11)(cid:11)(cid:11)(cid:18)(cid:13)×(cid:11),(cid:11)(cid:11)(cid:19)(cid:13) O resultado da equação acima em notação científica é:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda_civil_metropolitano_3_classe/guarda-civil-metropolitano-3-classe-q014/",
+  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q011",
+  "title": "Marque a alternativa CORRETA em relação às afirmativas abaixo, que tratam dos componentes de um computador. I – Os dispo",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Somente a afirmativa I está correta."
+    },
+    {
+      "id": "B",
+      "texto": "Todas as afirmativas estão corretas."
+    },
+    {
+      "id": "C",
+      "texto": "Somente a afirmativa III está correta."
+    },
+    {
+      "id": "D",
+      "texto": "Somente as afirmativas I e II estão corretas."
+    },
+    {
+      "id": "E",
+      "texto": "Somente as afirmativas I e III estão corretas. Marque a alternativa CORRETA em relação às afirmativas abaixo, que tratam do Microsoft Windows 7, em sua configuração padrão de instalação. I - A combinação de teclas Alt e Shift (Alt+Shift) possibilita alternar entre as janelas dos programas ou arquivos que estão abertos no momento. II - Para desinstalar corretamente um software do computador, é recomendado excluir as suas pastas e arquivos diretamente no Windows Explorer. III - O item Sistema do Painel de Controle exibe um resumo de informações básicas sobre o computador, tais como informações do processador, memória RAM, nome do computador e edição do Windows."
+    },
+    {
+      "id": "A",
+      "texto": "Somente a afirmativa I está correta."
+    },
+    {
+      "id": "B",
+      "texto": "Somente a afirmativa II está correta."
+    },
+    {
+      "id": "C",
+      "texto": "Somente as afirmativas II e III estão corretas."
+    },
+    {
+      "id": "D",
+      "texto": "Todas as afirmativas estão corretas."
+    },
+    {
+      "id": "E",
+      "texto": "Somente a afirmativa III está correta. Considerando o cabeçalho da mensagem de correio eletrônico a seguir, marque a única alternativa CORRETA. Para: Pedro <pedro@email.com.br> Cc: Maria <maria@email.com.br> Cco: Antônia <antonia@email.com.br>, José <jose@email.com.br> De: João <joao@email.com.br>"
+    },
+    {
+      "id": "A",
+      "texto": "O destinatário do e-mail pedro@email.com.br não poderá visualizar o e-mail do destinatário maria@email.com.br."
+    },
+    {
+      "id": "B",
+      "texto": "Cada destinatário saberá para quem a mensagem foi enviada. POLÍCIA CIVIL DE 3ª CLASSE – PROVA TIPO “A”"
+    },
+    {
+      "id": "C",
+      "texto": "Todos os destinatários informados no cabeçalho do e-mail pelo remetente receberão a mensagem."
+    },
+    {
+      "id": "D",
+      "texto": "O destinatário do e-mail antonia@email.com.br poderá visualizar e-mail do destinatário jose@email.com.br."
+    },
+    {
+      "id": "E",
+      "texto": "O destinatário do e-mail pedro@email.com.br poderá visualizar o e- mail dos destinatários antonia@email.com.br jose@email.com.br."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Marque a alternativa CORRETA em relação às afirmativas abaixo, que tratam dos componentes de um computador. I – Os dispositivos de entrada e saída permitem a comunicação do usuário com computador. Os teclados e monitores são exemplos, respectivamente, de dispositivos de entrada e dispositivos de saída. II – O processador é o componente do computador utilizado para interpretar executar uma operação definida por uma instrução de máquina. CONCURSO PÚBLICO – POLÍCIA CIVIL 2018 – AGENTE III – As portas USB (Universal Serial Bus) do computador são utilizadas para a conexão de HDs externos, pendrives, mouses, teclados, impressoras e outros dispositivos periféricos compatíveis com o padrão USB.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q011/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}

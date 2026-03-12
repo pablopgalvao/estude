@@ -1,42 +1,86 @@
 {
-  "total": 22,
+  "total": 29,
   "items": [
+    {
+      "id": "agente-de-policia-civil-da-3classe-q011",
+      "title": "Marque a alternativa CORRETA em relação às afirmativas abaixo, que tratam dos componentes de um computador. I – Os dispo",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "questao": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q014",
+      "title": "Com base no editor de texto Microsoft Word 2013, marque a alternativa CORRETA em relação às afirmativas abaixo. I – Os c",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "questao": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q020",
+      "title": "Considerando um sistema composto de planetas F, G e H (podendo haver mais de um planeta F, G e H), a negação da frase: P",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "questao": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q019",
+      "title": "Participaram das Olimpíadas Estudantis de 2017, com duração de 2 semanas, cinco estudantes: Maria, Elisa, Paula, Aline V",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "questao": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q023",
+      "title": "Uma empresa sorteia entre seus vários funcionários 7 viagens, com translado hospedagem. Para facilitar, o sorteio realiz",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "questao": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q024",
+      "title": "João, Felipe, Ana, Carla e Eduardo são cinco amigos que moram com seus avós viúvos: Antônio, Juvenal, Lucas, José e Mari",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "questao": ""
+    },
+    {
+      "id": "agente-de-policia-civil-da-3classe-q015",
+      "title": "Com base na planilha eletrônica Microsoft Excel 2013, marque a alternativa CORRETA em relação às afirmativas abaixo. I –",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "NUCEPE",
+      "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+      "questao": ""
+    },
     {
       "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-031",
       "title": "Cleiton acessou o menu iniciar após a instalação padrão do Windows 7 e clicou duas vezes seguidas com o botão",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-033",
-      "title": "João é um agente da guarda metropolitana de São Paulo e encontra-se trabalhando fora da rede local com seu notebook",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-036",
-      "title": "Samanta recebeu de seu colega da Guarda Metropolitana de São Paulo um arquivo do Excel denominado multas, para ser trabalhado",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-034",
-      "title": "Breno é um agente da guarda metropolitana de São Paulo e está trabalhando com um texto no Microsoft Word 2010",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -57,19 +101,8 @@
       "questao": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-035",
-      "title": "Dilma está trabalhando em um relatório da Guarda Metropolitana de São Paulo e utilizou os cabeçalhos e rodapés. Em determinado",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-039",
-      "title": "Bárbara está preparando uma apresentação no MS PowerPoint 2010 para sua equipe e deparou com informações que gostaria de inserir",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-033",
+      "title": "João é um agente da guarda metropolitana de São Paulo e encontra-se trabalhando fora da rede local com seu notebook",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -90,8 +123,19 @@
       "questao": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-040",
-      "title": "Bernardo precisa enviar um arquivo do Word por meio do correio eletrônico para que as pessoas pertencentes a um grupo,",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-035",
+      "title": "Dilma está trabalhando em um relatório da Guarda Metropolitana de São Paulo e utilizou os cabeçalhos e rodapés. Em determinado",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-034",
+      "title": "Breno é um agente da guarda metropolitana de São Paulo e está trabalhando com um texto no Microsoft Word 2010",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -112,8 +156,52 @@
       "questao": ""
     },
     {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-040",
+      "title": "Bernardo precisa enviar um arquivo do Word por meio do correio eletrônico para que as pessoas pertencentes a um grupo,",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-036",
+      "title": "Samanta recebeu de seu colega da Guarda Metropolitana de São Paulo um arquivo do Excel denominado multas, para ser trabalhado",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-039",
+      "title": "Bárbara está preparando uma apresentação no MS PowerPoint 2010 para sua equipe e deparou com informações que gostaria de inserir",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
       "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-021",
       "title": "Ao digitar uma redação no Microsoft Word 2016 e clicar na tecla de atalho Ctrl+E, o resultado será:",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "questao": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-023",
+      "title": "Para localizar conteúdo em uma tabela ou um intervalo por linha utilizando o Microsoft Excel 2016, o responsável pela extração",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -134,17 +222,6 @@
       "questao": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-025",
-      "title": "Utilizando o Microsoft Excel 2016 e acionando as teclas de atalho Ctrl+W o resultado será:",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
       "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-024",
       "title": "No Microsoft Excel 2016, a opção para inserir gráficos está acessível na guia:",
       "materia": "Noções de Informática",
@@ -156,14 +233,25 @@
       "questao": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-023",
-      "title": "Para localizar conteúdo em uma tabela ou um intervalo por linha utilizando o Microsoft Excel 2016, o responsável pela extração",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-02-2024-025",
+      "title": "Utilizando o Microsoft Excel 2016 e acionando as teclas de atalho Ctrl+W o resultado será:",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
       "tags": [],
       "bancaExaminadora": "AVANÇA SP",
       "prova": "concurso público 02/2024",
+      "questao": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-020",
+      "title": "No que diz respeito ao hardware dos computadores, existe um dispositivo de saída de dados que representa uma categoria de",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
       "questao": ""
     },
     {
@@ -189,8 +277,19 @@
       "questao": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-020",
-      "title": "No que diz respeito ao hardware dos computadores, existe um dispositivo de saída de dados que representa uma categoria de",
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-024",
+      "title": "Google Meet é um aplicativo desenvolvido pelo Google com foco na realização das videoconferências, possibilitando a realização de reuniões a",
+      "materia": "Noções de Informática",
+      "submateria": "Noções de Informática",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-026",
+      "title": "Segurança da informação é a proteção de dados de propriedade das organizações contra perigos e ameaças diversas, envolvendo ações que",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",
@@ -211,30 +310,8 @@
       "questao": ""
     },
     {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-024",
-      "title": "Google Meet é um aplicativo desenvolvido pelo Google com foco na realização das videoconferências, possibilitando a realização de reuniões a",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "questao": ""
-    },
-    {
       "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-025",
       "title": "Ao usar os recursos de um browser como o Google Chrome ou o Firefox Mozilla, em ambos é possível realizar",
-      "materia": "Noções de Informática",
-      "submateria": "Noções de Informática",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-026",
-      "title": "Segurança da informação é a proteção de dados de propriedade das organizações contra perigos e ameaças diversas, envolvendo ações que",
       "materia": "Noções de Informática",
       "submateria": "Noções de Informática",
       "dificuldade": "media",

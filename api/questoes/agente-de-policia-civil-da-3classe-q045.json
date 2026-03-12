@@ -1,0 +1,45 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q045",
+  "title": "No que diz respeito à Ação Penal, marque alternativa CORRETA.",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Direito",
+  "submateria": "Noções de Direito",
+  "categorias": [
+    "Noções de Direito",
+    "Noções de Direito"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "As Ações Penais Públicas Condicionadas, dependem do ofendido, nos casos de representação e do Ministro da Justiça, nos casos de requisição."
+    },
+    {
+      "id": "B",
+      "texto": "A Ação Penal Pública poderá ser proposta pelo Ministério Público, por advogado público ou particular."
+    },
+    {
+      "id": "C",
+      "texto": "Apenas a Ação Penal Pública Incondicionada poderá ser proposta pelo Ministério Público."
+    },
+    {
+      "id": "D",
+      "texto": "A ação de iniciativa privada se diferencia da ação pública, no que tange ao direito de agir, uma vez que, o direito de ação e própria ação passam a ser de natureza privada."
+    },
+    {
+      "id": "E",
+      "texto": "A titularidade da ação privada personalíssima é exclusiva ao ofendido e ao seu representante legal."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No que diz respeito à Ação Penal, marque alternativa CORRETA.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q045/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}

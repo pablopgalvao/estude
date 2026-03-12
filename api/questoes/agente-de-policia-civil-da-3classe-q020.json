@@ -1,0 +1,85 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q020",
+  "title": "Considerando um sistema composto de planetas F, G e H (podendo haver mais de um planeta F, G e H), a negação da frase: P",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Para qualquer planeta F, tem-se que F menor que G. Qualquer planeta H habitável ou todos os planetas H são maiores que os planetas F. CONCURSO PÚBLICO – POLÍCIA CIVIL 2018 – AGENTE"
+    },
+    {
+      "id": "B",
+      "texto": "Existe pelo menos um planeta F, tal que F é maior que G. Algum planeta H não é habitável e todo planeta H é menor que os planetas F."
+    },
+    {
+      "id": "C",
+      "texto": "Existem planetas F, com F maior que G. Todos os planetas H são habitáveis e todos os planetas H são maiores que os planetas F."
+    },
+    {
+      "id": "D",
+      "texto": "Para qualquer planeta F, temos que F é menor que G. Todos os planetas H são habitáveis e não existem planetas H maiores que os planetas F."
+    },
+    {
+      "id": "E",
+      "texto": "Existe pelo menos um planeta F, tal que F não é maior que G. Existe um planeta H que é habitável e nenhum planeta H é maior que os planetas F. Considerando as proposições simples p: Maria não come carne; q: Faz frio; r: Todo astronauta canta; afirmamos: Maria não come carne e não faz frio ou Maria come carne e faz frio ou existe astronauta que não canta e não faz frio. É CORRETO simbolizar a proposição composta acima por:"
+    },
+    {
+      "id": "A",
+      "texto": "."
+    },
+    {
+      "id": "B",
+      "texto": "."
+    },
+    {
+      "id": "C",
+      "texto": "."
+    },
+    {
+      "id": "D",
+      "texto": "."
+    },
+    {
+      "id": "E",
+      "texto": ". Considere que: I - Existem empresários professores; II - Todos os ricos são empresários; III - Todos os matemáticos são somente professores; IV - Existem engenheiros que são professores. Com base nas premissas acima, é CORRETO afirmar com toda certeza que:"
+    },
+    {
+      "id": "A",
+      "texto": "Nenhum matemático é rico ou engenheiro."
+    },
+    {
+      "id": "B",
+      "texto": "Existem matemáticos que são engenheiros ou empresários."
+    },
+    {
+      "id": "C",
+      "texto": "Existem engenheiros matemáticos ou ricos."
+    },
+    {
+      "id": "D",
+      "texto": "Existem engenheiros matemáticos e empresários."
+    },
+    {
+      "id": "E",
+      "texto": "Nenhum engenheiro é empresário e professor. POLÍCIA CIVIL DE 3ª CLASSE – PROVA TIPO “A”"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Considerando um sistema composto de planetas F, G e H (podendo haver mais de um planeta F, G e H), a negação da frase: Para todo planeta F, tem-se que F é maior que G. Todos os planetas H não são habitáveis ou existe pelo menos um planeta H maior que os planetas F; é dada por:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q020/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}

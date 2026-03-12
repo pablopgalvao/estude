@@ -1,0 +1,45 @@
+{
+  "id": "guarda-civil-metropolitano-q004",
+  "title": "Identifique o aposto na frase: Luiza, estudante de letras, vai viajar para Bélgica.",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Língua Portuguesa",
+  "submateria": "Língua Portuguesa",
+  "categorias": [
+    "Língua Portuguesa",
+    "Língua Portuguesa"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Luiza."
+    },
+    {
+      "id": "B",
+      "texto": "Estudante de letras."
+    },
+    {
+      "id": "C",
+      "texto": "Vai."
+    },
+    {
+      "id": "D",
+      "texto": "Viajar."
+    },
+    {
+      "id": "E",
+      "texto": "Bélgica."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "FACET",
+  "prova": "Prefeitura Municipal de Mamanguape PB - Guarda Civil Metropolitano 2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Identifique o aposto na frase: Luiza, estudante de letras, vai viajar para Bélgica.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda_civil_metropolitano/guarda-civil-metropolitano-q004/",
+  "fontePdf": "guarda_civil_metropolitano.pdf"
+}

@@ -1,10 +1,5 @@
 [
   {
-    "id": "conhecimentos-especificos",
-    "nome": "Conhecimentos Específicos",
-    "materiaId": "conhecimentos-especificos"
-  },
-  {
     "id": "lingua-portuguesa",
     "nome": "Língua Portuguesa",
     "materiaId": "lingua-portuguesa"
@@ -13,6 +8,31 @@
     "id": "nocoes-de-informatica",
     "nome": "Noções de Informática",
     "materiaId": "nocoes-de-informatica"
+  },
+  {
+    "id": "conhecimentos-gerais",
+    "nome": "Conhecimentos Gerais",
+    "materiaId": "conhecimentos-gerais"
+  },
+  {
+    "id": "nocoes-de-direito",
+    "nome": "Noções de Direito",
+    "materiaId": "nocoes-de-direito"
+  },
+  {
+    "id": "legislacao-especial",
+    "nome": "Legislação Especial",
+    "materiaId": "legislacao-especial"
+  },
+  {
+    "id": "legislacao-estadual",
+    "nome": "Legislação Estadual",
+    "materiaId": "legislacao-estadual"
+  },
+  {
+    "id": "conhecimentos-especificos",
+    "nome": "Conhecimentos Específicos",
+    "materiaId": "conhecimentos-especificos"
   },
   {
     "id": "raciocinio-logico-quantitativo",
@@ -28,16 +48,6 @@
     "id": "matematica-e-raciocinio-logico",
     "nome": "Matemática e Raciocínio Lógico",
     "materiaId": "matematica-e-raciocinio-logico"
-  },
-  {
-    "id": "informatica",
-    "nome": "Informática",
-    "materiaId": "informatica"
-  },
-  {
-    "id": "matematica",
-    "nome": "Matemática",
-    "materiaId": "matematica"
   },
   {
     "id": "atualidades",
@@ -58,5 +68,15 @@
     "id": "raciocinio-logico",
     "nome": "Raciocínio Lógico",
     "materiaId": "raciocinio-logico"
+  },
+  {
+    "id": "informatica",
+    "nome": "Informática",
+    "materiaId": "informatica"
+  },
+  {
+    "id": "matematica",
+    "nome": "Matemática",
+    "materiaId": "matematica"
   }
 ]

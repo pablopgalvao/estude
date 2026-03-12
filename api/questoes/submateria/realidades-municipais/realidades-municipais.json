@@ -2,41 +2,19 @@
   "total": 10,
   "items": [
     {
-      "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-021",
-      "title": "Considerando a hidrografia da cidade de São Paulo, são rios que cortam a cidade:",
-      "materia": "Realidades Municipais",
-      "submateria": "Realidades Municipais",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
-      "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-024",
-      "title": "Considere o texto abaixo: “Dia de verão em São Paulo. Na Avenida Paulista, cartão- postal da cidade, os termômetros indicam",
-      "materia": "Realidades Municipais",
-      "submateria": "Realidades Municipais",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
-      "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-023",
-      "title": "Durante o inverno paulistano, o clima apresenta a seguinte característica:",
-      "materia": "Realidades Municipais",
-      "submateria": "Realidades Municipais",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
       "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-022",
       "title": "Os meses com maior índice pluviométrico, isto é, em que chove mais, na cidade de São Paulo, são:",
+      "materia": "Realidades Municipais",
+      "submateria": "Realidades Municipais",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-021",
+      "title": "Considerando a hidrografia da cidade de São Paulo, são rios que cortam a cidade:",
       "materia": "Realidades Municipais",
       "submateria": "Realidades Municipais",
       "dificuldade": "media",
@@ -57,8 +35,8 @@
       "questao": ""
     },
     {
-      "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-027",
-      "title": "No seu fluxo de expansão urbana, a cidade de São Paulo passou a oferecer diversas atrações culturais, que se converteram",
+      "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-023",
+      "title": "Durante o inverno paulistano, o clima apresenta a seguinte característica:",
       "materia": "Realidades Municipais",
       "submateria": "Realidades Municipais",
       "dificuldade": "media",
@@ -70,6 +48,28 @@
     {
       "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-026",
       "title": "A transformação da cidade de São Paulo em importante centro industrial e urbano deu-se progressivamente, a partir do início do",
+      "materia": "Realidades Municipais",
+      "submateria": "Realidades Municipais",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-027",
+      "title": "No seu fluxo de expansão urbana, a cidade de São Paulo passou a oferecer diversas atrações culturais, que se converteram",
+      "materia": "Realidades Municipais",
+      "submateria": "Realidades Municipais",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-realidades-municipais-realidades-municipais-concurso-publico-guarda-civil-metropolitano-3a-classe-024",
+      "title": "Considere o texto abaixo: “Dia de verão em São Paulo. Na Avenida Paulista, cartão- postal da cidade, os termômetros indicam",
       "materia": "Realidades Municipais",
       "submateria": "Realidades Municipais",
       "dificuldade": "media",

@@ -1,0 +1,45 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q040",
+  "title": "São considerados crimes contra a pessoa, EXCETO:",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Direito",
+  "submateria": "Noções de Direito",
+  "categorias": [
+    "Noções de Direito",
+    "Noções de Direito"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Induzir ou instigar alguém a suicidar-se ou prestar-lhe auxílio para que o faça."
+    },
+    {
+      "id": "B",
+      "texto": "Matar alguém."
+    },
+    {
+      "id": "C",
+      "texto": "Constranger alguém, mediante violência ou grave ameaça, ou depois de lhe haver reduzido, por qualquer outro meio, capacidade de resistência, a não fazer que a lei permite, ou a fazer o que ela não manda."
+    },
+    {
+      "id": "D",
+      "texto": "Provocar aborto em si mesma ou consentir que outrem lhe provoque."
+    },
+    {
+      "id": "E",
+      "texto": "Matar, sob a influência do estado puerperal, o próprio filho, durante o parto ou logo após."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>São considerados crimes contra a pessoa, EXCETO:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q040/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}

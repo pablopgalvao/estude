@@ -1,17 +1,6 @@
 {
-  "total": 81,
+  "total": 93,
   "items": [
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-044",
-      "title": "Conforme previsão constitucional, para que os cidadãos se reúnam pacificamente, sem armas, em locais abertos ao público, é necessário:",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
     {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-041",
       "title": "De acordo com a Constituição Federal Brasileira de 1988, a construção de uma sociedade livre, justa e solidária, e a",
@@ -24,8 +13,30 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-046",
-      "title": "Segundo o texto constitucional, as Guardas municipais serão constituídas pelos Municípios com o fim de:",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-042",
+      "title": "A Constituição Federal Brasileira de 1988 prevê que a casa é asilo inviolável do indivíduo. Porém, define expressamente algumas situações",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-044",
+      "title": "Conforme previsão constitucional, para que os cidadãos se reúnam pacificamente, sem armas, em locais abertos ao público, é necessário:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-043",
+      "title": "O crime de tortura é:",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -37,17 +48,6 @@
     {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-047",
       "title": "Conforme dispõe a Constituição Federal Brasileira de 1988, integram órgãos da segurança pública, EXCETO:",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-042",
-      "title": "A Constituição Federal Brasileira de 1988 prevê que a casa é asilo inviolável do indivíduo. Porém, define expressamente algumas situações",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -90,17 +90,6 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-055",
-      "title": "De acordo com o Estatuto Geral das Guardas Municipais (Lei Federal nº 13.022/2014), a cor preferencial para o uniforme e",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-051",
       "title": "Com relação à propriedade, a Declaração Universal dos Direitos do Homem de 1948 expressamente prevê que:",
       "materia": "Conhecimentos Específicos",
@@ -123,8 +112,19 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-054",
-      "title": "Considerando o que prevê o Estatuto Geral das Guardas municipais (Lei Federal nº 13.022/2014), é correto dizer que a Corregedoria",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-052",
+      "title": "Suponha que uma dupla de Guardas municipais esteja realizando uma ronda no entorno de uma escola pública municipal, de manhã",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-046",
+      "title": "Segundo o texto constitucional, as Guardas municipais serão constituídas pelos Municípios com o fim de:",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -145,28 +145,6 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-052",
-      "title": "Suponha que uma dupla de Guardas municipais esteja realizando uma ronda no entorno de uma escola pública municipal, de manhã",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-043",
-      "title": "O crime de tortura é:",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IBADE",
-      "prova": "concurso público guarda civil metropolitano 3ª classe",
-      "questao": ""
-    },
-    {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-056",
       "title": "Considerando o Sistema Único de Segurança Pública (Susp), implementado pela Lei Federal nº 13.675/2018, as Guardas municipais enquadram-se como:",
       "materia": "Conhecimentos Específicos",
@@ -178,8 +156,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-058",
-      "title": "Segundo a Lei Municipal nº 13.396/2002, a coordenação da política de segurança urbana do Município de São Paulo compete ao:",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-055",
+      "title": "De acordo com o Estatuto Geral das Guardas Municipais (Lei Federal nº 13.022/2014), a cor preferencial para o uniforme e",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -200,8 +178,19 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-060",
-      "title": "Segundo a Lei Municipal nº 16.239/2015, que dispõe sobre o Quadro Técnico dos Profissionais da Guarda Civil Metropolitana de São",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-054",
+      "title": "Considerando o que prevê o Estatuto Geral das Guardas municipais (Lei Federal nº 13.022/2014), é correto dizer que a Corregedoria",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-058",
+      "title": "Segundo a Lei Municipal nº 13.396/2002, a coordenação da política de segurança urbana do Município de São Paulo compete ao:",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -222,6 +211,17 @@
       "questao": ""
     },
     {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-guarda-civil-metropolitano-3a-classe-060",
+      "title": "Segundo a Lei Municipal nº 16.239/2015, que dispõe sobre o Quadro Técnico dos Profissionais da Guarda Civil Metropolitana de São",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IBADE",
+      "prova": "concurso público guarda civil metropolitano 3ª classe",
+      "questao": ""
+    },
+    {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-026",
       "title": "De acordo com a Lei de Abuso de autoridade, analise os itens a seguir. I - Constranger o preso ou",
       "materia": "Conhecimentos Específicos",
@@ -233,8 +233,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-027",
-      "title": "De acordo a Lei Federal 13.869/2019. Constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-030",
+      "title": "De acordo a Lei Federal 10.826/2003, o que significa a sigla Sinarm?",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -277,8 +277,19 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-030",
-      "title": "De acordo a Lei Federal 10.826/2003, o que significa a sigla Sinarm?",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-032",
+      "title": "De acordo com o Código Civil, em relação aos Bens Considerados em Si Mesmos, assinale a alternativa incorreta.",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-027",
+      "title": "De acordo a Lei Federal 13.869/2019. Constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -299,19 +310,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-032",
-      "title": "De acordo com o Código Civil, em relação aos Bens Considerados em Si Mesmos, assinale a alternativa incorreta.",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-035",
-      "title": "Paulo deseja adquirir autorização para compra de arma de fogo após declarar efetiva necessidade e atender a todos os requisitos",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-037",
+      "title": "Antônia, de 64 anos, deseja saber com qual periodicidade precisa renovar o exame de aptidão física e mental, conforme o",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -332,8 +332,30 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-037",
-      "title": "Antônia, de 64 anos, deseja saber com qual periodicidade precisa renovar o exame de aptidão física e mental, conforme o",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-040",
+      "title": "De acordo com o Estatuto Geral das Guardas Municipais, assinale a alternativa incorreta. São princípios mínimos de atuação das guardas",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-035",
+      "title": "Paulo deseja adquirir autorização para compra de arma de fogo após declarar efetiva necessidade e atender a todos os requisitos",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-041",
+      "title": "De acordo com a Constituição Federal, analise o trecho abaixo: “São direitos sociais_________ , a saúde, a alimentação, o trabalho,",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -354,6 +376,17 @@
       "questao": ""
     },
     {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-043",
+      "title": "De acordo a Lei Federal 10.826/2003, analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "questao": ""
+    },
+    {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-038",
       "title": "De acordo com o Código Penal, analise os itens a seguir. I – Considera-se roubo: Subtrair, para si ou para",
       "materia": "Conhecimentos Específicos",
@@ -365,8 +398,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-039",
-      "title": "De acordo com o Estatuto Geral das Guardas Municipais, analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-045",
+      "title": "De acordo com a Lei de Abuso de autoridade, assinale a alternativa que dispõe da pena correta para quem: “Invadir",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -387,52 +420,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-044",
-      "title": "Assinale a alternativa que completa respectivamente as lacunas: O certificado de registro de arma de fogo será expedido ____________ e",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-040",
-      "title": "De acordo com o Estatuto Geral das Guardas Municipais, assinale a alternativa incorreta. São princípios mínimos de atuação das guardas",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-046",
-      "title": "De acordo com o ECA, analise os itens abaixo: I - Considera-se criança, para os efeitos desta Lei, a pessoa",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-043",
-      "title": "De acordo a Lei Federal 10.826/2003, analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "AVANÇA SP",
-      "prova": "concurso público 02/2024",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-041",
-      "title": "De acordo com a Constituição Federal, analise o trecho abaixo: “São direitos sociais_________ , a saúde, a alimentação, o trabalho,",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-039",
+      "title": "De acordo com o Estatuto Geral das Guardas Municipais, analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -464,6 +453,17 @@
       "questao": ""
     },
     {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-044",
+      "title": "Assinale a alternativa que completa respectivamente as lacunas: O certificado de registro de arma de fogo será expedido ____________ e",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "AVANÇA SP",
+      "prova": "concurso público 02/2024",
+      "questao": ""
+    },
+    {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-049",
       "title": "De acordo com o Código Penal, qual é a penalidade para quem desacatar funcionário público no exercício da função ou",
       "materia": "Conhecimentos Específicos",
@@ -475,8 +475,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-045",
-      "title": "De acordo com a Lei de Abuso de autoridade, assinale a alternativa que dispõe da pena correta para quem: “Invadir",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-02-2024-046",
+      "title": "De acordo com o ECA, analise os itens abaixo: I - Considera-se criança, para os efeitos desta Lei, a pessoa",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -497,8 +497,228 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-031",
-      "title": ". A República Federativa do Brasil tem como um de seus fundamentos a cidadania, que está intimamente ligada aos direitos",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-063",
+      "title": "Sobre a tentativa, a desistência voluntária e o arrependimento eficaz, é correto afirmar que:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-062",
+      "title": "Consideradas as disposições do Código Penal, é correto afirmar que:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-061",
+      "title": "Acerca da causalidade, à luz do Código Penal, é correto afirmar que:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-064",
+      "title": "À luz das disposições trazidas pelo Código Penal a respeito do poder punitivo, é correto afirmar que:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-065",
+      "title": "Com base no Código Penal, é correto afirmar que:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-067",
+      "title": "Carlos, tomado por um ciúme doentio, motivador de constantes brigas com Débora, sua esposa, decidiu que a mataria. Certo dia,",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-066",
+      "title": "Ana, ex-mulher de Marcos, passou a residir na companhia de Pedro, seu novo companheiro. Enlouquecido de ciúmes, Marcos espalhou pela",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-069",
+      "title": "Cláudio e Augusto são gêmeos idênticos e, sendo o primeiro devidamente habilitado à direção de veículo automotor, cedeu ao irmão",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-070",
+      "title": "Lucas, 25 anos, inicia relacionamento amoroso com Caroline, sua vizinha, sabendo que a menina não havia sequer completado a idade",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-071",
+      "title": "De acordo com a Lei nº 13.022/2014 (Estatuto Geral das Guardas), as guardas municipais não poderão ter efetivo superior a:",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-068",
+      "title": "Ao perceber que a vizinha Maria esquecera a porta de sua casa aberta, Joana adentrou o imóvel, de lá subtraindo",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-074",
+      "title": "Respeitadas as competências dos órgãos federais e estaduais, há diversas competências específicas das guardas municipais. Por exemplo, a Lei nº",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-073",
+      "title": "Para garantir a gestão democrática da cidade, a Lei Orgânica do Município de Fortaleza prevê a utilização, entre outros, dos",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-072",
+      "title": "Por obrigação legal, a Agência Nacional de Telecomunicações (Anatel) tem que destinar faixa exclusiva de frequência de rádio aos Municípios",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-077",
+      "title": "Considerando o disposto na Lei Orgânica Municipal, assinale abaixo a única alternativa que não representa um símbolo oficial do Município",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-076",
+      "title": "Considere que Maria é guarda municipal; Paulo é analista tributário da Receita Federal do Brasil; Rita é agente do Departamento",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-078",
+      "title": "Francisco de Assis, guarda municipal, estava conduzindo uma viatura da Guarda Municipal para deslocamento não emergencial à Secretaria de Finanças",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-075",
+      "title": "A Lei nº 13.869/2019 definiu os crimes de abuso de autoridade, cometidos por agente público, servidor ou não, que, no",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-079",
+      "title": "Silvia foi exonerada após ter completado 03 (três) anos e 06 (seis) meses de exercício em cargo público municipal. Para",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-080",
+      "title": "No serviço público municipal, o servidor, cujo cônjuge ou companheiro tiver sido mandado servir, independentemente de solicitação, no estrangeiro, terá",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDECAN",
+      "prova": "concurso público 2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-032",
+      "title": ". Pode-se afirmar que um dos objetivos fundamentais da República Federativa do Brasil, previstos na Constituição da República Federativa do",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -530,30 +750,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-038",
-      "title": ". O condutor que estacionar o seu veículo nas esquinas a menos de cinco metros do bordo do alinhamento da",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDESG",
-      "prova": "concurso público 001/2023",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-032",
-      "title": ". Pode-se afirmar que um dos objetivos fundamentais da República Federativa do Brasil, previstos na Constituição da República Federativa do",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDESG",
-      "prova": "concurso público 001/2023",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-040",
-      "title": ". Com fulcro na Lei Nº 9.503, de 23 de setembro de 1997 que institui o Código de Trânsito Brasileiro,",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-031",
+      "title": ". A República Federativa do Brasil tem como um de seus fundamentos a cidadania, que está intimamente ligada aos direitos",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -574,8 +772,30 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-039",
-      "title": ". Os Equipamentos de Proteção Individual são dispositivos arquitetados para manter a saúde e integridade física do trabalhador, quando há",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-038",
+      "title": ". O condutor que estacionar o seu veículo nas esquinas a menos de cinco metros do bordo do alinhamento da",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDESG",
+      "prova": "concurso público 001/2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-037",
+      "title": ". Acerca das competências exclusivas dos Guardas Municipais, analisar as afirmações a seguir: I. Cabe aos guardas municipais zelar pelos",
+      "materia": "Conhecimentos Específicos",
+      "submateria": "Conhecimentos Específicos",
+      "dificuldade": "media",
+      "tags": [],
+      "bancaExaminadora": "IDESG",
+      "prova": "concurso público 001/2023",
+      "questao": ""
+    },
+    {
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-040",
+      "title": ". Com fulcro na Lei Nº 9.503, de 23 de setembro de 1997 que institui o Código de Trânsito Brasileiro,",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -596,8 +816,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-037",
-      "title": ". Acerca das competências exclusivas dos Guardas Municipais, analisar as afirmações a seguir: I. Cabe aos guardas municipais zelar pelos",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-001-2023-039",
+      "title": ". Os Equipamentos de Proteção Individual são dispositivos arquitetados para manter a saúde e integridade física do trabalhador, quando há",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -629,30 +849,8 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-050",
-      "title": "Nos termos da Lei complementar no 129 de 10 de fe- vereiro de 2005 (Cria a Corregedoria Geral da Guarda",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
       "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-044",
       "title": "Nos termos da Lei no 13.022, de 08 de agosto de 2014 (Estatuto Geral das Guardas Municipais), é correto afir-",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "VUNESP",
-      "prova": "concurso público 2022",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-039",
-      "title": "Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a conduta de impedir",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
@@ -673,223 +871,157 @@
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-061",
-      "title": "Acerca da causalidade, à luz do Código Penal, é correto afirmar que:",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-039",
+      "title": "Nos termos da Lei no 11.340 de 07 de agosto de 2006 (Lei “Maria da Penha”), a conduta de impedir",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-062",
-      "title": "Consideradas as disposições do Código Penal, é correto afirmar que:",
+      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2022-050",
+      "title": "Nos termos da Lei complementar no 129 de 10 de fe- vereiro de 2005 (Cria a Corregedoria Geral da Guarda",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "concurso público 2022",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-065",
-      "title": "Com base no Código Penal, é correto afirmar que:",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q026",
+      "title": "Nos termos da Constituição Federal, assinale a alterna- tiva correta.",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-066",
-      "title": "Ana, ex-mulher de Marcos, passou a residir na companhia de Pedro, seu novo companheiro. Enlouquecido de ciúmes, Marcos espalhou pela",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q032",
+      "title": "Nos termos do Código de Processo Penal, é correto afir- mar que",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-068",
-      "title": "Ao perceber que a vizinha Maria esquecera a porta de sua casa aberta, Joana adentrou o imóvel, de lá subtraindo",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q027",
+      "title": "Nos termos da Constituição Federal, incumbe a apuração das infrações penais contra a ordem política e social em detrimen",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-064",
-      "title": "À luz das disposições trazidas pelo Código Penal a respeito do poder punitivo, é correto afirmar que:",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q031",
+      "title": "Considere o seguinte caso hipotético: Artomis, utilizando- -se de grave ameaça, obriga Simotramis a adentrar seu veículo",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-063",
-      "title": "Sobre a tentativa, a desistência voluntária e o arrependimento eficaz, é correto afirmar que:",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q038",
+      "title": "Considere o seguinte caso hipotético: Astrômio foi sur- preendido pela Polícia Militar, portando arma de fogo, uso permi",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-067",
-      "title": "Carlos, tomado por um ciúme doentio, motivador de constantes brigas com Débora, sua esposa, decidiu que a mataria. Certo dia,",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q036",
+      "title": "Nos termos da Lei no 10.741, de 1o de outubro de 2003 (Estatuto do Idoso), é correto afirmar que ação penal nos crimes d",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-069",
-      "title": "Cláudio e Augusto são gêmeos idênticos e, sendo o primeiro devidamente habilitado à direção de veículo automotor, cedeu ao irmão",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q037",
+      "title": "Nos termos da Lei no 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), a autorização para o porte de arma de",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-073",
-      "title": "Para garantir a gestão democrática da cidade, a Lei Orgânica do Município de Fortaleza prevê a utilização, entre outros, dos",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q043",
+      "title": "Nos termos da Lei no 13.022, de 08 de agosto de 2014 (Estatuto Geral das Guardas Municipais), é correto afir- mar que",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-075",
-      "title": "A Lei nº 13.869/2019 definiu os crimes de abuso de autoridade, cometidos por agente público, servidor ou não, que, no",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q042",
+      "title": "Considere o seguinte caso hipotético: um Policial Militar, no dia 10 de janeiro de 2022, às 22 horas, cumprindo mandado",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-070",
-      "title": "Lucas, 25 anos, inicia relacionamento amoroso com Caroline, sua vizinha, sabendo que a menina não havia sequer completado a idade",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q047",
+      "title": "Nos termos da Lei complementar no 334 de 27 de dezem- bro de 2017 (Dispõe sobre a reorganização do quadro da Guarda Civi",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-072",
-      "title": "Por obrigação legal, a Agência Nacional de Telecomunicações (Anatel) tem que destinar faixa exclusiva de frequência de rádio aos Municípios",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q050",
+      "title": "Nos termos da Lei complementar no 129 de 10 de fe- vereiro de 2005 (Cria a Corregedoria Geral da Guarda Civil de Osasco,",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     },
     {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-071",
-      "title": "De acordo com a Lei nº 13.022/2014 (Estatuto Geral das Guardas), as guardas municipais não poderão ter efetivo superior a:",
+      "id": "vunesp-2022-prefeitura-de-osasco-sp-guarda-civil-municipal-3-classe-prova-q046",
+      "title": "Nos termos da Lei no 9.503, de 23 de setembro de 1997 (Institui o Código de Trânsito), assinale a alternativa que conten",
       "materia": "Conhecimentos Específicos",
       "submateria": "Conhecimentos Específicos",
       "dificuldade": "media",
       "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-076",
-      "title": "Considere que Maria é guarda municipal; Paulo é analista tributário da Receita Federal do Brasil; Rita é agente do Departamento",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-080",
-      "title": "No serviço público municipal, o servidor, cujo cônjuge ou companheiro tiver sido mandado servir, independentemente de solicitação, no estrangeiro, terá",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-078",
-      "title": "Francisco de Assis, guarda municipal, estava conduzindo uma viatura da Guarda Municipal para deslocamento não emergencial à Secretaria de Finanças",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-077",
-      "title": "Considerando o disposto na Lei Orgânica Municipal, assinale abaixo a única alternativa que não representa um símbolo oficial do Município",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-079",
-      "title": "Silvia foi exonerada após ter completado 03 (três) anos e 06 (seis) meses de exercício em cargo público municipal. Para",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
-      "questao": ""
-    },
-    {
-      "id": "q-conhecimentos-especificos-conhecimentos-especificos-concurso-publico-2023-074",
-      "title": "Respeitadas as competências dos órgãos federais e estaduais, há diversas competências específicas das guardas municipais. Por exemplo, a Lei nº",
-      "materia": "Conhecimentos Específicos",
-      "submateria": "Conhecimentos Específicos",
-      "dificuldade": "media",
-      "tags": [],
-      "bancaExaminadora": "IDECAN",
-      "prova": "concurso público 2023",
+      "bancaExaminadora": "VUNESP",
+      "prova": "Concurso público 2022 - Prefeitura de Osasco - Guarda Civil Municipal 3ª Classe",
       "questao": ""
     }
   ]

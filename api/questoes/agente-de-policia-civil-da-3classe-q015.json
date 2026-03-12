@@ -1,0 +1,105 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q015",
+  "title": "Com base na planilha eletrônica Microsoft Excel 2013, marque a alternativa CORRETA em relação às afirmativas abaixo. I –",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Somente a afirmativa I está correta."
+    },
+    {
+      "id": "B",
+      "texto": "Somente a afirmativa II está correta."
+    },
+    {
+      "id": "C",
+      "texto": "Somente as afirmativas I e III estão corretas. CONCURSO PÚBLICO – POLÍCIA CIVIL 2018 – AGENTE"
+    },
+    {
+      "id": "D",
+      "texto": "Todas as afirmativas estão corretas."
+    },
+    {
+      "id": "E",
+      "texto": "Somente as afirmativas I e II estão corretas. Com base nos navegadores de internet, marque a alternativa CORRETA em relação às afirmativas abaixo. I – O ícone de uma estrela que aparece do lado direito, no interior da linha de endereço dos navegadores Google Chrome e Mozilla Firefox, serve para adicionar a página corrente aos favoritos. II – Os navegadores Google Chrome e o Internet Explorer possuem opção para apagar o histórico de navegação, a qual faz com que as páginas visitadas sejam bloqueadas e não mais sejam acessíveis pelo usuário. III – No navegador Mozilla Firefox, a tecla de atalho Ctrl+H permite ao usuário pesquisar as páginas acessadas recentemente."
+    },
+    {
+      "id": "A",
+      "texto": "Somente as afirmativas I e III estão corretas."
+    },
+    {
+      "id": "B",
+      "texto": "Somente a afirmativa I está correta."
+    },
+    {
+      "id": "C",
+      "texto": "Somente a afirmativa II está correta."
+    },
+    {
+      "id": "D",
+      "texto": "Somente as afirmativas I e II estão corretas."
+    },
+    {
+      "id": "E",
+      "texto": "Todas as afirmativas estão corretas. Com relação aos conceitos sobre Intranet, Internet e os protocolos envolvidos nessas tecnologias, assinale a única alternativa INCORRETA."
+    },
+    {
+      "id": "A",
+      "texto": "O protocolo FTP permite realizar transferência de arquivos entre diferentes computadores."
+    },
+    {
+      "id": "B",
+      "texto": "HTTPS é um protocolo de comunicação seguro, utilizado para entregar mensagens de correio eletrônico na Internet."
+    },
+    {
+      "id": "C",
+      "texto": "A Intranet é uma rede de computadores privada dentro de uma organização."
+    },
+    {
+      "id": "D",
+      "texto": "O padrão TCP/IP é um conjunto de protocolos de comunicação utilizados na Internet."
+    },
+    {
+      "id": "E",
+      "texto": "O protocolo IP é responsável por endereçar e encaminhar pacotes que trafegam pela rede mundial de computadores. Sobre os conceitos de vírus, worms, malwares, pragas virtuais e aplicativos para segurança, assinale a única alternativa INCORRETA."
+    },
+    {
+      "id": "A",
+      "texto": "Um software antivírus é um aplicativo de segurança responsável por prevenir, detectar e remover programas maliciosos."
+    },
+    {
+      "id": "B",
+      "texto": "Malware é um programa de computador projetado para executar ações danosas e atividades maliciosas em um computador. POLÍCIA CIVIL DE 3ª CLASSE – PROVA TIPO “A”"
+    },
+    {
+      "id": "C",
+      "texto": "O firewall é um sistema de segurança que permite a transformação reversível da informação de forma a torná-la inelegível terceiros."
+    },
+    {
+      "id": "D",
+      "texto": "Vírus é um programa ou parte de um programa de computador, normalmente malicioso, que se propaga inserindo cópias de si mesmo e se tornando parte de outros programas e arquivos."
+    },
+    {
+      "id": "E",
+      "texto": "Worm é um programa capaz de se propagar automaticamente pelas redes, enviando cópias de si mesmo de computador para computador. Diferente do vírus, o worm não embute cópias de si mesmo em outros programas ou arquivos. NOÇÕES DE LÓGICA"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Com base na planilha eletrônica Microsoft Excel 2013, marque a alternativa CORRETA em relação às afirmativas abaixo. I – Para mesclar células adjacentes centralizar o conteúdo, seleciona-se uma ou mais células adjacentes não mescladas, clica na guia PÁGINA INICIAL, grupo Alinhamento e botão Mesclar Centralizar. II – No grupo Configurar Página da guia LAYOUT DA PÁGINA, existem opções que permitem ajustar margens, alterar orientação de página e escolher tamanho da página. III – No grupo Alinhamento da guia PÁGINA INICIAL, existem as opções: Alinhar Esquerda, Centralizar, Alinhar à Direita Justificar.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q015/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}

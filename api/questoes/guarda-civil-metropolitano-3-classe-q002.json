@@ -1,0 +1,45 @@
+{
+  "id": "guarda-civil-metropolitano-3-classe-q002",
+  "title": "Todas as frases abaixo mostram siglas bastante conhecidas; entre elas, aquela que foi formada por critérios diferente da",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Língua Portuguesa",
+  "submateria": "Língua Portuguesa",
+  "categorias": [
+    "Língua Portuguesa",
+    "Língua Portuguesa"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "O FGTS pode ser sacado em momentos de crise."
+    },
+    {
+      "id": "B",
+      "texto": "A SABESP possui um portal imenso."
+    },
+    {
+      "id": "C",
+      "texto": "No passado, o BNDES foi mal avaliado."
+    },
+    {
+      "id": "D",
+      "texto": "O SAMU presta um serviço essencial."
+    },
+    {
+      "id": "E",
+      "texto": "A apresentação da declaração do IR foi adiada."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IBADE",
+  "prova": "Guarda Civil Metropolitano - 3ª Classe 2022",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Todas as frases abaixo mostram siglas bastante conhecidas; entre elas, aquela que foi formada por critérios diferente das demais é:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda_civil_metropolitano_3_classe/guarda-civil-metropolitano-3-classe-q002/",
+  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+}

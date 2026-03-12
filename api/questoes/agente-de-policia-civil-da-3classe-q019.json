@@ -1,0 +1,45 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q019",
+  "title": "Participaram das Olimpíadas Estudantis de 2017, com duração de 2 semanas, cinco estudantes: Maria, Elisa, Paula, Aline V",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Pernambuco."
+    },
+    {
+      "id": "B",
+      "texto": "Paraná."
+    },
+    {
+      "id": "C",
+      "texto": "Ceará."
+    },
+    {
+      "id": "D",
+      "texto": "Maranhão."
+    },
+    {
+      "id": "E",
+      "texto": "Alagoas."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Participaram das Olimpíadas Estudantis de 2017, com duração de 2 semanas, cinco estudantes: Maria, Elisa, Paula, Aline Vanessa. Cada uma vem de um lugar diferente: Pernambuco, Ceará, Paraná, Alagoas Maranhão. Além disso, sabemos as seguintes informações:  Maria e a estudante de Alagoas compartilharam o mesmo quarto.  Maria nunca estudou em Pernambuco ou no Paraná.  Vanessa é do Maranhão.  Em uma partida de futebol que foi realizada entre as semanas, Paula jogou no mesmo time que a estudante de Pernambuco, enquanto que a estudante de Alagoas jogou na equipe oposta.  A estudante de Pernambuco e a Aline jogaram xadrez. De qual lugar é Aline?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q019/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}

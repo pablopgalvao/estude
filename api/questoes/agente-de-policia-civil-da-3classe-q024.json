@@ -1,0 +1,45 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q024",
+  "title": "João, Felipe, Ana, Carla e Eduardo são cinco amigos que moram com seus avós viúvos: Antônio, Juvenal, Lucas, José e Mari",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "João é neto de Juvenal e Ana mora em Altos."
+    },
+    {
+      "id": "B",
+      "texto": "Antônio mora em Campo Maior e Felipe em Parnaíba."
+    },
+    {
+      "id": "C",
+      "texto": "João mora em Parnaíba e Carla mora em Timon."
+    },
+    {
+      "id": "D",
+      "texto": "José é neto de João e Antônio é avô de Eduardo."
+    },
+    {
+      "id": "E",
+      "texto": "Eduardo mora em Teresina e José mora em Parnaíba."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>João, Felipe, Ana, Carla e Eduardo são cinco amigos que moram com seus avós viúvos: Antônio, Juvenal, Lucas, José e Maria, nas cidades de Teresina, Altos, Campo Maior, Timon e Parnaíba, não necessariamente nesta ordem. Além disso, sabe-se que:  Felipe não é neto de Antônio, Ana mora em Altos com sua avó e João não mora em Campo Maior.  Quem mora em Teresina é neto de Juvenal, e quem mora em Campo Maior é neto de Antônio.  Carla nunca foi em Parnaíba, mas conhece Teresina. Além disso, João não mora em Teresina. CONCURSO PÚBLICO – POLÍCIA CIVIL 2018 – AGENTE  Por fim, a neta de Lucas toca violão e tem amigos em Campo Maior e Teresina. Pode-se afirmar, com certeza, baseado nas informações acima, que:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q024/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}

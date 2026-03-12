@@ -1,0 +1,45 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q014",
+  "title": "Com base no editor de texto Microsoft Word 2013, marque a alternativa CORRETA em relação às afirmativas abaixo. I – Os c",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Somente a afirmativa II está correta."
+    },
+    {
+      "id": "B",
+      "texto": "Somente a afirmativa III está correta."
+    },
+    {
+      "id": "C",
+      "texto": "Somente as afirmativas I e II estão corretas."
+    },
+    {
+      "id": "D",
+      "texto": "Somente a afirmativa I está correta."
+    },
+    {
+      "id": "E",
+      "texto": "Todas as afirmativas estão corretas."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Com base no editor de texto Microsoft Word 2013, marque a alternativa CORRETA em relação às afirmativas abaixo. I – Os comandos Localizar e Substituir podem ser acessados, respectivamente, pelas teclas de atalho Ctrl+L e Ctrl+U. II – Para inserir um cabeçalho em um texto deve-se executar os seguintes passos: guia LAYOUT DA PÁGINA, grupo Cabeçalho e Rodapé e botão Cabeçalho. III – Para adicionar uma página em branco no documento deve-se executar os seguintes passos: guia EXIBIÇÃO, grupo Páginas botão Página em Branco.</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q014/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}

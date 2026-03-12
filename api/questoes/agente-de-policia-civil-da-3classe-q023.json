@@ -1,0 +1,45 @@
+{
+  "id": "agente-de-policia-civil-da-3classe-q023",
+  "title": "Uma empresa sorteia entre seus vários funcionários 7 viagens, com translado hospedagem. Para facilitar, o sorteio realiz",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "AAA, A1A e 1A1."
+    },
+    {
+      "id": "B",
+      "texto": "A11, 1AA e 111."
+    },
+    {
+      "id": "C",
+      "texto": "A1A, 1AA e 111."
+    },
+    {
+      "id": "D",
+      "texto": "A1A, AA1 e A11."
+    },
+    {
+      "id": "E",
+      "texto": "1AA, 1A1 e A11."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "NUCEPE",
+  "prova": "Polícia Civil 2018 - Agente de Polícia Civil de 3ª Classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Uma empresa sorteia entre seus vários funcionários 7 viagens, com translado hospedagem. Para facilitar, o sorteio realizado considerando o número da matrícula de cada funcionário. Foram sorteados os funcionários com respectivas numerações de matrícula: AA1, A1A, 1AA, 1A1, AAA, 111 A11. Para melhor organização da viagem, necessário separar os sete ganhadores em três grupos distintos, da seguinte maneira:  AAA deve estar no mesmo grupo do funcionário AA1, mas não deve estar no grupo do funcionário 1A1;  A1A não deve estar no grupo de 1AA, nem deve estar no grupo de 1A1;  AA1 e A11 devem estar em grupos distintos;  1AA não deve estar no grupo de 1A1, nem deve estar no grupo de A1A;  Cada grupo possui no máximo 3 pessoas;  1A1 não deve estar no grupo de AA1, também não deve estar no grupo de A11;  111 não deve estar no grupo de AAA, também não deve estar no grupo do funcionário 1A1;  A11 não deve estar no grupo do funcionário AAA, e não deve estar no grupo do funcionário A1A. Podemos afirmar, com certeza, que estão no mesmo grupo os funcionários de matrículas:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/agente_de_policia_civil_da_3classe/agente-de-policia-civil-da-3classe-q023/",
+  "fontePdf": "agente_de_policia_civil_da_3classe.pdf"
+}
