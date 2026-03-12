@@ -1,0 +1,41 @@
+{
+  "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-022",
+  "title": "No que se refere aos sistemas operacionais Windows e Linux, dois componentes são caraterizados a seguir. I. Há um programa",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "bios e kernel"
+    },
+    {
+      "id": "B",
+      "texto": "kernel e swap"
+    },
+    {
+      "id": "C",
+      "texto": "swap e setup"
+    },
+    {
+      "id": "D",
+      "texto": "setup e bios"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDECAN",
+  "prova": "concurso público 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>No que se refere aos sistemas operacionais Windows e Linux, dois componentes são caraterizados a seguir. I. Há um programa que é o firmware responsável pela execução de tarefas imprescindíveis, como o reconhecimento dos hardwares instalados, a verificação das horas no relógio interno e a inicialização do sistema operacional. II. Há um componente que representa o núcleo entre o hardware de um computador e seus processos, estabelecendo a comunicação e gerenciando recursos com a maior eficiência possível. Os componentes em I e II são denominados, respectivamente:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-022/",
+  "fontePdf": "idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-001-2023-017",
+  "title": ". Carlos desenhou um quadro em formato retangular. Sobre esse quadro, fez 6 linhas paralela, gerando 7 regiões neste quadro,",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "926736."
+    },
+    {
+      "id": "B",
+      "texto": "934248."
+    },
+    {
+      "id": "C",
+      "texto": "941192."
+    },
+    {
+      "id": "D",
+      "texto": "956212."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDESG",
+  "prova": "concurso público 001/2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Carlos desenhou um quadro em formato retangular. Sobre esse quadro, fez 6 linhas paralela, gerando 7 regiões neste quadro, conforme mostrado a seguir. Ele pretende pintar esse quadro, de forma que regiões adjacentes não sejam preenchidas com tintas de mesma cor. Dispondo de 8 cores diferentes de tinta, de quantas formas diferentes ele pode realizar esta tarefa?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-matematica-matematica-concurso-publico-001-2023-017/",
+  "fontePdf": "idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-033",
+  "title": "João é um agente da guarda metropolitana de São Paulo e encontra-se trabalhando fora da rede local com seu notebook",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "área de transferência."
+    },
+    {
+      "id": "B",
+      "texto": "editor de vídeo."
+    },
+    {
+      "id": "C",
+      "texto": "mapeamento."
+    },
+    {
+      "id": "D",
+      "texto": "backup e restauração."
+    },
+    {
+      "id": "E",
+      "texto": "compartilhamento."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IBADE",
+  "prova": "concurso público guarda civil metropolitano 3ª classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>João é um agente da guarda metropolitana de São Paulo e encontra-se trabalhando fora da rede local com seu notebook instalado com o Windows 7 na configuração padrão, quando visualiza na rua uma manifestação. Ele deseja enviar a foto capturada pela câmera do seu notebook para o seu chefe. Neste caso, após visualizar a foto tirada com a câmera, João digita a tecla PRINT SCREEN, abre o aplicativo Paint e digita a tecla CTRL junto com a tecla V. Em seguida ele salva o arquivo com o formato BMP e envia por e-mail ao seu chefe. Quando João executou os comandos supracitados, o Windows 7 utilizou o recurso:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-metropolitano-3-classe/q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-033/",
+  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+}

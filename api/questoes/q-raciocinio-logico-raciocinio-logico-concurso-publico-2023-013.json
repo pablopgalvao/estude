@@ -1,0 +1,41 @@
+{
+  "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-013",
+  "title": "Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes, sentaram-se em torno de uma mesa quadrangular, ocupando, cada",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Raciocínio Lógico",
+  "submateria": "Raciocínio Lógico",
+  "categorias": [
+    "Raciocínio Lógico",
+    "Raciocínio Lógico"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Beatriz é holandesa e Daniela é portuguesa."
+    },
+    {
+      "id": "B",
+      "texto": "Camila é portuguesa e Daniela é inglesa."
+    },
+    {
+      "id": "C",
+      "texto": "Beatriz é portuguesa e Daniela é holandesa."
+    },
+    {
+      "id": "D",
+      "texto": "Camila é inglesa e Daniela é portuguesa."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDECAN",
+  "prova": "concurso público 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Em uma viagem pela Europa, quatro mulheres, todas de nacionalidades diferentes, sentaram-se em torno de uma mesa quadrangular, ocupando, cada uma delas, um dos lados desta mesa. Entre elas, há uma irlandesa, uma portuguesa, uma holandesa e uma inglesa. Aline, a mais velha entre elas, é irlandesa. Beatriz está sentada à esquerda da irlandesa e Camila à esquerda da holandesa. Sabe-se, ainda, que Daniela não é portuguesa e está sentada à frente de Beatriz. Sendo assim, pode-se concluir que:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-013/",
+  "fontePdf": "idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf"
+}

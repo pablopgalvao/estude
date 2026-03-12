@@ -1,0 +1,41 @@
+{
+  "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-023",
+  "title": "A planilha da figura abaixo foi criada no software Calc da suíte LibreOffice 7.3.22 (x64) em português, tendo sido realizados",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "3 e NORDESTE"
+    },
+    {
+      "id": "B",
+      "texto": "2 e NORDESTE"
+    },
+    {
+      "id": "C",
+      "texto": "3 e SUDESTE"
+    },
+    {
+      "id": "D",
+      "texto": "2 e SUDESTE GUARDA MUNICIPAL – TIPO A"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDECAN",
+  "prova": "concurso público 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>A planilha da figura abaixo foi criada no software Calc da suíte LibreOffice 7.3.22 (x64) em português, tendo sido realizados os procedimentos descritos a seguir. I. Em A4 foi inserida a expressão &#x3D;MOD(MAIOR(A2:D2;3);5). II. Em D4 foi inserida a expressão &#x3D;SE(A4&lt;&#x3D;2;”NORDESTE”;”SUDESTE”) Nessas condições, os conteúdos mostrados em A4 e D4 são, respectivamente:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-2023-023/",
+  "fontePdf": "idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf"
+}

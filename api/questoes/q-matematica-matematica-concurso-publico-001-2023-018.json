@@ -1,0 +1,41 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-001-2023-018",
+  "title": ". Em um grupo de 6 amigos, cada um deles torce para um time diferente. Eles receberam uma caixa fechada",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "79,3%."
+    },
+    {
+      "id": "B",
+      "texto": "81,6%."
+    },
+    {
+      "id": "C",
+      "texto": "86,6%."
+    },
+    {
+      "id": "D",
+      "texto": "83,3%."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDESG",
+  "prova": "concurso público 001/2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Em um grupo de 6 amigos, cada um deles torce para um time diferente. Eles receberam uma caixa fechada com 6 camisas dentro, sendo uma camisa de cada um dos 6 times. Os amigos retiraram, aleatoriamente e sem reposição, uma das camisas da caixa. Após todos os amigos terem escolhidos suas camisas, um dos amigos foi sorteado ao acaso. Qual a probabilidade (aproximadamente) do amigo sorteado não ter recebido a camisa do seu time torcedor?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-matematica-matematica-concurso-publico-001-2023-018/",
+  "fontePdf": "idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

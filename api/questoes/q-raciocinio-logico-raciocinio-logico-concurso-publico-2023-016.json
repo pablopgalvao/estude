@@ -1,0 +1,41 @@
+{
+  "id": "q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-016",
+  "title": "Huguinho, Zezinho e Luisinho haviam combinado de se encontrar em frente à prefeitura da cidade às 16 horas para andar",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Raciocínio Lógico",
+  "submateria": "Raciocínio Lógico",
+  "categorias": [
+    "Raciocínio Lógico",
+    "Raciocínio Lógico"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Luisinho chegou às 16h10min."
+    },
+    {
+      "id": "B",
+      "texto": "Huguinho chegou às 16h20min."
+    },
+    {
+      "id": "C",
+      "texto": "Luisinho chegou às 16h20min."
+    },
+    {
+      "id": "D",
+      "texto": "Huguinho chegou às 16h25min."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDECAN",
+  "prova": "concurso público 2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Huguinho, Zezinho e Luisinho haviam combinado de se encontrar em frente à prefeitura da cidade às 16 horas para andar de bicicleta no parque. Zezinho, que chegou 10 minutos antes do horário marcado, teve que esperar por 25 minutos até a chegada de Huguinho. Huguinho, por sua vez, chegou 5 minutos depois de Luisinho. Sendo assim, pode-se concluir que:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova/q-raciocinio-logico-raciocinio-logico-concurso-publico-2023-016/",
+  "fontePdf": "idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf"
+}

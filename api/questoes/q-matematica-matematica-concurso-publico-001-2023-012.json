@@ -1,0 +1,41 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-001-2023-012",
+  "title": ". O professor Roberto escreveu no quadro as duas equações a seguir: Equação 1: 𝒎𝟐−𝟕𝒎+ 𝟐𝒏= 𝟎 Equação 2: 𝒎𝟐−𝟓𝒎+",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "É um número primo."
+    },
+    {
+      "id": "B",
+      "texto": "É múltiplo de 3 e 4."
+    },
+    {
+      "id": "C",
+      "texto": "É um quadrado perfeito."
+    },
+    {
+      "id": "D",
+      "texto": "É um número múltiplo de 3."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDESG",
+  "prova": "concurso público 001/2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. O professor Roberto escreveu no quadro as duas equações a seguir: Equação 1: 𝒎𝟐−𝟕𝒎+ 𝟐𝒏&#x3D; 𝟎 Equação 2: 𝒎𝟐−𝟓𝒎+ 𝒏&#x3D; 𝟎 Sobre essas equações, ele deu as seguintes informações: “𝒏≠𝟎 e uma das raízes da primeira equação é metade de uma das raízes da segunda”. Sobre o valor de 𝒏 podemos afirmar que:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-matematica-matematica-concurso-publico-001-2023-012/",
+  "fontePdf": "idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

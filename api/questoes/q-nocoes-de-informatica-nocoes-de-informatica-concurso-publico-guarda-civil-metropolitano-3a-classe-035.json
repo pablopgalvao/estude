@@ -1,0 +1,45 @@
+{
+  "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-035",
+  "title": "Dilma está trabalhando em um relatório da Guarda Metropolitana de São Paulo e utilizou os cabeçalhos e rodapés. Em determinado",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "estrutura de tópicos."
+    },
+    {
+      "id": "B",
+      "texto": "layout da web."
+    },
+    {
+      "id": "C",
+      "texto": "leitura em tela inteira."
+    },
+    {
+      "id": "D",
+      "texto": "rascunho."
+    },
+    {
+      "id": "E",
+      "texto": "layout de impressão."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IBADE",
+  "prova": "concurso público guarda civil metropolitano 3ª classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Dilma está trabalhando em um relatório da Guarda Metropolitana de São Paulo e utilizou os cabeçalhos e rodapés. Em determinado momento Dilma deseja explorar o documento em um modo de exibição que permita visualizar o cabeçalho e o rodapé. Neste caso o modo que ela precisa acionar é:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-metropolitano-3-classe/q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-035/",
+  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+}

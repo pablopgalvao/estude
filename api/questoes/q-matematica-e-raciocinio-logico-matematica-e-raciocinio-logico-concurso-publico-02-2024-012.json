@@ -1,0 +1,45 @@
+{
+  "id": "q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-012",
+  "title": "A média aritmética simples das idades dos 10 alunos de uma turma é 25 anos. Se excluirmos o mais velho",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Matemática e Raciocínio Lógico",
+  "submateria": "Matemática e Raciocínio Lógico",
+  "categorias": [
+    "Matemática e Raciocínio Lógico",
+    "Matemática e Raciocínio Lógico"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "12 anos."
+    },
+    {
+      "id": "B",
+      "texto": "10 anos."
+    },
+    {
+      "id": "C",
+      "texto": "15 anos."
+    },
+    {
+      "id": "D",
+      "texto": "20 anos."
+    },
+    {
+      "id": "E",
+      "texto": "18 anos."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "AVANÇA SP",
+  "prova": "concurso público 02/2024",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>A média aritmética simples das idades dos 10 alunos de uma turma é 25 anos. Se excluirmos o mais velho e o mais novo da turma, a nova média continua sendo 25 anos. Sabendo-se que a diferença entre as idades do mais velho e do mais novo é 10 anos, qual a idade do mais novo?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-municipal-3-classe-feminino/q-matematica-e-raciocinio-logico-matematica-e-raciocinio-logico-concurso-publico-02-2024-012/",
+  "fontePdf": "guarda_civil_municipal_3_classe_feminino.pdf"
+}

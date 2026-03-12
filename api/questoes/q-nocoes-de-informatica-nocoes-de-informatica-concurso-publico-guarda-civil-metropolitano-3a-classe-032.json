@@ -1,0 +1,45 @@
+{
+  "id": "q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-032",
+  "title": "Karina está utilizando o Windows 7 e deseja renomear um arquivo existente em uma pasta no seu computador. Neste caso,",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Noções de Informática",
+  "submateria": "Noções de Informática",
+  "categorias": [
+    "Noções de Informática",
+    "Noções de Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "acessar o monitor de recursos, escolher a pasta onde está o arquivo e clicar em renomear."
+    },
+    {
+      "id": "B",
+      "texto": "acionar o botão organizar, clicar em renomear, digitar o novo nome e confirmar pressionando a tecla enter."
+    },
+    {
+      "id": "C",
+      "texto": "clicar com o botão esquerdo no arquivo, em seguida no menu de contexto aberto clicar em renomear."
+    },
+    {
+      "id": "D",
+      "texto": "acionar o botão organizar e clicar em informações e com o botão direito do mouse, clicar em renomear."
+    },
+    {
+      "id": "E",
+      "texto": "acionar a tecla F4 no teclado e digitar o novo nome."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IBADE",
+  "prova": "concurso público guarda civil metropolitano 3ª classe",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>Karina está utilizando o Windows 7 e deseja renomear um arquivo existente em uma pasta no seu computador. Neste caso, após ter selecionado o arquivo, a Karina deve:</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/guarda-civil-metropolitano-3-classe/q-nocoes-de-informatica-nocoes-de-informatica-concurso-publico-guarda-civil-metropolitano-3a-classe-032/",
+  "fontePdf": "guarda_civil_metropolitano_3_classe.pdf"
+}

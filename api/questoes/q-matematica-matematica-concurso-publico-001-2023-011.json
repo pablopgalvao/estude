@@ -1,0 +1,41 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-001-2023-011",
+  "title": ". Um renomado matemático, conhecido por suas pesquisas em padrões numéricos, descobriu uma sequência especial durante suas investigações: (2, 6,",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "5700."
+    },
+    {
+      "id": "B",
+      "texto": "5550."
+    },
+    {
+      "id": "C",
+      "texto": "5625."
+    },
+    {
+      "id": "D",
+      "texto": "5476. PREFEITURA MUNICIPAL DE VARRE-SAI/RJ Concurso Público nº 001/2023 Edital nº 001/2023"
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDESG",
+  "prova": "concurso público 001/2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Um renomado matemático, conhecido por suas pesquisas em padrões numéricos, descobriu uma sequência especial durante suas investigações: (2, 6, 12, 20, 30, …) Suponha que cada termo da sequência represente o número de bactérias em uma cultura a cada dia de observação (no dia 1 tinham 2 bactérias, no dia 2 tinham 6, no dia 3 tinham 12, e assim por diante). Seguindo esse mesmo padrão durante todos os dias de observação, quantas bactérias foram observadas no 74º dia?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-matematica-matematica-concurso-publico-001-2023-011/",
+  "fontePdf": "idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

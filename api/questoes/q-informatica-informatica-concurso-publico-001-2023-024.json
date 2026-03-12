@@ -1,0 +1,41 @@
+{
+  "id": "q-informatica-informatica-concurso-publico-001-2023-024",
+  "title": ". Em uma planilha de inventário, você deseja aplicar uma formatação que destaque automaticamente os produtos que estão com estoque",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Informática",
+  "submateria": "Informática",
+  "categorias": [
+    "Informática",
+    "Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "Filtro."
+    },
+    {
+      "id": "B",
+      "texto": "Tabela Dinâmica."
+    },
+    {
+      "id": "C",
+      "texto": "Formatação Condicional."
+    },
+    {
+      "id": "D",
+      "texto": "Estilos de Célula."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDESG",
+  "prova": "concurso público 001/2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Em uma planilha de inventário, você deseja aplicar uma formatação que destaque automaticamente os produtos que estão com estoque abaixo de um determinado valor. Qual recurso do Excel 2016 (Pt-Br) você utilizaria para essa tarefa?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-informatica-informatica-concurso-publico-001-2023-024/",
+  "fontePdf": "idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

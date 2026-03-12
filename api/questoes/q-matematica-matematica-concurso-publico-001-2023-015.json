@@ -1,0 +1,41 @@
+{
+  "id": "q-matematica-matematica-concurso-publico-001-2023-015",
+  "title": ". Uma famosa série de livros é formada por 14 volumes, que serão vendidos em dois diferentes boxes, um com",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Matemática",
+  "submateria": "Matemática",
+  "categorias": [
+    "Matemática",
+    "Matemática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "7,14%."
+    },
+    {
+      "id": "B",
+      "texto": "16,67%."
+    },
+    {
+      "id": "C",
+      "texto": "8,33%."
+    },
+    {
+      "id": "D",
+      "texto": "14,29%."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDESG",
+  "prova": "concurso público 001/2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Uma famosa série de livros é formada por 14 volumes, que serão vendidos em dois diferentes boxes, um com os 7 primeiros volumes, e outro com os outros 7. Um jovem foi à livraria comprar o box com os primeiros 7 volumes. Havia uma promoção para a compra desse box: o cliente ganharia um dos volumes do outro box, aleatoriamente. Se esse jovem queria o primeiro volume do segundo box de brinde, qual a probabilidade aproximada dele conseguir ganhar esse volume específico?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-matematica-matematica-concurso-publico-001-2023-015/",
+  "fontePdf": "idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}

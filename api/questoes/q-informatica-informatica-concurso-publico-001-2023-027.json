@@ -1,0 +1,41 @@
+{
+  "id": "q-informatica-informatica-concurso-publico-001-2023-027",
+  "title": ". Qual é a diferença entre os campos “Para” e “CC” em um e-mail?",
+  "images": [],
+  "date": "2026-03-12",
+  "dificuldade": "media",
+  "materia": "Informática",
+  "submateria": "Informática",
+  "categorias": [
+    "Informática",
+    "Informática"
+  ],
+  "tags": [],
+  "questao": "",
+  "alternativas": [
+    {
+      "id": "A",
+      "texto": "“CC” é usado para destinatários principais, enquanto “Para” é para cópias adicionais."
+    },
+    {
+      "id": "B",
+      "texto": "“Para” é exclusivamente para cópias ocultas."
+    },
+    {
+      "id": "C",
+      "texto": "“Para” é usado para destinatários principais, enquanto “CC” é para cópias adicionais."
+    },
+    {
+      "id": "D",
+      "texto": "Não há diferença; ambos servem para listar os destinatários principais."
+    }
+  ],
+  "gabarito": "",
+  "bancaExaminadora": "IDESG",
+  "prova": "concurso público 001/2023",
+  "explicacao": "",
+  "comentarios": [],
+  "conteudo": "<h2 id=\"Enunciado\"><a href=\"#Enunciado\" class=\"headerlink\" title=\"Enunciado\"></a>Enunciado</h2><p>. Qual é a diferença entre os campos “Para” e “CC” em um e-mail?</p>\n",
+  "url": "https://pablopgalvao.github.io/2026/03/12/questoes/idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova/q-informatica-informatica-concurso-publico-001-2023-027/",
+  "fontePdf": "idesg-2024-prefeitura-de-varre-sai-rj-guarda-municipal-prova.pdf"
+}
